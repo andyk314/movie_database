@@ -1,0 +1,17 @@
+<%= form_tag actors_path, :method => 'get' do %>
+  <p>
+    <%= text_field_tag :search, params[:search] %>
+    <%= submit_tag "Search", :name => nil %>
+  </p>
+<% end %>
+<ul>
+  <% @actors.each do |actor| %>
+  <li>Name: <%= actor.name %></li>
+    <ul><% actor.movies.each do |movie| %>
+      <li>Title: <%= movie.title %></li>
+      <li>$<%= number_with_delimiter(movie.revenue) %></li>
+      <li>Release Date: <%= movie.release_date.to_date %></li>
+        <% end %></ul>
+  <% end %></ul>
+
+
