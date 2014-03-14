@@ -1,0 +1,12 @@
+<ul>
+  <% @actors.each do |actor| %>
+  <li>Name: <%= actor.name %></li>
+  <li><img src="http://image.tmdb.org/t/p/original<%=actor.picture%>" height="100px" width="75px"></li>
+    <ul class="commentlist" ><% actor.movies.each do |movie| %>
+      <li>Title: <%= movie.title %></li>
+      <li>$<%= number_with_delimiter(movie.revenue) %></li>
+      <li>Release Date: <%= movie.release_date.to_date %></li>
+        <% end %></ul>
+  <% end %></ul>
+
+

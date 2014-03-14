@@ -1,17 +1,31 @@
-<%= form_tag actors_path, :method => 'get' do %>
-  <p>
-    <%= text_field_tag :search, params[:search] %>
-    <%= submit_tag "Search", :name => nil %>
-  </p>
-<% end %>
-<ul>
-  <% @actors.each do |actor| %>
-  <li>Name: <%= actor.name %></li>
-    <ul><% actor.movies.each do |movie| %>
-      <li>Title: <%= movie.title %></li>
-      <li>$<%= number_with_delimiter(movie.revenue) %></li>
-      <li>Release Date: <%= movie.release_date.to_date %></li>
-        <% end %></ul>
-  <% end %></ul>
+<div id="actorbox">
+  
+  <%= render 'actorlist' %>
 
+</div>
 
+<div id="actortest"></div>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+    $("#filter").keyup(function(){
+ 
+        // Retrieve the input field text and reset the count to zero
+        var filter = $(this).val(), count = 0;
+ 
+        // Loop through the comment list
+        $(".commentlist li").each(function(){
+ 
+            // If the list item does not contain the text phrase fade it out
+            if ($(this).text().search(new RegExp(filter, "i")) < 0) {
+                $(this).fadeOut();
+ 
+            // Show the list item if the phrase matches and increase the count by 1
+            } else {
+                $(this).show();
+            }
+        });
+    });
+});
+</script>

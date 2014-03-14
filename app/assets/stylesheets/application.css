@@ -11,3 +11,10 @@
  *= require_self
  *= require_tree .
  */
+
+#searchbar {
+  width: 250px;
+  margin: 0 auto;
+}
+
+@import "bootstrap";
