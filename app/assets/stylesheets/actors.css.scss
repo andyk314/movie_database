@@ -8,4 +8,24 @@
   margin: 0 auto;
 }
 
+/*.actorimage {
+   height: 100px; 
+   width: 75px;
+}*/
+.thumbnail {
+  text-align: center;
+  float:left;
+  width: 300px;
+}
+
+.actormain {
+  text-align: center;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.actorpic {
+  height: 150px;
+  width: 120px;
+}
 @import "bootstrap";

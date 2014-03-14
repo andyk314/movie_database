@@ -1,12 +1,41 @@
-<ul>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-12 col-md-12 commentlist">
   <% @actors.each do |actor| %>
-  <li>Name: <%= actor.name %></li>
-  <li><img src="http://image.tmdb.org/t/p/original<%=actor.picture%>" height="100px" width="75px"></li>
-    <ul class="commentlist" ><% actor.movies.each do |movie| %>
-      <li>Title: <%= movie.title %></li>
-      <li>$<%= number_with_delimiter(movie.revenue) %></li>
-      <li>Release Date: <%= movie.release_date.to_date %></li>
-        <% end %></ul>
-  <% end %></ul>
+      <div class="thumbnail actormain">
+
+        <img class="actorpic" src="http://image.tmdb.org/t/p/original<%=actor.picture%>">
+      <div class="caption">
+        <h3><%= actor.name %></h3>
+
+        <p>what you have to ask yourself is, do i feel lucky. well do ya' punk?</p>
+      </div> 
+    </div>
+  <% end %>
+  </div>
+</div>
 
 
+<script type="text/javascript">
+
+$(document).ready(function(){
+    $("#filter").keyup(function(){
+ 
+        // Retrieve the input field text and reset the count to zero
+        var filter = $(this).val(), count = 0;
+ 
+        // Loop through the comment list
+        $(".commentlist li").each(function(){
+ 
+            // If the list item does not contain the text phrase fade it out
+            if ($(this).text().search(new RegExp(filter, "i")) < 0) {
+                $(this).fadeOut();
+ 
+            // Show the list item if the phrase matches and increase the count by 1
+            } else {
+                $(this).show();
+            }
+        });
+    });
+});
+</script>
