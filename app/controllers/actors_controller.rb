@@ -1,11 +1,13 @@
 class ActorsController < ApplicationController
   def index
-   @actors = Actor.all
+    @actors = Actor.all
+  
+
     # @actors = Actor.search(params[:search])
 
     if params[:search]
       
-      @movies = Movie.all
+      # @movies = Movie.all
 
       @actor = Actor.where("name LIKE ?", "%#{params[:search].capitalize}%")
     else
@@ -26,5 +28,7 @@ class ActorsController < ApplicationController
   end
 
   def show
+    @actor = Actor.find(params[:id])
+    @movies = @actor.movies
   end
 end

@@ -4,7 +4,8 @@
   <% @actors.each do |actor| %>
       <div class="thumbnail actormain">
 
-        <img class="actorpic" src="http://image.tmdb.org/t/p/original<%=actor.picture%>">
+        <%= link_to image_tag("http://image.tmdb.org/t/p/original#{actor.picture}"), actor_path(actor), class: "actorpic" %>
+  
       <div class="caption">
         <h3><%= actor.name %></h3>
 

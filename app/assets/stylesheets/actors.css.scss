@@ -1,9 +1,10 @@
-// Place all the styles related to the Actors controller here.
+/*// Place all the styles related to the Actors controller here.
 // They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+// You can use Sass (SCSS) here: http://sass-lang.com/*/
 
 
 #searchbar {
+  right: 45%;
   width: 250px;
   margin: 0 auto;
 }
@@ -25,7 +26,15 @@
 }
 
 .actorpic {
+  margin: 0 auto;
   height: 150px;
   width: 120px;
 }
+
+.actornameshow {
+  color: #475f77;
+  width: 250px;
+  margin: 0 auto;
+}
+
 @import "bootstrap";
