@@ -1,0 +1,232 @@
+{
+actor: {
+id: 287,
+name: "Brad Pitt",
+movies: [
+{
+title: "Twelve Monkeys",
+revenue: 168840000
+},
+{
+title: "Snatch",
+revenue: 83557872
+},
+{
+title: "Ocean's Eleven",
+revenue: 450717150
+},
+{
+title: "Ocean's Twelve",
+revenue: 363531634
+},
+{
+title: "A River Runs Through It",
+revenue: 43440294
+},
+{
+title: "Meet Joe Black",
+revenue: 142940100
+},
+{
+title: "Ocean's Thirteen",
+revenue: 311312624
+},
+{
+title: "True Romance",
+revenue: 12281551
+},
+{
+title: "Being John Malkovich",
+revenue: 0
+},
+{
+title: "Fight Club",
+revenue: 100853753
+},
+{
+title: "Interview with the Vampire",
+revenue: 104694059
+},
+{
+title: "Troy",
+revenue: 497409852
+},
+{
+title: "Mr. & Mrs. Smith",
+revenue: 478207520
+},
+{
+title: "Se7en",
+revenue: 327311859
+},
+{
+title: "Sleepers",
+revenue: 165615285
+},
+{
+title: "Seven Years in Tibet",
+revenue: 131457682
+},
+{
+title: "Babel",
+revenue: 135330182
+},
+{
+title: "Spy Game",
+revenue: 143049560
+},
+{
+title: "Thelma & Louise",
+revenue: 0
+},
+{
+title: "Legends of the Fall",
+revenue: 160638883
+},
+{
+title: "The Devil's Own",
+revenue: 140807547
+},
+{
+title: "The Assassination of Jesse James by the Coward Robert Ford",
+revenue: 14711793
+},
+{
+title: "Kalifornia",
+revenue: 2395231
+},
+{
+title: "Too Young to Die?",
+revenue: 0
+},
+{
+title: "Confessions of a Dangerous Mind",
+revenue: 33013805
+},
+{
+title: "The Curious Case of Benjamin Button",
+revenue: 333932083
+},
+{
+title: "Burn After Reading",
+revenue: 0
+},
+{
+title: "The Hamster Factor and Other Tales of Twelve Monkeys",
+revenue: 0
+},
+{
+title: "Cutting Class",
+revenue: 0
+},
+{
+title: "Cool World",
+revenue: 0
+},
+{
+title: "Sinbad: Legend of the Seven Seas",
+revenue: 26288320
+},
+{
+title: "Moneyball",
+revenue: 110206216
+},
+{
+title: "Megamind",
+revenue: 60500000
+},
+{
+title: "His Way",
+revenue: 0
+},
+{
+title: "Johnny Suede",
+revenue: 0
+},
+{
+title: "Killing Them Softly",
+revenue: 14938570
+},
+{
+title: "Inglourious Basterds",
+revenue: 319131050
+},
+{
+title: "Happy Feet Two",
+revenue: 0
+},
+{
+title: "Contact",
+revenue: 0
+},
+{
+title: "Across the Tracks",
+revenue: 0
+},
+{
+title: "Ultimate Fights from the Movies",
+revenue: 0
+},
+{
+title: "The Favor",
+revenue: 0
+},
+{
+title: "World War Z",
+revenue: 531865000
+},
+{
+title: "Happy Together",
+revenue: 0
+},
+{
+title: "The Image",
+revenue: 0
+},
+{
+title: "12 Years a Slave",
+revenue: 0
+},
+{
+title: "Voyage of Time",
+revenue: 0
+},
+{
+title: "The Counselor",
+revenue: 0
+},
+{
+title: "8",
+revenue: 0
+},
+{
+title: "20,000 Leagues Under the Sea: Captain Nemo",
+revenue: 0
+},
+{
+title: "The Tiger",
+revenue: 0
+},
+{
+title: "Fury",
+revenue: 0
+},
+{
+title: "The Mexican",
+revenue: 147845033
+},
+{
+title: "Dirty Tricks",
+revenue: 0
+},
+{
+title: "The Tree of Life",
+revenue: 32674226
+},
+{
+title: "The Dark Side of the Sun",
+revenue: 0
+}
+]
+}
+}

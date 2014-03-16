@@ -6,9 +6,31 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
+
+list = [
+ {"id"=>287,"name"=>"Brad Pitt"},
+ {"id"=>72129,"name"=>"Jennifer Lawrence"},
+ {"id"=>2231,"name"=>"Samuel L. Jackson"},
+ {"id"=>56731,"name"=>"Jessica Alba"},
+ {"id"=>10959,"name"=>"Shia LaBeouf"},
+ {"id"=>18277,"name"=>"Sandra Bullock"},
+ {"id"=>1461,"name"=>"George Clooney"},
+ {"id"=>6193,"name"=>"Leonardo DiCaprio"},
+ {"id"=>10297,"name"=>"Matthew McConaughey"},
+ {"id"=>3223,"name"=>"Robert Downey Jr."},
+ {"id"=>31,"name"=>"Tom Hanks"},
+ {"id"=>3125,"name"=>"Madonna"},
+ {"id"=>1892,"name"=>"Matt Damon"},
+ {"id"=>204,"name"=>"Kate Winslet"},  
+ {"id"=>6968,"name"=>"Huge Jackman"},  
+ {"id"=>38673,"name"=>"Channing Tatum"}, 
+ {"id"=>13240,"name"=>"Mark Wahlberg"}, 
+ {"id"=>18918,"name"=>"Dwayne Johnson"}, 
+]
+
 movies = []
-actor = Actor.create(name: 'Leonardo DiCaprio')
-response = HTTParty.get 'https://api.themoviedb.org/3/person/6193/credits?api_key=631d0d27d8bd582b2876ac8036e7641b'
+actor = Actor.create(list[11])
+response = HTTParty.get 'https://api.themoviedb.org/3/person/3125/credits?api_key=631d0d27d8bd582b2876ac8036e7641b'
 
 for i in 0...response["cast"].count
   movie = Movie.find_or_initialize_by(movie_id: (response["cast"][i]["id"]).to_s)

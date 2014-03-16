@@ -1,12 +1,113 @@
+
+
 <h2 class="actornameshow"><%= @actor.name %></h2>
 
 
-<div id="bubblechart"></div>
+<div class="chart"></div>
 
-<script type="text/javascript">
-var mySquare=svg.append("rect")
-  .attr("x",60)
-  .attr("y",60)
-  .attr("width",60)
-  .attr("height",60);
-  </script>
+
+<script>
+
+
+
+var actor = {
+	actor: {
+		name: "Brad Pitt",
+		movies:[
+		{
+		title: "Twelve Monkeys",
+		revenue: 168840000
+		}, 
+
+		{
+		title: "Snatch",
+		revenue: 83557872
+		},
+
+		{
+		title: "Ocean's Twelve",
+		revenue: 363531634
+		},
+
+		{
+		title: "Meet Joe Black",
+		revenue: 142940100
+		},
+		{
+		title: "Ocean's Thirteen",
+		revenue: 311312624
+
+		}
+
+			]
+			}
+		}
+// var data;
+// d3.json("http://localhost:3000/actors/287.json", function(error, json) {
+//   if (error) return console.warn(error);
+//   data = json['actor']['movies'];
+// }
+var data = [];
+for(var i=0; i<actor.actor.movies.length; i++)
+{
+	data.push(actor.actor.movies[i].revenue);
+}
+
+
+
+
+console.log(data);
+data.title;
+
+// d3.json("http://localhost:3000/actors/287.json")
+// var data = json['actor']['movies'];
+var x = d3.scale.linear()
+    .domain([0, d3.max(data)])
+    .range([0, 300]);
+
+d3.select(".chart")
+  .selectAll("div")
+    .data(	actor.actor.movies)
+  .enter().append("div")
+    .style("width", function(d) { return x(d.revenue) + "px"; })
+    .text(function(d) { return d.title; });
+
+
+
+// var data; // a g
+
+// d3.json("http://localhost:3000/actors/287.json", function(error, json) {
+//   if (error) return console.warn(error);
+//   data = json['actor']['movies'];
+//   console.log(data)
+
+//   ;
+
+ 
+//   console.log(data['actor']);
+
+//   // d3.select(".chart")
+//   // 	.selectAll("div")
+//   // 		.data(data['actor']['movies'][0]['revenue'])
+//   // 	.enter().append("div")
+// 	 //    .style("width", function(d) { return d * 10 + "px"; })
+// 	 //    .text(function(d) { return d; });
+
+
+// var chart = d3.select(".chart");
+// var bar = chart.selectAll("div");
+// var barUpdate = bar.data();
+// var barEnter = barUpdate.enter().append("div");	
+// barEnter.style("width", function(d) { return d * 10 + "px"; });
+// barEnter.text(function(d) { return d; });
+// var x = d3.scale.linear()
+//     .domain([0, d3.max(data)])
+//     .range([0, 420]);
+        
+// });
+
+// </script>
+
+</script>
+
+
