@@ -1,0 +1,344 @@
+[
+  {
+    "movie_display_name":"Shrek 2",
+    "$_total_box_office":937008132,
+    "movie_financial_summary_domestic_box_office":441226247,
+    "movie_financial_summary_international_box_office":495781885,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Shrek the Third",
+    "$_total_box_office":807330936,
+    "movie_financial_summary_domestic_box_office":322719944,
+    "movie_financial_summary_international_box_office":484610992,
+    "$_domestic_DVD_sales":176733743,
+    "movie_financial_summary_production_budget":160000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Shrek Forever After",
+    "$_total_box_office":756244673,
+    "movie_financial_summary_domestic_box_office":238736787,
+    "movie_financial_summary_international_box_office":517507886,
+    "$_domestic_DVD_sales":60662004,
+    "movie_financial_summary_production_budget":165000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Shrek",
+    "$_total_box_office":491812794,
+    "movie_financial_summary_domestic_box_office":267655011,
+    "movie_financial_summary_international_box_office":224157783,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"There's Something About Mary",
+    "$_total_box_office":360099999,
+    "movie_financial_summary_domestic_box_office":176484651,
+    "movie_financial_summary_international_box_office":183615348,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":22000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Minority Report",
+    "$_total_box_office":358824714,
+    "movie_financial_summary_domestic_box_office":132024714,
+    "movie_financial_summary_international_box_office":226800000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":102000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"The Mask",
+    "$_total_box_office":351620129,
+    "movie_financial_summary_domestic_box_office":119920129,
+    "movie_financial_summary_international_box_office":231700000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":18000000,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"My Best Friend's Wedding",
+    "$_total_box_office":298923419,
+    "movie_financial_summary_domestic_box_office":126813153,
+    "movie_financial_summary_international_box_office":172110266,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":46000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Knight and Day",
+    "$_total_box_office":262142047,
+    "movie_financial_summary_domestic_box_office":76423035,
+    "movie_financial_summary_international_box_office":185719012,
+    "$_domestic_DVD_sales":22698404,
+    "movie_financial_summary_production_budget":117000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Charlie's Angels",
+    "$_total_box_office":259736090,
+    "movie_financial_summary_domestic_box_office":125305545,
+    "movie_financial_summary_international_box_office":134430545,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":90000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"The Green Hornet",
+    "$_total_box_office":227983150,
+    "movie_financial_summary_domestic_box_office":98780042,
+    "movie_financial_summary_international_box_office":129203108,
+    "$_domestic_DVD_sales":15790898,
+    "movie_financial_summary_production_budget":110000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Charlie's Angels: Full Throttle",
+    "$_total_box_office":227200000,
+    "movie_financial_summary_domestic_box_office":100814328,
+    "movie_financial_summary_international_box_office":126385672,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":120000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"What Happens in Vegas...",
+    "$_total_box_office":218535708,
+    "movie_financial_summary_domestic_box_office":80277646,
+    "movie_financial_summary_international_box_office":138258062,
+    "$_domestic_DVD_sales":25899832,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Bad Teacher",
+    "$_total_box_office":216412265,
+    "movie_financial_summary_domestic_box_office":100292856,
+    "movie_financial_summary_international_box_office":116119409,
+    "$_domestic_DVD_sales":12390919,
+    "movie_financial_summary_production_budget":19000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"The Holiday",
+    "$_total_box_office":205190324,
+    "movie_financial_summary_domestic_box_office":63280000,
+    "movie_financial_summary_international_box_office":141910324,
+    "$_domestic_DVD_sales":74469391,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Vanilla Sky",
+    "$_total_box_office":202726605,
+    "movie_financial_summary_domestic_box_office":100614858,
+    "movie_financial_summary_international_box_office":102111747,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Gangs of New York",
+    "$_total_box_office":190400000,
+    "movie_financial_summary_domestic_box_office":77730500,
+    "movie_financial_summary_international_box_office":112669500,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":97000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Any Given Sunday",
+    "$_total_box_office":100230832,
+    "movie_financial_summary_domestic_box_office":75530832,
+    "movie_financial_summary_international_box_office":24700000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"My Sister's Keeper",
+    "$_total_box_office":96673002,
+    "movie_financial_summary_domestic_box_office":49200230,
+    "movie_financial_summary_international_box_office":47472772,
+    "$_domestic_DVD_sales":23667923,
+    "movie_financial_summary_production_budget":27500000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"In Her Shoes",
+    "$_total_box_office":82203030,
+    "movie_financial_summary_domestic_box_office":32880591,
+    "movie_financial_summary_international_box_office":49322439,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"What to Expect When You're Expecting",
+    "$_total_box_office":80652203,
+    "movie_financial_summary_domestic_box_office":41152203,
+    "movie_financial_summary_international_box_office":39500000,
+    "$_domestic_DVD_sales":5900107,
+    "movie_financial_summary_production_budget":37500000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"The Counselor",
+    "$_total_box_office":70373715,
+    "movie_financial_summary_domestic_box_office":16973715,
+    "movie_financial_summary_international_box_office":53400000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"The Sweetest Thing",
+    "$_total_box_office":44633441,
+    "movie_financial_summary_domestic_box_office":24430272,
+    "movie_financial_summary_international_box_office":20203169,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":43000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Being John Malkovich",
+    "$_total_box_office":32382381,
+    "movie_financial_summary_domestic_box_office":22858926,
+    "movie_financial_summary_international_box_office":9523455,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":13000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"The Box",
+    "$_total_box_office":26341896,
+    "movie_financial_summary_domestic_box_office":15051977,
+    "movie_financial_summary_international_box_office":11289919,
+    "$_domestic_DVD_sales":3888602,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Very Bad Things",
+    "$_total_box_office":21094974,
+    "movie_financial_summary_domestic_box_office":9949470,
+    "movie_financial_summary_international_box_office":11145504,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":10000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"A Life Less Ordinary",
+    "$_total_box_office":14633270,
+    "movie_financial_summary_domestic_box_office":4287595,
+    "movie_financial_summary_international_box_office":10345675,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"She's the One",
+    "$_total_box_office":13795053,
+    "movie_financial_summary_domestic_box_office":9482579,
+    "movie_financial_summary_international_box_office":4312474,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":3500000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Fear and Loathing in Las Vegas",
+    "$_total_box_office":13711903,
+    "movie_financial_summary_domestic_box_office":10680275,
+    "movie_financial_summary_international_box_office":3031628,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":18500000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Feeling Minnesota",
+    "$_total_box_office":3752446,
+    "movie_financial_summary_domestic_box_office":3124440,
+    "movie_financial_summary_international_box_office":628006,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Gambit",
+    "$_total_box_office":1103703,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":1103703,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"The Last Supper",
+    "$_total_box_office":1048612,
+    "movie_financial_summary_domestic_box_office":459749,
+    "movie_financial_summary_international_box_office":588863,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Head Above Water",
+    "$_total_box_office":806649,
+    "movie_financial_summary_domestic_box_office":32212,
+    "movie_financial_summary_international_box_office":774437,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Invisible Circus",
+    "$_total_box_office":496197,
+    "movie_financial_summary_domestic_box_office":77578,
+    "movie_financial_summary_international_box_office":418619,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Keys to Tulsa",
+    "$_total_box_office":74777,
+    "movie_financial_summary_domestic_box_office":57252,
+    "movie_financial_summary_international_box_office":17525,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"A Liar's Autobiography - The Untrue Story of Monty Python's Graham Chapman",
+    "$_total_box_office":5102,
+    "movie_financial_summary_domestic_box_office":5102,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"The Other Woman",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  },
+  {
+    "movie_display_name":"Bobbie Sue",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  }
+]

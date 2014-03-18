@@ -1,0 +1,308 @@
+[
+  {
+    "movie_display_name":"Gravity",
+    "$_total_box_office":709546892,
+    "movie_financial_summary_domestic_box_office":272646892,
+    "movie_financial_summary_international_box_office":436900000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":110000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"The Proposal",
+    "$_total_box_office":314709717,
+    "movie_financial_summary_domestic_box_office":163958031,
+    "movie_financial_summary_international_box_office":150751686,
+    "$_domestic_DVD_sales":91446641,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"The Blind Side",
+    "$_total_box_office":305705795,
+    "movie_financial_summary_domestic_box_office":255959475,
+    "movie_financial_summary_international_box_office":49746320,
+    "$_domestic_DVD_sales":108958529,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Speed",
+    "$_total_box_office":283200000,
+    "movie_financial_summary_domestic_box_office":121248145,
+    "movie_financial_summary_international_box_office":161951855,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"The Heat",
+    "$_total_box_office":230781587,
+    "movie_financial_summary_domestic_box_office":159581587,
+    "movie_financial_summary_international_box_office":71200000,
+    "$_domestic_DVD_sales":31860238,
+    "movie_financial_summary_production_budget":43000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"The Prince of Egypt",
+    "$_total_box_office":218600000,
+    "movie_financial_summary_domestic_box_office":101413188,
+    "movie_financial_summary_international_box_office":117186812,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Miss Congeniality",
+    "$_total_box_office":213420951,
+    "movie_financial_summary_domestic_box_office":106807667,
+    "movie_financial_summary_international_box_office":106613284,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":45000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Two Weeks Notice",
+    "$_total_box_office":199043309,
+    "movie_financial_summary_domestic_box_office":93354918,
+    "movie_financial_summary_international_box_office":105688391,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"While You Were Sleeping",
+    "$_total_box_office":182057016,
+    "movie_financial_summary_domestic_box_office":81057016,
+    "movie_financial_summary_international_box_office":101000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Demolition Man",
+    "$_total_box_office":159055768,
+    "movie_financial_summary_domestic_box_office":58055768,
+    "movie_financial_summary_international_box_office":101000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"A Time to Kill",
+    "$_total_box_office":152266007,
+    "movie_financial_summary_domestic_box_office":108766007,
+    "movie_financial_summary_international_box_office":43500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Speed II: Cruise Control",
+    "$_total_box_office":150468000,
+    "movie_financial_summary_domestic_box_office":48097081,
+    "movie_financial_summary_international_box_office":102370919,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":110000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"The Lake House",
+    "$_total_box_office":114830111,
+    "movie_financial_summary_domestic_box_office":52330111,
+    "movie_financial_summary_international_box_office":62500000,
+    "$_domestic_DVD_sales":39933825,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"The Net",
+    "$_total_box_office":110521733,
+    "movie_financial_summary_domestic_box_office":50621733,
+    "movie_financial_summary_international_box_office":59900000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":22000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Miss Congeniality 2: Armed and Fabulous",
+    "$_total_box_office":101382396,
+    "movie_financial_summary_domestic_box_office":48478006,
+    "movie_financial_summary_international_box_office":52904390,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Crash",
+    "$_total_box_office":101173038,
+    "movie_financial_summary_domestic_box_office":55334418,
+    "movie_financial_summary_international_box_office":45838620,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":7303082,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Forces of Nature",
+    "$_total_box_office":93957800,
+    "movie_financial_summary_domestic_box_office":52957800,
+    "movie_financial_summary_international_box_office":41000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Hope Floats",
+    "$_total_box_office":81529000,
+    "movie_financial_summary_domestic_box_office":60110313,
+    "movie_financial_summary_international_box_office":21418687,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Premonition",
+    "$_total_box_office":81461343,
+    "movie_financial_summary_domestic_box_office":47852604,
+    "movie_financial_summary_international_box_office":33608739,
+    "$_domestic_DVD_sales":33640435,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"The Divine Secrets of the Ya-Ya Sisterhood",
+    "$_total_box_office":73826768,
+    "movie_financial_summary_domestic_box_office":69586544,
+    "movie_financial_summary_international_box_office":4240224,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":27000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Practical Magic",
+    "$_total_box_office":68336997,
+    "movie_financial_summary_domestic_box_office":46850558,
+    "movie_financial_summary_international_box_office":21486439,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"28 Days",
+    "$_total_box_office":62063972,
+    "movie_financial_summary_domestic_box_office":37035515,
+    "movie_financial_summary_international_box_office":25028457,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":43000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Murder by Numbers",
+    "$_total_box_office":56643267,
+    "movie_financial_summary_domestic_box_office":31874869,
+    "movie_financial_summary_international_box_office":24768398,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Extremely Loud and Incredibly Close",
+    "$_total_box_office":46247881,
+    "movie_financial_summary_domestic_box_office":31847881,
+    "movie_financial_summary_international_box_office":14400000,
+    "$_domestic_DVD_sales":8458442,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"All About Steve",
+    "$_total_box_office":40127259,
+    "movie_financial_summary_domestic_box_office":33862903,
+    "movie_financial_summary_international_box_office":6264356,
+    "$_domestic_DVD_sales":8022620,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"In Love and War",
+    "$_total_box_office":25372294,
+    "movie_financial_summary_domestic_box_office":14481231,
+    "movie_financial_summary_international_box_office":10891063,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"The Vanishing",
+    "$_total_box_office":14543394,
+    "movie_financial_summary_domestic_box_office":14543394,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Two if by Sea",
+    "$_total_box_office":10493670,
+    "movie_financial_summary_domestic_box_office":10493670,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Infamous",
+    "$_total_box_office":2613717,
+    "movie_financial_summary_domestic_box_office":1151330,
+    "movie_financial_summary_international_box_office":1462387,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":13000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Gun Shy",
+    "$_total_box_office":1638202,
+    "movie_financial_summary_domestic_box_office":1638202,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":10000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"The Thing Called Love",
+    "$_total_box_office":1029721,
+    "movie_financial_summary_domestic_box_office":1029721,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Love Potion No. 9",
+    "$_total_box_office":754935,
+    "movie_financial_summary_domestic_box_office":754935,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"Lisa Picard is Famous",
+    "$_total_box_office":113433,
+    "movie_financial_summary_domestic_box_office":113433,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":1000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Loverboy",
+    "$_total_box_office":33223,
+    "movie_financial_summary_domestic_box_office":33223,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2006
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "movie_display_name":"Mission: Impossible - Ghost Protocol",
+    "$_total_box_office":694713230,
+    "movie_financial_summary_domestic_box_office":209397903,
+    "movie_financial_summary_international_box_office":485315327,
+    "$_domestic_DVD_sales":23096880,
+    "movie_financial_summary_production_budget":145000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"War of the Worlds",
+    "$_total_box_office":606836535,
+    "movie_financial_summary_domestic_box_office":234280354,
+    "movie_financial_summary_international_box_office":372556181,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":132000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Mission: Impossible 2",
+    "$_total_box_office":546209889,
+    "movie_financial_summary_domestic_box_office":215409889,
+    "movie_financial_summary_international_box_office":330800000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":120000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Mission: Impossible",
+    "$_total_box_office":457697994,
+    "movie_financial_summary_domestic_box_office":180981886,
+    "movie_financial_summary_international_box_office":276716108,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"The Last Samurai",
+    "$_total_box_office":456810575,
+    "movie_financial_summary_domestic_box_office":111110575,
+    "movie_financial_summary_international_box_office":345700000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":140000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Rain Man",
+    "$_total_box_office":412800000,
+    "movie_financial_summary_domestic_box_office":172825435,
+    "movie_financial_summary_international_box_office":239974565,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":1988
+  },
+  {
+    "movie_display_name":"Mission: Impossible III",
+    "$_total_box_office":397501348,
+    "movie_financial_summary_domestic_box_office":133501348,
+    "movie_financial_summary_international_box_office":264000000,
+    "$_domestic_DVD_sales":49918230,
+    "movie_financial_summary_production_budget":150000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Minority Report",
+    "$_total_box_office":358824714,
+    "movie_financial_summary_domestic_box_office":132024714,
+    "movie_financial_summary_international_box_office":226800000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":102000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Top Gun",
+    "$_total_box_office":356800601,
+    "movie_financial_summary_domestic_box_office":179800601,
+    "movie_financial_summary_international_box_office":177000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":1986
+  },
+  {
+    "movie_display_name":"Austin Powers in Goldmember",
+    "$_total_box_office":292738626,
+    "movie_financial_summary_domestic_box_office":213117789,
+    "movie_financial_summary_international_box_office":79620837,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":63000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Oblivion",
+    "$_total_box_office":287537983,
+    "movie_financial_summary_domestic_box_office":89107235,
+    "movie_financial_summary_international_box_office":198430748,
+    "$_domestic_DVD_sales":12817880,
+    "movie_financial_summary_production_budget":120000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Jerry Maguire",
+    "$_total_box_office":274000000,
+    "movie_financial_summary_domestic_box_office":153952592,
+    "movie_financial_summary_international_box_office":120047408,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"The Firm",
+    "$_total_box_office":270340892,
+    "movie_financial_summary_domestic_box_office":158340892,
+    "movie_financial_summary_international_box_office":112000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":42000000,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Knight and Day",
+    "$_total_box_office":262142047,
+    "movie_financial_summary_domestic_box_office":76423035,
+    "movie_financial_summary_international_box_office":185719012,
+    "$_domestic_DVD_sales":22698404,
+    "movie_financial_summary_production_budget":117000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"A Few Good Men",
+    "$_total_box_office":236500000,
+    "movie_financial_summary_domestic_box_office":141340178,
+    "movie_financial_summary_international_box_office":95159822,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":33000000,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"Interview with the Vampire: The Vampire Chronicles",
+    "$_total_box_office":223564608,
+    "movie_financial_summary_domestic_box_office":105264608,
+    "movie_financial_summary_international_box_office":118300000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Collateral",
+    "$_total_box_office":217670152,
+    "movie_financial_summary_domestic_box_office":100170152,
+    "movie_financial_summary_international_box_office":117500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Jack Reacher",
+    "$_total_box_office":217370736,
+    "movie_financial_summary_domestic_box_office":80070736,
+    "movie_financial_summary_international_box_office":137300000,
+    "$_domestic_DVD_sales":13382881,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Valkyrie",
+    "$_total_box_office":203902107,
+    "movie_financial_summary_domestic_box_office":83077762,
+    "movie_financial_summary_international_box_office":120824345,
+    "$_domestic_DVD_sales":27103095,
+    "movie_financial_summary_production_budget":90000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Vanilla Sky",
+    "$_total_box_office":202726605,
+    "movie_financial_summary_domestic_box_office":100614858,
+    "movie_financial_summary_international_box_office":102111747,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Tropic Thunder",
+    "$_total_box_office":188163455,
+    "movie_financial_summary_domestic_box_office":110461307,
+    "movie_financial_summary_international_box_office":77702148,
+    "$_domestic_DVD_sales":51250551,
+    "movie_financial_summary_production_budget":90000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Days of Thunder",
+    "$_total_box_office":157670733,
+    "movie_financial_summary_domestic_box_office":82670733,
+    "movie_financial_summary_international_box_office":75000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":1990
+  },
+  {
+    "movie_display_name":"Space Station",
+    "$_total_box_office":123217355,
+    "movie_financial_summary_domestic_box_office":89935229,
+    "movie_financial_summary_international_box_office":33282126,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Eyes Wide Shut",
+    "$_total_box_office":86257553,
+    "movie_financial_summary_domestic_box_office":55691208,
+    "movie_financial_summary_international_box_office":30566345,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":65000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Cocktail",
+    "$_total_box_office":78222753,
+    "movie_financial_summary_domestic_box_office":78222753,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1988
+  },
+  {
+    "movie_display_name":"Born on the Fourth of July",
+    "$_total_box_office":70001698,
+    "movie_financial_summary_domestic_box_office":70001698,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":14000000,
+    "movie_production_year":1989
+  },
+  {
+    "movie_display_name":"Risky Business",
+    "$_total_box_office":63541777,
+    "movie_financial_summary_domestic_box_office":63541777,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1983
+  },
+  {
+    "movie_display_name":"Lions for Lambs",
+    "$_total_box_office":63211088,
+    "movie_financial_summary_domestic_box_office":14998070,
+    "movie_financial_summary_international_box_office":48213018,
+    "$_domestic_DVD_sales":9299223,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Far and Away",
+    "$_total_box_office":58883840,
+    "movie_financial_summary_domestic_box_office":58883840,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"The Color of Money",
+    "$_total_box_office":52293000,
+    "movie_financial_summary_domestic_box_office":52293000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":10000000,
+    "movie_production_year":1986
+  },
+  {
+    "movie_display_name":"Rock of Ages",
+    "$_total_box_office":50118613,
+    "movie_financial_summary_domestic_box_office":38518613,
+    "movie_financial_summary_international_box_office":11600000,
+    "$_domestic_DVD_sales":11256028,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Magnolia",
+    "$_total_box_office":48446802,
+    "movie_financial_summary_domestic_box_office":22450975,
+    "movie_financial_summary_international_box_office":25995827,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":37000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Taps",
+    "$_total_box_office":35856053,
+    "movie_financial_summary_domestic_box_office":35856053,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":14000000,
+    "movie_production_year":1981
+  },
+  {
+    "movie_display_name":"Endless Love",
+    "$_total_box_office":33000000,
+    "movie_financial_summary_domestic_box_office":33000000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1981
+  },
+  {
+    "movie_display_name":"The Outsiders",
+    "$_total_box_office":25697647,
+    "movie_financial_summary_domestic_box_office":25697647,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":10000000,
+    "movie_production_year":1983
+  },
+  {
+    "movie_display_name":"All the Right Moves",
+    "$_total_box_office":17200000,
+    "movie_financial_summary_domestic_box_office":17200000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1983
+  },
+  {
+    "movie_display_name":"Legend",
+    "$_total_box_office":15502112,
+    "movie_financial_summary_domestic_box_office":15502112,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":1986
+  },
+  {
+    "movie_display_name":"Losin' It",
+    "$_total_box_office":1246141,
+    "movie_financial_summary_domestic_box_office":1246141,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":7000000,
+    "movie_production_year":1983
+  },
+  {
+    "movie_display_name":"The Hardy Men",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Edge of Tomorrow",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  }
+]

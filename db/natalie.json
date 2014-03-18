@@ -1,0 +1,317 @@
+[
+  {
+    "movie_display_name":"Star Wars Ep. I: The Phantom Menace",
+    "$_total_box_office":1007044677,
+    "movie_financial_summary_domestic_box_office":474544677,
+    "movie_financial_summary_international_box_office":532500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":115000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Star Wars Ep. III: Revenge of the Sith",
+    "$_total_box_office":848998877,
+    "movie_financial_summary_domestic_box_office":380270577,
+    "movie_financial_summary_international_box_office":468728300,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":115000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Star Wars Ep. II: Attack of the Clones",
+    "$_total_box_office":656695615,
+    "movie_financial_summary_domestic_box_office":310676740,
+    "movie_financial_summary_international_box_office":346018875,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":115000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Thor: The Dark World",
+    "$_total_box_office":633246287,
+    "movie_financial_summary_domestic_box_office":206246287,
+    "movie_financial_summary_international_box_office":427000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":170000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Thor",
+    "$_total_box_office":449326618,
+    "movie_financial_summary_domestic_box_office":181030624,
+    "movie_financial_summary_international_box_office":268295994,
+    "$_domestic_DVD_sales":30721426,
+    "movie_financial_summary_production_budget":150000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Black Swan",
+    "$_total_box_office":331266710,
+    "movie_financial_summary_domestic_box_office":106954678,
+    "movie_financial_summary_international_box_office":224312032,
+    "$_domestic_DVD_sales":19015615,
+    "movie_financial_summary_production_budget":13000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Heat",
+    "$_total_box_office":187436818,
+    "movie_financial_summary_domestic_box_office":67436818,
+    "movie_financial_summary_international_box_office":120000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Cold Mountain",
+    "$_total_box_office":161632614,
+    "movie_financial_summary_domestic_box_office":95632614,
+    "movie_financial_summary_international_box_office":66000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"No Strings Attached",
+    "$_total_box_office":149228078,
+    "movie_financial_summary_domestic_box_office":70662220,
+    "movie_financial_summary_international_box_office":78565858,
+    "$_domestic_DVD_sales":12274158,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"V for Vendetta",
+    "$_total_box_office":129231542,
+    "movie_financial_summary_domestic_box_office":70511035,
+    "movie_financial_summary_international_box_office":58720507,
+    "$_domestic_DVD_sales":59191391,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Closer",
+    "$_total_box_office":115476509,
+    "movie_financial_summary_domestic_box_office":33987757,
+    "movie_financial_summary_international_box_office":81488752,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Mars Attacks!",
+    "$_total_box_office":101371017,
+    "movie_financial_summary_domestic_box_office":37771017,
+    "movie_financial_summary_international_box_office":63600000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"The Other Boleyn Girl",
+    "$_total_box_office":77714957,
+    "movie_financial_summary_domestic_box_office":26814957,
+    "movie_financial_summary_international_box_office":50900000,
+    "$_domestic_DVD_sales":8981659,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Mr. Magorium's Wonder Emporium",
+    "$_total_box_office":68191643,
+    "movie_financial_summary_domestic_box_office":32061555,
+    "movie_financial_summary_international_box_office":36130088,
+    "$_domestic_DVD_sales":22970826,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Zoolander",
+    "$_total_box_office":60780981,
+    "movie_financial_summary_domestic_box_office":45172250,
+    "movie_financial_summary_international_box_office":15608731,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":28000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Léon",
+    "$_total_box_office":45284974,
+    "movie_financial_summary_domestic_box_office":19284974,
+    "movie_financial_summary_international_box_office":26000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":16000000,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Brothers",
+    "$_total_box_office":45043870,
+    "movie_financial_summary_domestic_box_office":28544157,
+    "movie_financial_summary_international_box_office":16499713,
+    "$_domestic_DVD_sales":11043368,
+    "movie_financial_summary_production_budget":26000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Where the Heart Is",
+    "$_total_box_office":40862054,
+    "movie_financial_summary_domestic_box_office":33771174,
+    "movie_financial_summary_international_box_office":7090880,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Garden State",
+    "$_total_box_office":36028802,
+    "movie_financial_summary_domestic_box_office":26782316,
+    "movie_financial_summary_international_box_office":9246486,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":2500000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"The Darjeeling Limited",
+    "$_total_box_office":35078918,
+    "movie_financial_summary_domestic_box_office":11902715,
+    "movie_financial_summary_international_box_office":23176203,
+    "$_domestic_DVD_sales":6675558,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Everyone Says I Love You",
+    "$_total_box_office":34600000,
+    "movie_financial_summary_domestic_box_office":9725847,
+    "movie_financial_summary_international_box_office":24874153,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Your Highness",
+    "$_total_box_office":26121638,
+    "movie_financial_summary_domestic_box_office":21596445,
+    "movie_financial_summary_international_box_office":4525193,
+    "$_domestic_DVD_sales":4304799,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Anywhere But Here",
+    "$_total_box_office":18653615,
+    "movie_financial_summary_domestic_box_office":18653615,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":23000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"My Blueberry Nights",
+    "$_total_box_office":17288390,
+    "movie_financial_summary_domestic_box_office":866778,
+    "movie_financial_summary_international_box_office":16421612,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Beautiful Girls",
+    "$_total_box_office":10523880,
+    "movie_financial_summary_domestic_box_office":10523880,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"New York, I Love You",
+    "$_total_box_office":9725060,
+    "movie_financial_summary_domestic_box_office":1588087,
+    "movie_financial_summary_international_box_office":8136973,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Star Wars: Attack of the Clones (IMAX)",
+    "$_total_box_office":8494458,
+    "movie_financial_summary_domestic_box_office":8494458,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Paris, je t'aime",
+    "$_total_box_office":4857374,
+    "movie_financial_summary_domestic_box_office":4857374,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":13000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Goya's Ghosts",
+    "$_total_box_office":1000626,
+    "movie_financial_summary_domestic_box_office":1000626,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Hesher",
+    "$_total_box_office":382946,
+    "movie_financial_summary_domestic_box_office":382946,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":7000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Free Zone",
+    "$_total_box_office":32381,
+    "movie_financial_summary_domestic_box_office":32381,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"The Other Woman",
+    "$_total_box_office":25423,
+    "movie_financial_summary_domestic_box_office":25423,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":751430,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Snow and the Seven",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Knight of Cups",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Jane Got a Gun",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "movie_display_name":"Ocean's Eleven",
+    "$_total_box_office":450728529,
+    "movie_financial_summary_domestic_box_office":183417150,
+    "movie_financial_summary_international_box_office":267311379,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Pretty Woman",
+    "$_total_box_office":432645872,
+    "movie_financial_summary_domestic_box_office":178406268,
+    "movie_financial_summary_international_box_office":254239604,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":14000000,
+    "movie_production_year":1990
+  },
+  {
+    "movie_display_name":"Notting Hill",
+    "$_total_box_office":363728226,
+    "movie_financial_summary_domestic_box_office":116089678,
+    "movie_financial_summary_international_box_office":247638548,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":42000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Ocean's Twelve",
+    "$_total_box_office":362989076,
+    "movie_financial_summary_domestic_box_office":125531634,
+    "movie_financial_summary_international_box_office":237457442,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":110000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Runaway Bride",
+    "$_total_box_office":310138178,
+    "movie_financial_summary_domestic_box_office":152257509,
+    "movie_financial_summary_international_box_office":157880669,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Hook",
+    "$_total_box_office":300854823,
+    "movie_financial_summary_domestic_box_office":119654823,
+    "movie_financial_summary_international_box_office":181200000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":1991
+  },
+  {
+    "movie_display_name":"My Best Friend's Wedding",
+    "$_total_box_office":298923419,
+    "movie_financial_summary_domestic_box_office":126813153,
+    "movie_financial_summary_international_box_office":172110266,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":46000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Erin Brockovich",
+    "$_total_box_office":257805243,
+    "movie_financial_summary_domestic_box_office":125548685,
+    "movie_financial_summary_international_box_office":132256558,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Valentine's Day",
+    "$_total_box_office":217569328,
+    "movie_financial_summary_domestic_box_office":110485654,
+    "movie_financial_summary_international_box_office":107083674,
+    "$_domestic_DVD_sales":20227679,
+    "movie_financial_summary_production_budget":52000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Eat Pray Love",
+    "$_total_box_office":205846861,
+    "movie_financial_summary_domestic_box_office":80574010,
+    "movie_financial_summary_international_box_office":125272851,
+    "$_domestic_DVD_sales":34376982,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Pelican Brief",
+    "$_total_box_office":187995859,
+    "movie_financial_summary_domestic_box_office":100768056,
+    "movie_financial_summary_international_box_office":87227803,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":45000000,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Sleeping with the Enemy",
+    "$_total_box_office":174968942,
+    "movie_financial_summary_domestic_box_office":101599005,
+    "movie_financial_summary_international_box_office":73369937,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1991
+  },
+  {
+    "movie_display_name":"Mirror Mirror",
+    "$_total_box_office":168611991,
+    "movie_financial_summary_domestic_box_office":64935167,
+    "movie_financial_summary_international_box_office":103676824,
+    "$_domestic_DVD_sales":22466831,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"America's Sweethearts",
+    "$_total_box_office":160648493,
+    "movie_financial_summary_domestic_box_office":93607673,
+    "movie_financial_summary_international_box_office":67040820,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":46000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Stepmom",
+    "$_total_box_office":159745279,
+    "movie_financial_summary_domestic_box_office":91137662,
+    "movie_financial_summary_international_box_office":68607617,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"The Mexican",
+    "$_total_box_office":145238250,
+    "movie_financial_summary_domestic_box_office":66808615,
+    "movie_financial_summary_international_box_office":78429635,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Charlotte's Web",
+    "$_total_box_office":143985708,
+    "movie_financial_summary_domestic_box_office":82985708,
+    "movie_financial_summary_international_box_office":61000000,
+    "$_domestic_DVD_sales":83994511,
+    "movie_financial_summary_production_budget":82500000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Conspiracy Theory",
+    "$_total_box_office":142783718,
+    "movie_financial_summary_domestic_box_office":76118990,
+    "movie_financial_summary_international_box_office":66664728,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Mona Lisa Smile",
+    "$_total_box_office":141205169,
+    "movie_financial_summary_domestic_box_office":63803100,
+    "movie_financial_summary_international_box_office":77402069,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":65000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Charlie Wilson's War",
+    "$_total_box_office":119512771,
+    "movie_financial_summary_domestic_box_office":66661095,
+    "movie_financial_summary_international_box_office":52851676,
+    "$_domestic_DVD_sales":17646798,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Closer",
+    "$_total_box_office":115476509,
+    "movie_financial_summary_domestic_box_office":33987757,
+    "movie_financial_summary_international_box_office":81488752,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Steel Magnolias",
+    "$_total_box_office":95151938,
+    "movie_financial_summary_domestic_box_office":83759091,
+    "movie_financial_summary_international_box_office":11392847,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1989
+  },
+  {
+    "movie_display_name":"Dying Young",
+    "$_total_box_office":81264473,
+    "movie_financial_summary_domestic_box_office":32669178,
+    "movie_financial_summary_international_box_office":48595295,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1991
+  },
+  {
+    "movie_display_name":"Duplicity",
+    "$_total_box_office":81079566,
+    "movie_financial_summary_domestic_box_office":40572825,
+    "movie_financial_summary_international_box_office":40506741,
+    "$_domestic_DVD_sales":11557170,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Something to Talk About",
+    "$_total_box_office":77307226,
+    "movie_financial_summary_domestic_box_office":50865589,
+    "movie_financial_summary_international_box_office":26441637,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"I Love Trouble",
+    "$_total_box_office":61947267,
+    "movie_financial_summary_domestic_box_office":30806194,
+    "movie_financial_summary_international_box_office":31141073,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Larry Crowne",
+    "$_total_box_office":61449135,
+    "movie_financial_summary_domestic_box_office":35608245,
+    "movie_financial_summary_international_box_office":25840890,
+    "$_domestic_DVD_sales":6452110,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Flatliners",
+    "$_total_box_office":61308153,
+    "movie_financial_summary_domestic_box_office":61308153,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":26000000,
+    "movie_production_year":1990
+  },
+  {
+    "movie_display_name":"August:  Osage County",
+    "$_total_box_office":50473846,
+    "movie_financial_summary_domestic_box_office":37473846,
+    "movie_financial_summary_international_box_office":13000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Ant Bully",
+    "$_total_box_office":49610898,
+    "movie_financial_summary_domestic_box_office":28142535,
+    "movie_financial_summary_international_box_office":21468363,
+    "$_domestic_DVD_sales":29150894,
+    "movie_financial_summary_production_budget":45000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Everyone Says I Love You",
+    "$_total_box_office":34600000,
+    "movie_financial_summary_domestic_box_office":9725847,
+    "movie_financial_summary_international_box_office":24874153,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Confessions of a Dangerous Mind",
+    "$_total_box_office":33013805,
+    "movie_financial_summary_domestic_box_office":16007718,
+    "movie_financial_summary_international_box_office":17006087,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":29000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"The Player",
+    "$_total_box_office":28876702,
+    "movie_financial_summary_domestic_box_office":21706101,
+    "movie_financial_summary_international_box_office":7170601,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":8000000,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"Michael Collins",
+    "$_total_box_office":27572844,
+    "movie_financial_summary_domestic_box_office":11092559,
+    "movie_financial_summary_international_box_office":16480285,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Prêt-à-Porter",
+    "$_total_box_office":19806668,
+    "movie_financial_summary_domestic_box_office":11300653,
+    "movie_financial_summary_international_box_office":8506015,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Mary Reilly",
+    "$_total_box_office":12900000,
+    "movie_financial_summary_domestic_box_office":5707094,
+    "movie_financial_summary_international_box_office":7192906,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":47000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Mystic Pizza",
+    "$_total_box_office":12793213,
+    "movie_financial_summary_domestic_box_office":12793213,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":6000000,
+    "movie_production_year":1988
+  },
+  {
+    "movie_display_name":"Satisfaction",
+    "$_total_box_office":8253123,
+    "movie_financial_summary_domestic_box_office":8253123,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1988
+  },
+  {
+    "movie_display_name":"Fireflies in the Garden",
+    "$_total_box_office":3505823,
+    "movie_financial_summary_domestic_box_office":36884,
+    "movie_financial_summary_international_box_office":3468939,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Full Frontal",
+    "$_total_box_office":3438804,
+    "movie_financial_summary_domestic_box_office":2512846,
+    "movie_financial_summary_international_box_office":925958,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":2000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Grand Champion",
+    "$_total_box_office":40874,
+    "movie_financial_summary_domestic_box_office":40874,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2004
+  }
+]

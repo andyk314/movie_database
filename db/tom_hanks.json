@@ -1,0 +1,434 @@
+[
+  {
+    "movie_display_name":"Toy Story 3",
+    "$_total_box_office":1063759456,
+    "movie_financial_summary_domestic_box_office":415004880,
+    "movie_financial_summary_international_box_office":648754576,
+    "$_domestic_DVD_sales":188227969,
+    "movie_financial_summary_production_budget":200000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Da Vinci Code",
+    "$_total_box_office":767820459,
+    "movie_financial_summary_domestic_box_office":217536138,
+    "movie_financial_summary_international_box_office":550284321,
+    "$_domestic_DVD_sales":100542747,
+    "movie_financial_summary_production_budget":125000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Forrest Gump",
+    "$_total_box_office":679400525,
+    "movie_financial_summary_domestic_box_office":329694499,
+    "movie_financial_summary_international_box_office":349706026,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":55000000,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"The Simpsons Movie",
+    "$_total_box_office":527071022,
+    "movie_financial_summary_domestic_box_office":183135014,
+    "movie_financial_summary_international_box_office":343936008,
+    "$_domestic_DVD_sales":96540120,
+    "movie_financial_summary_production_budget":72500000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Toy Story 2",
+    "$_total_box_office":511358276,
+    "movie_financial_summary_domestic_box_office":245852179,
+    "movie_financial_summary_international_box_office":265506097,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":90000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Angels & Demons",
+    "$_total_box_office":490875846,
+    "movie_financial_summary_domestic_box_office":133375846,
+    "movie_financial_summary_international_box_office":357500000,
+    "$_domestic_DVD_sales":35192353,
+    "movie_financial_summary_production_budget":150000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Saving Private Ryan",
+    "$_total_box_office":485035085,
+    "movie_financial_summary_domestic_box_office":216335085,
+    "movie_financial_summary_international_box_office":268700000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":65000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Cast Away",
+    "$_total_box_office":427230516,
+    "movie_financial_summary_domestic_box_office":233632142,
+    "movie_financial_summary_international_box_office":193598374,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Toy Story",
+    "$_total_box_office":364530148,
+    "movie_financial_summary_domestic_box_office":191780865,
+    "movie_financial_summary_international_box_office":172749283,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Catch Me if You Can",
+    "$_total_box_office":351106800,
+    "movie_financial_summary_domestic_box_office":164606800,
+    "movie_financial_summary_international_box_office":186500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":52000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Apollo 13",
+    "$_total_box_office":334100000,
+    "movie_financial_summary_domestic_box_office":172070496,
+    "movie_financial_summary_international_box_office":162029504,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":65000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"The Polar Express",
+    "$_total_box_office":319049659,
+    "movie_financial_summary_domestic_box_office":194949659,
+    "movie_financial_summary_international_box_office":124100000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":170000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"The Green Mile",
+    "$_total_box_office":290701374,
+    "movie_financial_summary_domestic_box_office":136801374,
+    "movie_financial_summary_international_box_office":153900000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"You've Got Mail",
+    "$_total_box_office":250800000,
+    "movie_financial_summary_domestic_box_office":115821495,
+    "movie_financial_summary_international_box_office":134978505,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":65000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Sleepless in Seattle",
+    "$_total_box_office":227900000,
+    "movie_financial_summary_domestic_box_office":126680884,
+    "movie_financial_summary_international_box_office":101219116,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Captain Phillips",
+    "$_total_box_office":218756601,
+    "movie_financial_summary_domestic_box_office":107136417,
+    "movie_financial_summary_international_box_office":111620184,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":55000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"The Terminal",
+    "$_total_box_office":218673959,
+    "movie_financial_summary_domestic_box_office":77073959,
+    "movie_financial_summary_international_box_office":141600000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Philadelphia",
+    "$_total_box_office":201324422,
+    "movie_financial_summary_domestic_box_office":77324422,
+    "movie_financial_summary_international_box_office":124000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":26000000,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"The Road to Perdition",
+    "$_total_box_office":183354514,
+    "movie_financial_summary_domestic_box_office":104054514,
+    "movie_financial_summary_international_box_office":79300000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Big",
+    "$_total_box_office":151668774,
+    "movie_financial_summary_domestic_box_office":114968774,
+    "movie_financial_summary_international_box_office":36700000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":18000000,
+    "movie_production_year":1988
+  },
+  {
+    "movie_display_name":"A League of Their Own",
+    "$_total_box_office":132440066,
+    "movie_financial_summary_domestic_box_office":107533925,
+    "movie_financial_summary_international_box_office":24906141,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"Cloud Atlas",
+    "$_total_box_office":126018564,
+    "movie_financial_summary_domestic_box_office":27108272,
+    "movie_financial_summary_international_box_office":98910292,
+    "$_domestic_DVD_sales":7579034,
+    "movie_financial_summary_production_budget":102000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Charlie Wilson's War",
+    "$_total_box_office":119512771,
+    "movie_financial_summary_domestic_box_office":66661095,
+    "movie_financial_summary_international_box_office":52851676,
+    "$_domestic_DVD_sales":17646798,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Saving Mr. Banks",
+    "$_total_box_office":101012862,
+    "movie_financial_summary_domestic_box_office":83112862,
+    "movie_financial_summary_international_box_office":17900000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"The Ladykillers",
+    "$_total_box_office":77392139,
+    "movie_financial_summary_domestic_box_office":39692139,
+    "movie_financial_summary_international_box_office":37700000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Turner & Hooch",
+    "$_total_box_office":71079915,
+    "movie_financial_summary_domestic_box_office":71079915,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1989
+  },
+  {
+    "movie_display_name":"Splash",
+    "$_total_box_office":62599495,
+    "movie_financial_summary_domestic_box_office":62599495,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":8000000,
+    "movie_production_year":1984
+  },
+  {
+    "movie_display_name":"Larry Crowne",
+    "$_total_box_office":61449135,
+    "movie_financial_summary_domestic_box_office":35608245,
+    "movie_financial_summary_international_box_office":25840890,
+    "$_domestic_DVD_sales":6452110,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Dragnet",
+    "$_total_box_office":57387000,
+    "movie_financial_summary_domestic_box_office":57387000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1987
+  },
+  {
+    "movie_display_name":"Extremely Loud and Incredibly Close",
+    "$_total_box_office":46247881,
+    "movie_financial_summary_domestic_box_office":31847881,
+    "movie_financial_summary_international_box_office":14400000,
+    "$_domestic_DVD_sales":8458442,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Magnificent Desolation",
+    "$_total_box_office":45865303,
+    "movie_financial_summary_domestic_box_office":40144533,
+    "movie_financial_summary_international_box_office":5720770,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Joe Versus the Volcano",
+    "$_total_box_office":39381963,
+    "movie_financial_summary_domestic_box_office":39381963,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1990
+  },
+  {
+    "movie_display_name":"Bachelor Party",
+    "$_total_box_office":38435947,
+    "movie_financial_summary_domestic_box_office":38435947,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1984
+  },
+  {
+    "movie_display_name":"The Money Pit",
+    "$_total_box_office":37499651,
+    "movie_financial_summary_domestic_box_office":37499651,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1986
+  },
+  {
+    "movie_display_name":"The `burbs",
+    "$_total_box_office":35382246,
+    "movie_financial_summary_domestic_box_office":35382246,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1989
+  },
+  {
+    "movie_display_name":"That Thing You Do!",
+    "$_total_box_office":34557416,
+    "movie_financial_summary_domestic_box_office":25857416,
+    "movie_financial_summary_international_box_office":8700000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":2500000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Nothing in Common",
+    "$_total_box_office":32324000,
+    "movie_financial_summary_domestic_box_office":32324000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1986
+  },
+  {
+    "movie_display_name":"Punchline",
+    "$_total_box_office":21032000,
+    "movie_financial_summary_domestic_box_office":21032000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1988
+  },
+  {
+    "movie_display_name":"Volunteers",
+    "$_total_box_office":19875740,
+    "movie_financial_summary_domestic_box_office":19875740,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1985
+  },
+  {
+    "movie_display_name":"The Bonfire of the Vanities",
+    "$_total_box_office":15432314,
+    "movie_financial_summary_domestic_box_office":15432314,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1990
+  },
+  {
+    "movie_display_name":"The Man With One Red Shoe",
+    "$_total_box_office":8645411,
+    "movie_financial_summary_domestic_box_office":8645411,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1985
+  },
+  {
+    "movie_display_name":"He Knows You're Alone",
+    "$_total_box_office":4875436,
+    "movie_financial_summary_domestic_box_office":4875436,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1980
+  },
+  {
+    "movie_display_name":"Apollo 13 (IMAX)",
+    "$_total_box_office":2219202,
+    "movie_financial_summary_domestic_box_office":1759075,
+    "movie_financial_summary_international_box_office":460127,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"The Celluloid Closet",
+    "$_total_box_office":1310167,
+    "movie_financial_summary_domestic_box_office":1310167,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"The Great Buck Howard",
+    "$_total_box_office":900587,
+    "movie_financial_summary_domestic_box_office":750587,
+    "movie_financial_summary_international_box_office":150000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Every Time We Say Goodbye",
+    "$_total_box_office":278623,
+    "movie_financial_summary_domestic_box_office":278623,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1986
+  },
+  {
+    "movie_display_name":"Elvis Has Left the Building",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Killing Lincoln",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2013
+  }
+]

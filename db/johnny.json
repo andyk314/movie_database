@@ -1,0 +1,452 @@
+[
+  {
+    "movie_display_name":"Pirates of the Caribbean: Dead Man's Chest",
+    "$_total_box_office":1060615812,
+    "movie_financial_summary_domestic_box_office":423315812,
+    "movie_financial_summary_international_box_office":637300000,
+    "$_domestic_DVD_sales":321499631,
+    "movie_financial_summary_production_budget":225000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Pirates of the Caribbean: On Stranger Tides",
+    "$_total_box_office":1043663875,
+    "movie_financial_summary_domestic_box_office":241063875,
+    "movie_financial_summary_international_box_office":802600000,
+    "$_domestic_DVD_sales":23671663,
+    "movie_financial_summary_production_budget":250000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Alice in Wonderland",
+    "$_total_box_office":1024391110,
+    "movie_financial_summary_domestic_box_office":334191110,
+    "movie_financial_summary_international_box_office":690200000,
+    "$_domestic_DVD_sales":78318372,
+    "movie_financial_summary_production_budget":200000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Pirates of the Caribbean: At World's End",
+    "$_total_box_office":960996492,
+    "movie_financial_summary_domestic_box_office":309420425,
+    "movie_financial_summary_international_box_office":651576067,
+    "$_domestic_DVD_sales":296618351,
+    "movie_financial_summary_production_budget":300000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Pirates of the Caribbean: The Curse of the Black Pearl",
+    "$_total_box_office":634954103,
+    "movie_financial_summary_domestic_box_office":305411224,
+    "movie_financial_summary_international_box_office":329542879,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":125000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Charlie and the Chocolate Factory",
+    "$_total_box_office":474459076,
+    "movie_financial_summary_domestic_box_office":206459076,
+    "movie_financial_summary_international_box_office":268000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":150000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"The Tourist",
+    "$_total_box_office":278731369,
+    "movie_financial_summary_domestic_box_office":67631157,
+    "movie_financial_summary_international_box_office":211100212,
+    "$_domestic_DVD_sales":17333525,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Lone Ranger",
+    "$_total_box_office":259989910,
+    "movie_financial_summary_domestic_box_office":89289910,
+    "movie_financial_summary_international_box_office":170700000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":275000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Rango",
+    "$_total_box_office":245504574,
+    "movie_financial_summary_domestic_box_office":123257581,
+    "movie_financial_summary_international_box_office":122246993,
+    "$_domestic_DVD_sales":23221132,
+    "movie_financial_summary_production_budget":135000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Dark Shadows",
+    "$_total_box_office":236527149,
+    "movie_financial_summary_domestic_box_office":79727149,
+    "movie_financial_summary_international_box_office":156800000,
+    "$_domestic_DVD_sales":15999322,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Public Enemies",
+    "$_total_box_office":210379983,
+    "movie_financial_summary_domestic_box_office":97104620,
+    "movie_financial_summary_international_box_office":113275363,
+    "$_domestic_DVD_sales":37167048,
+    "movie_financial_summary_production_budget":102500000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Sleepy Hollow",
+    "$_total_box_office":207068340,
+    "movie_financial_summary_domestic_box_office":101068340,
+    "movie_financial_summary_international_box_office":106000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Sweeney Todd: The Demon Barber of Fleet Street",
+    "$_total_box_office":153329844,
+    "movie_financial_summary_domestic_box_office":52898073,
+    "movie_financial_summary_international_box_office":100431771,
+    "$_domestic_DVD_sales":38514755,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Chocolat",
+    "$_total_box_office":152500343,
+    "movie_financial_summary_domestic_box_office":71309760,
+    "movie_financial_summary_international_box_office":81190583,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Platoon",
+    "$_total_box_office":137963328,
+    "movie_financial_summary_domestic_box_office":137963328,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":6000000,
+    "movie_production_year":1986
+  },
+  {
+    "movie_display_name":"Finding Neverland",
+    "$_total_box_office":115036108,
+    "movie_financial_summary_domestic_box_office":51676606,
+    "movie_financial_summary_international_box_office":63359502,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"The Corpse Bride",
+    "$_total_box_office":114770654,
+    "movie_financial_summary_domestic_box_office":53359111,
+    "movie_financial_summary_international_box_office":61411543,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Once Upon a Time in Mexico",
+    "$_total_box_office":97413527,
+    "movie_financial_summary_domestic_box_office":56330657,
+    "movie_financial_summary_international_box_office":41082870,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":29000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Secret Window",
+    "$_total_box_office":92111551,
+    "movie_financial_summary_domestic_box_office":47958031,
+    "movie_financial_summary_international_box_office":44153520,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Deep Sea 3-D",
+    "$_total_box_office":87686368,
+    "movie_financial_summary_domestic_box_office":45908186,
+    "movie_financial_summary_international_box_office":41778182,
+    "$_domestic_DVD_sales":280208,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Blow",
+    "$_total_box_office":83282296,
+    "movie_financial_summary_domestic_box_office":52990775,
+    "movie_financial_summary_international_box_office":30291521,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"From Hell",
+    "$_total_box_office":68712365,
+    "movie_financial_summary_domestic_box_office":31598308,
+    "movie_financial_summary_international_box_office":37114057,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Donnie Brasco",
+    "$_total_box_office":65303052,
+    "movie_financial_summary_domestic_box_office":41954997,
+    "movie_financial_summary_international_box_office":23348055,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"The Imaginarium of Doctor Parnassus",
+    "$_total_box_office":64352607,
+    "movie_financial_summary_domestic_box_office":7689607,
+    "movie_financial_summary_international_box_office":56663000,
+    "$_domestic_DVD_sales":7739654,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"The Ninth Gate",
+    "$_total_box_office":58394308,
+    "movie_financial_summary_domestic_box_office":18653746,
+    "movie_financial_summary_international_box_office":39740562,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":38000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Edward Scissorhands",
+    "$_total_box_office":53976987,
+    "movie_financial_summary_domestic_box_office":53976987,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":1990
+  },
+  {
+    "movie_display_name":"A Nightmare on Elm Street",
+    "$_total_box_office":25504513,
+    "movie_financial_summary_domestic_box_office":25504513,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":1800000,
+    "movie_production_year":1984
+  },
+  {
+    "movie_display_name":"Benny & Joon",
+    "$_total_box_office":23202734,
+    "movie_financial_summary_domestic_box_office":23202734,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Don Juan DeMarco",
+    "$_total_box_office":22032635,
+    "movie_financial_summary_domestic_box_office":22032635,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"The Rum Diary",
+    "$_total_box_office":21544732,
+    "movie_financial_summary_domestic_box_office":13109815,
+    "movie_financial_summary_international_box_office":8434917,
+    "$_domestic_DVD_sales":4181060,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Fear and Loathing in Las Vegas",
+    "$_total_box_office":13711903,
+    "movie_financial_summary_domestic_box_office":10680275,
+    "movie_financial_summary_international_box_office":3031628,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":18500000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"The Astronaut's Wife",
+    "$_total_box_office":10672566,
+    "movie_financial_summary_domestic_box_office":10672566,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":34000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"The Libertine",
+    "$_total_box_office":9448623,
+    "movie_financial_summary_domestic_box_office":4835065,
+    "movie_financial_summary_international_box_office":4613558,
+    "$_domestic_DVD_sales":2845389,
+    "movie_financial_summary_production_budget":22000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"What's Eating Gilbert Grape",
+    "$_total_box_office":9170214,
+    "movie_financial_summary_domestic_box_office":9170214,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":11000000,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Before Night Falls",
+    "$_total_box_office":8503459,
+    "movie_financial_summary_domestic_box_office":4221817,
+    "movie_financial_summary_international_box_office":4281642,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Nick of Time",
+    "$_total_box_office":8087783,
+    "movie_financial_summary_domestic_box_office":8087783,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Cry-Baby",
+    "$_total_box_office":7735790,
+    "movie_financial_summary_domestic_box_office":7735790,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1990
+  },
+  {
+    "movie_display_name":"Ed Wood",
+    "$_total_box_office":5828466,
+    "movie_financial_summary_domestic_box_office":5828466,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":18000000,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Lost in La Mancha",
+    "$_total_box_office":2284491,
+    "movie_financial_summary_domestic_box_office":734514,
+    "movie_financial_summary_international_box_office":1549977,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"The Source",
+    "$_total_box_office":1956822,
+    "movie_financial_summary_domestic_box_office":362357,
+    "movie_financial_summary_international_box_office":1594465,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"The Man Who Cried",
+    "$_total_box_office":1790840,
+    "movie_financial_summary_domestic_box_office":747092,
+    "movie_financial_summary_international_box_office":1043748,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Gonzo: The Life and Work of Dr. Hunter S. Thompson",
+    "$_total_box_office":1492100,
+    "movie_financial_summary_domestic_box_office":1252100,
+    "movie_financial_summary_international_box_office":240000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Joe Strummer: The Future is Unwritten",
+    "$_total_box_office":1108560,
+    "movie_financial_summary_domestic_box_office":248182,
+    "movie_financial_summary_international_box_office":860378,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Dead Man",
+    "$_total_box_office":1025488,
+    "movie_financial_summary_domestic_box_office":1025488,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"When the Road Bends: Tales of a Gypsy Caravan",
+    "$_total_box_office":442936,
+    "movie_financial_summary_domestic_box_office":442936,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Private Resort",
+    "$_total_box_office":331816,
+    "movie_financial_summary_domestic_box_office":331816,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1985
+  },
+  {
+    "movie_display_name":"When You're Strange: A Film About The Doors",
+    "$_total_box_office":246078,
+    "movie_financial_summary_domestic_box_office":246078,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Arizona Dream",
+    "$_total_box_office":106000,
+    "movie_financial_summary_domestic_box_office":106000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"Transcendence",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  },
+  {
+    "movie_display_name":"Into the Woods",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  }
+]

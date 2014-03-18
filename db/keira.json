@@ -1,0 +1,218 @@
+[
+  {
+    "movie_display_name":"Pirates of the Caribbean: Dead Man's Chest",
+    "$_total_box_office":1060615812,
+    "movie_financial_summary_domestic_box_office":423315812,
+    "movie_financial_summary_international_box_office":637300000,
+    "$_domestic_DVD_sales":321499631,
+    "movie_financial_summary_production_budget":225000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Star Wars Ep. I: The Phantom Menace",
+    "$_total_box_office":1007044677,
+    "movie_financial_summary_domestic_box_office":474544677,
+    "movie_financial_summary_international_box_office":532500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":115000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Pirates of the Caribbean: At World's End",
+    "$_total_box_office":960996492,
+    "movie_financial_summary_domestic_box_office":309420425,
+    "movie_financial_summary_international_box_office":651576067,
+    "$_domestic_DVD_sales":296618351,
+    "movie_financial_summary_production_budget":300000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Pirates of the Caribbean: The Curse of the Black Pearl",
+    "$_total_box_office":634954103,
+    "movie_financial_summary_domestic_box_office":305411224,
+    "movie_financial_summary_international_box_office":329542879,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":125000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Love Actually",
+    "$_total_box_office":247967903,
+    "movie_financial_summary_domestic_box_office":59472278,
+    "movie_financial_summary_international_box_office":188495625,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":45000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"King Arthur",
+    "$_total_box_office":203877963,
+    "movie_financial_summary_domestic_box_office":51877963,
+    "movie_financial_summary_international_box_office":152000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":90000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Jack Ryan: Shadow Recruit",
+    "$_total_box_office":131080814,
+    "movie_financial_summary_domestic_box_office":50280814,
+    "movie_financial_summary_international_box_office":80800000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Atonement",
+    "$_total_box_office":130200290,
+    "movie_financial_summary_domestic_box_office":50980159,
+    "movie_financial_summary_international_box_office":79220131,
+    "$_domestic_DVD_sales":15838275,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Pride and Prejudice",
+    "$_total_box_office":120918508,
+    "movie_financial_summary_domestic_box_office":38372662,
+    "movie_financial_summary_international_box_office":82545846,
+    "$_domestic_DVD_sales":53538227,
+    "movie_financial_summary_production_budget":28000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Bend it Like Beckham",
+    "$_total_box_office":76730377,
+    "movie_financial_summary_domestic_box_office":32543449,
+    "movie_financial_summary_international_box_office":44186928,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":5600000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Anna Karenina",
+    "$_total_box_office":70735540,
+    "movie_financial_summary_domestic_box_office":12816367,
+    "movie_financial_summary_international_box_office":57919173,
+    "$_domestic_DVD_sales":4364474,
+    "movie_financial_summary_production_budget":49000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"The Duchess",
+    "$_total_box_office":43348978,
+    "movie_financial_summary_domestic_box_office":13848978,
+    "movie_financial_summary_international_box_office":29500000,
+    "$_domestic_DVD_sales":8583070,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Domino",
+    "$_total_box_office":22969202,
+    "movie_financial_summary_domestic_box_office":10169202,
+    "movie_financial_summary_international_box_office":12800000,
+    "$_domestic_DVD_sales":15730743,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"The Jacket",
+    "$_total_box_office":15452978,
+    "movie_financial_summary_domestic_box_office":6301131,
+    "movie_financial_summary_international_box_office":9151847,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":28500000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"A Dangerous Method",
+    "$_total_box_office":14807531,
+    "movie_financial_summary_domestic_box_office":5702083,
+    "movie_financial_summary_international_box_office":9105448,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Never Let Me Go",
+    "$_total_box_office":11509512,
+    "movie_financial_summary_domestic_box_office":2434652,
+    "movie_financial_summary_international_box_office":9074860,
+    "$_domestic_DVD_sales":2331900,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Seeking a Friend for the End of the World",
+    "$_total_box_office":7756163,
+    "movie_financial_summary_domestic_box_office":7078738,
+    "movie_financial_summary_international_box_office":677425,
+    "$_domestic_DVD_sales":1488972,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"London Boulevard",
+    "$_total_box_office":6111194,
+    "movie_financial_summary_domestic_box_office":16075,
+    "movie_financial_summary_international_box_office":6095119,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Edge of Love",
+    "$_total_box_office":3238922,
+    "movie_financial_summary_domestic_box_office":33260,
+    "movie_financial_summary_international_box_office":3205662,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Last Night",
+    "$_total_box_office":2036436,
+    "movie_financial_summary_domestic_box_office":112087,
+    "movie_financial_summary_international_box_office":1924349,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Silk",
+    "$_total_box_office":1103075,
+    "movie_financial_summary_domestic_box_office":1103075,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Pure",
+    "$_total_box_office":102471,
+    "movie_financial_summary_domestic_box_office":102471,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Laggies",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  },
+  {
+    "movie_display_name":"Can a Song Save Your Life?",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2013
+  }
+]

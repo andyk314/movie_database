@@ -1,0 +1,128 @@
+[
+  {
+    "movie_display_name":"Harry Potter and the Deathly Hallows: Part II",
+    "$_total_box_office":1328111219,
+    "movie_financial_summary_domestic_box_office":381011219,
+    "movie_financial_summary_international_box_office":947100000,
+    "$_domestic_DVD_sales":91149971,
+    "movie_financial_summary_production_budget":125000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Harry Potter and the Sorcerer's Stone",
+    "$_total_box_office":974755371,
+    "movie_financial_summary_domestic_box_office":317575550,
+    "movie_financial_summary_international_box_office":657179821,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":125000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Harry Potter and the Deathly Hallows: Part I",
+    "$_total_box_office":956399711,
+    "movie_financial_summary_domestic_box_office":295983305,
+    "movie_financial_summary_international_box_office":660416406,
+    "$_domestic_DVD_sales":88054988,
+    "movie_financial_summary_production_budget":125000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Harry Potter and the Order of the Phoenix",
+    "$_total_box_office":942943935,
+    "movie_financial_summary_domestic_box_office":292004738,
+    "movie_financial_summary_international_box_office":650939197,
+    "$_domestic_DVD_sales":224462920,
+    "movie_financial_summary_production_budget":150000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Harry Potter and the Half-Blood Prince",
+    "$_total_box_office":934416487,
+    "movie_financial_summary_domestic_box_office":301959197,
+    "movie_financial_summary_international_box_office":632457290,
+    "$_domestic_DVD_sales":118838815,
+    "movie_financial_summary_production_budget":250000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Harry Potter and the Goblet of Fire",
+    "$_total_box_office":896911078,
+    "movie_financial_summary_domestic_box_office":290013036,
+    "movie_financial_summary_international_box_office":606898042,
+    "$_domestic_DVD_sales":217722014,
+    "movie_financial_summary_production_budget":150000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Harry Potter and the Chamber of Secrets",
+    "$_total_box_office":878979634,
+    "movie_financial_summary_domestic_box_office":261987880,
+    "movie_financial_summary_international_box_office":616991754,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Harry Potter and the Prisoner of Azkaban",
+    "$_total_box_office":796688549,
+    "movie_financial_summary_domestic_box_office":249538952,
+    "movie_financial_summary_international_box_office":547149597,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":130000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"This is the End",
+    "$_total_box_office":126294264,
+    "movie_financial_summary_domestic_box_office":101470202,
+    "movie_financial_summary_international_box_office":24824062,
+    "$_domestic_DVD_sales":6325968,
+    "movie_financial_summary_production_budget":32000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"The Tale of Despereaux",
+    "$_total_box_office":90482317,
+    "movie_financial_summary_domestic_box_office":50877145,
+    "movie_financial_summary_international_box_office":39605172,
+    "$_domestic_DVD_sales":26940731,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"The Perks of Being a Wallflower",
+    "$_total_box_office":33384127,
+    "movie_financial_summary_domestic_box_office":17742948,
+    "movie_financial_summary_international_box_office":15641179,
+    "$_domestic_DVD_sales":11201257,
+    "movie_financial_summary_production_budget":13000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"My Week with Marilyn",
+    "$_total_box_office":17531232,
+    "movie_financial_summary_domestic_box_office":14597405,
+    "movie_financial_summary_international_box_office":2933827,
+    "$_domestic_DVD_sales":5796112,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"The Bling Ring",
+    "$_total_box_office":12407491,
+    "movie_financial_summary_domestic_box_office":5845732,
+    "movie_financial_summary_international_box_office":6561759,
+    "$_domestic_DVD_sales":703736,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Napoleon and Betsy",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  }
+]

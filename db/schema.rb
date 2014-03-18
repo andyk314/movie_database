@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140313174553) do
+ActiveRecord::Schema.define(version: 20140318033318) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -32,27 +32,20 @@ ActiveRecord::Schema.define(version: 20140313174553) do
     t.string   "picture"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "star_id"
   end
-
-  create_table "actors_movies", force: true do |t|
-    t.integer  "actor_id"
-    t.integer  "movie_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
-
-  add_index "actors_movies", ["actor_id"], name: "index_actors_movies_on_actor_id", using: :btree
-  add_index "actors_movies", ["movie_id"], name: "index_actors_movies_on_movie_id", using: :btree
 
   create_table "movies", force: true do |t|
     t.string   "title"
-    t.integer  "revenue"
-    t.string   "poster"
     t.string   "movie_id"
-    t.string   "release_date"
     t.string   "runtime"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "total_revenue"
+    t.integer  "usa_revenue"
+    t.integer  "international_revenue"
+    t.integer  "budget"
+    t.integer  "release_year"
   end
 
 end

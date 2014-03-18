@@ -1,0 +1,632 @@
+[
+  {
+    "movie_display_name":"The Sixth Sense",
+    "$_total_box_office":672806292,
+    "movie_financial_summary_domestic_box_office":293506292,
+    "movie_financial_summary_international_box_office":379300000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Armageddon",
+    "$_total_box_office":554600000,
+    "movie_financial_summary_domestic_box_office":201578182,
+    "movie_financial_summary_international_box_office":353021818,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":140000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Live Free or Die Hard",
+    "$_total_box_office":383531464,
+    "movie_financial_summary_domestic_box_office":134529403,
+    "movie_financial_summary_international_box_office":249002061,
+    "$_domestic_DVD_sales":101088467,
+    "movie_financial_summary_production_budget":110000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"G.I. Joe: Retaliation",
+    "$_total_box_office":371923060,
+    "movie_financial_summary_domestic_box_office":122523060,
+    "movie_financial_summary_international_box_office":249400000,
+    "$_domestic_DVD_sales":16096875,
+    "movie_financial_summary_production_budget":140000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Die Hard: With a Vengeance",
+    "$_total_box_office":364480746,
+    "movie_financial_summary_domestic_box_office":100012499,
+    "movie_financial_summary_international_box_office":264468247,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":90000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Over the Hedge",
+    "$_total_box_office":336002981,
+    "movie_financial_summary_domestic_box_office":155019340,
+    "movie_financial_summary_international_box_office":180983641,
+    "$_domestic_DVD_sales":131014973,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"The Expendables 2",
+    "$_total_box_office":311979256,
+    "movie_financial_summary_domestic_box_office":85028192,
+    "movie_financial_summary_international_box_office":226951064,
+    "$_domestic_DVD_sales":21851731,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"A Good Day to Die Hard",
+    "$_total_box_office":304249198,
+    "movie_financial_summary_domestic_box_office":67349198,
+    "movie_financial_summary_international_box_office":236900000,
+    "$_domestic_DVD_sales":14287547,
+    "movie_financial_summary_production_budget":92000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Look Who's Talking",
+    "$_total_box_office":297100000,
+    "movie_financial_summary_domestic_box_office":140088813,
+    "movie_financial_summary_international_box_office":157011187,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1989
+  },
+  {
+    "movie_display_name":"The Fifth Element",
+    "$_total_box_office":263900000,
+    "movie_financial_summary_domestic_box_office":63570862,
+    "movie_financial_summary_international_box_office":200329138,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":95000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Unbreakable",
+    "$_total_box_office":248099143,
+    "movie_financial_summary_domestic_box_office":94999143,
+    "movie_financial_summary_international_box_office":153100000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":73243106,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Die Hard 2",
+    "$_total_box_office":239814025,
+    "movie_financial_summary_domestic_box_office":117323878,
+    "movie_financial_summary_international_box_office":122490147,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":1990
+  },
+  {
+    "movie_display_name":"Charlie's Angels: Full Throttle",
+    "$_total_box_office":227200000,
+    "movie_financial_summary_domestic_box_office":100814328,
+    "movie_financial_summary_international_box_office":126385672,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":120000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Pulp Fiction",
+    "$_total_box_office":212928762,
+    "movie_financial_summary_domestic_box_office":107928762,
+    "movie_financial_summary_international_box_office":105000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":8000000,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Red",
+    "$_total_box_office":196439693,
+    "movie_financial_summary_domestic_box_office":90380162,
+    "movie_financial_summary_international_box_office":106059531,
+    "$_domestic_DVD_sales":37572211,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Looper",
+    "$_total_box_office":176486205,
+    "movie_financial_summary_domestic_box_office":66486205,
+    "movie_financial_summary_international_box_office":110000000,
+    "$_domestic_DVD_sales":20476990,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Twelve Monkeys",
+    "$_total_box_office":168841459,
+    "movie_financial_summary_domestic_box_office":57141459,
+    "movie_financial_summary_international_box_office":111700000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":29000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"The Jackal",
+    "$_total_box_office":159356941,
+    "movie_financial_summary_domestic_box_office":54956941,
+    "movie_financial_summary_international_box_office":104400000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Sin City",
+    "$_total_box_office":158753820,
+    "movie_financial_summary_domestic_box_office":74103820,
+    "movie_financial_summary_international_box_office":84650000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Death Becomes Her",
+    "$_total_box_office":149022650,
+    "movie_financial_summary_domestic_box_office":58422650,
+    "movie_financial_summary_international_box_office":90600000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":55000000,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"Die Hard",
+    "$_total_box_office":139109346,
+    "movie_financial_summary_domestic_box_office":81350242,
+    "movie_financial_summary_international_box_office":57759104,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":28000000,
+    "movie_production_year":1988
+  },
+  {
+    "movie_display_name":"RED 2",
+    "$_total_box_office":137162560,
+    "movie_financial_summary_domestic_box_office":53262560,
+    "movie_financial_summary_international_box_office":83900000,
+    "$_domestic_DVD_sales":13944481,
+    "movie_financial_summary_production_budget":84000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Surrogates",
+    "$_total_box_office":119668350,
+    "movie_financial_summary_domestic_box_office":38577772,
+    "movie_financial_summary_international_box_office":81090578,
+    "$_domestic_DVD_sales":12209316,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"The Siege",
+    "$_total_box_office":116625798,
+    "movie_financial_summary_domestic_box_office":40934175,
+    "movie_financial_summary_international_box_office":75691623,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Tears of the Sun",
+    "$_total_box_office":85632458,
+    "movie_financial_summary_domestic_box_office":43632458,
+    "movie_financial_summary_international_box_office":42000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"The Whole Nine Yards",
+    "$_total_box_office":85527867,
+    "movie_financial_summary_domestic_box_office":57262492,
+    "movie_financial_summary_international_box_office":28265375,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":24000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Hostage",
+    "$_total_box_office":77636443,
+    "movie_financial_summary_domestic_box_office":34636443,
+    "movie_financial_summary_international_box_office":43000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Bandits",
+    "$_total_box_office":71523271,
+    "movie_financial_summary_domestic_box_office":41523271,
+    "movie_financial_summary_international_box_office":30000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"The Kid",
+    "$_total_box_office":69688384,
+    "movie_financial_summary_domestic_box_office":69688384,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":65000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"16 Blocks",
+    "$_total_box_office":65595141,
+    "movie_financial_summary_domestic_box_office":36895141,
+    "movie_financial_summary_international_box_office":28700000,
+    "$_domestic_DVD_sales":17571293,
+    "movie_financial_summary_production_budget":45000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Moonrise Kingdom",
+    "$_total_box_office":64012466,
+    "movie_financial_summary_domestic_box_office":45512466,
+    "movie_financial_summary_international_box_office":18500000,
+    "$_domestic_DVD_sales":7288292,
+    "movie_financial_summary_production_budget":16000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Beavis and Butt-head Do America",
+    "$_total_box_office":63118386,
+    "movie_financial_summary_domestic_box_office":63118386,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":12000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Perfect Stranger",
+    "$_total_box_office":62526388,
+    "movie_financial_summary_domestic_box_office":23760822,
+    "movie_financial_summary_international_box_office":38765566,
+    "$_domestic_DVD_sales":23840741,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"The Last Boy Scout",
+    "$_total_box_office":59509925,
+    "movie_financial_summary_domestic_box_office":59509925,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1991
+  },
+  {
+    "movie_display_name":"Cop Out",
+    "$_total_box_office":55909910,
+    "movie_financial_summary_domestic_box_office":44875481,
+    "movie_financial_summary_international_box_office":11034429,
+    "$_domestic_DVD_sales":14121175,
+    "movie_financial_summary_production_budget":37000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Lucky Number Slevin",
+    "$_total_box_office":55495466,
+    "movie_financial_summary_domestic_box_office":22495466,
+    "movie_financial_summary_international_box_office":33000000,
+    "$_domestic_DVD_sales":27101248,
+    "movie_financial_summary_production_budget":27000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Rugrats Go Wild",
+    "$_total_box_office":55443032,
+    "movie_financial_summary_domestic_box_office":39402572,
+    "movie_financial_summary_international_box_office":16040460,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"The Verdict",
+    "$_total_box_office":53977250,
+    "movie_financial_summary_domestic_box_office":53977250,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":16000000,
+    "movie_production_year":1982
+  },
+  {
+    "movie_display_name":"Grindhouse",
+    "$_total_box_office":50187789,
+    "movie_financial_summary_domestic_box_office":25031037,
+    "movie_financial_summary_international_box_office":25156752,
+    "$_domestic_DVD_sales":31509246,
+    "movie_financial_summary_production_budget":53000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Look Who's Talking Too",
+    "$_total_box_office":46614448,
+    "movie_financial_summary_domestic_box_office":46614448,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1990
+  },
+  {
+    "movie_display_name":"Nobody's Fool",
+    "$_total_box_office":39453238,
+    "movie_financial_summary_domestic_box_office":39453238,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Blind Date",
+    "$_total_box_office":39321000,
+    "movie_financial_summary_domestic_box_office":39321000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1987
+  },
+  {
+    "movie_display_name":"Hart's War",
+    "$_total_box_office":33076815,
+    "movie_financial_summary_domestic_box_office":19076815,
+    "movie_financial_summary_international_box_office":14000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Mercury Rising",
+    "$_total_box_office":32983332,
+    "movie_financial_summary_domestic_box_office":32983332,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Alpha Dog",
+    "$_total_box_office":32514319,
+    "movie_financial_summary_domestic_box_office":15309602,
+    "movie_financial_summary_international_box_office":17204717,
+    "$_domestic_DVD_sales":12645077,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Nancy Drew",
+    "$_total_box_office":30703845,
+    "movie_financial_summary_domestic_box_office":25584685,
+    "movie_financial_summary_international_box_office":5119160,
+    "$_domestic_DVD_sales":10562003,
+    "movie_financial_summary_production_budget":2000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"The Player",
+    "$_total_box_office":28876702,
+    "movie_financial_summary_domestic_box_office":21706101,
+    "movie_financial_summary_international_box_office":7170601,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":8000000,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"The Story of Us",
+    "$_total_box_office":27100030,
+    "movie_financial_summary_domestic_box_office":27100030,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"The Whole Ten Yards",
+    "$_total_box_office":26323969,
+    "movie_financial_summary_domestic_box_office":16323969,
+    "movie_financial_summary_international_box_office":10000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Striking Distance",
+    "$_total_box_office":23798623,
+    "movie_financial_summary_domestic_box_office":23798623,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Color of Night",
+    "$_total_box_office":19750470,
+    "movie_financial_summary_domestic_box_office":19750470,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Mortal Thoughts",
+    "$_total_box_office":19018321,
+    "movie_financial_summary_domestic_box_office":19018321,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1991
+  },
+  {
+    "movie_display_name":"Last Man Standing",
+    "$_total_box_office":18115927,
+    "movie_financial_summary_domestic_box_office":18115927,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":67000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Hudson Hawk",
+    "$_total_box_office":17218916,
+    "movie_financial_summary_domestic_box_office":17218916,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":65000000,
+    "movie_production_year":1991
+  },
+  {
+    "movie_display_name":"Billy Bathgate",
+    "$_total_box_office":15565363,
+    "movie_financial_summary_domestic_box_office":15565363,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1991
+  },
+  {
+    "movie_display_name":"The Bonfire of the Vanities",
+    "$_total_box_office":15432314,
+    "movie_financial_summary_domestic_box_office":15432314,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1990
+  },
+  {
+    "movie_display_name":"The Cold Light of Day",
+    "$_total_box_office":12425385,
+    "movie_financial_summary_domestic_box_office":3763583,
+    "movie_financial_summary_international_box_office":8661802,
+    "$_domestic_DVD_sales":6347523,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"The Astronaut Farmer",
+    "$_total_box_office":11141213,
+    "movie_financial_summary_domestic_box_office":11003643,
+    "movie_financial_summary_international_box_office":137570,
+    "$_domestic_DVD_sales":13904021,
+    "movie_financial_summary_production_budget":13000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"North",
+    "$_total_box_office":6583223,
+    "movie_financial_summary_domestic_box_office":6583223,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Sunset",
+    "$_total_box_office":4595000,
+    "movie_financial_summary_domestic_box_office":4595000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1988
+  },
+  {
+    "movie_display_name":"Four Rooms",
+    "$_total_box_office":4301000,
+    "movie_financial_summary_domestic_box_office":4301000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":4000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"In Country",
+    "$_total_box_office":3531971,
+    "movie_financial_summary_domestic_box_office":3531971,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1989
+  },
+  {
+    "movie_display_name":"What Just Happened",
+    "$_total_box_office":2412123,
+    "movie_financial_summary_domestic_box_office":1090947,
+    "movie_financial_summary_international_box_office":1321176,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":27000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Fast Food Nation",
+    "$_total_box_office":1005539,
+    "movie_financial_summary_domestic_box_office":1005539,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Breakfast of Champions",
+    "$_total_box_office":178287,
+    "movie_financial_summary_domestic_box_office":178287,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":12000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"The Hip Hop Project",
+    "$_total_box_office":46208,
+    "movie_financial_summary_domestic_box_office":46208,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Grand Champion",
+    "$_total_box_office":40874,
+    "movie_financial_summary_domestic_box_office":40874,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Lay the Favorite",
+    "$_total_box_office":20998,
+    "movie_financial_summary_domestic_box_office":20998,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Catch .44",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Assassination of a High School President",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  }
+]

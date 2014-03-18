@@ -1,0 +1,119 @@
+[
+  {
+    "movie_display_name":"The Hunger Games: Catching Fire",
+    "$_total_box_office":857339131,
+    "movie_financial_summary_domestic_box_office":424339131,
+    "movie_financial_summary_international_box_office":433000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":130000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"The Hunger Games",
+    "$_total_box_office":684510692,
+    "movie_financial_summary_domestic_box_office":408010692,
+    "movie_financial_summary_international_box_office":276500000,
+    "$_domestic_DVD_sales":136930843,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"X-Men: First Class",
+    "$_total_box_office":355408305,
+    "movie_financial_summary_domestic_box_office":146408305,
+    "movie_financial_summary_international_box_office":209000000,
+    "$_domestic_DVD_sales":26028300,
+    "movie_financial_summary_production_budget":160000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"American Hustle",
+    "$_total_box_office":250405704,
+    "movie_financial_summary_domestic_box_office":149351703,
+    "movie_financial_summary_international_box_office":101054001,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Silver Linings Playbook",
+    "$_total_box_office":227317397,
+    "movie_financial_summary_domestic_box_office":132092958,
+    "movie_financial_summary_international_box_office":95224439,
+    "$_domestic_DVD_sales":16452415,
+    "movie_financial_summary_production_budget":21000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"House at the End of the Street",
+    "$_total_box_office":40494035,
+    "movie_financial_summary_domestic_box_office":31611916,
+    "movie_financial_summary_international_box_office":8882119,
+    "$_domestic_DVD_sales":8540570,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Winter's Bone",
+    "$_total_box_office":16131552,
+    "movie_financial_summary_domestic_box_office":6531503,
+    "movie_financial_summary_international_box_office":9600049,
+    "$_domestic_DVD_sales":3832081,
+    "movie_financial_summary_production_budget":2000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Beaver",
+    "$_total_box_office":5046038,
+    "movie_financial_summary_domestic_box_office":970816,
+    "movie_financial_summary_international_box_office":4075222,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":21000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Like Crazy",
+    "$_total_box_office":3731489,
+    "movie_financial_summary_domestic_box_office":3395391,
+    "movie_financial_summary_international_box_office":336098,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":250000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"The Burning Plain",
+    "$_total_box_office":1167092,
+    "movie_financial_summary_domestic_box_office":200730,
+    "movie_financial_summary_international_box_office":966362,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"The Poker House",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"X-Men: Days of Future Past",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  },
+  {
+    "movie_display_name":"The Hunger Games: Mockingjay - Part 1",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  }
+]

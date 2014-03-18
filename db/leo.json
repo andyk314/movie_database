@@ -1,0 +1,254 @@
+[
+  {
+    "movie_display_name":"Titanic",
+    "$_total_box_office":2185672302,
+    "movie_financial_summary_domestic_box_office":658672302,
+    "movie_financial_summary_international_box_office":1527000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":200000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Inception",
+    "$_total_box_office":832584416,
+    "movie_financial_summary_domestic_box_office":292576195,
+    "movie_financial_summary_international_box_office":540008221,
+    "$_domestic_DVD_sales":86989743,
+    "movie_financial_summary_production_budget":160000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Django Unchained",
+    "$_total_box_office":425373688,
+    "movie_financial_summary_domestic_box_office":162805434,
+    "movie_financial_summary_international_box_office":262568254,
+    "$_domestic_DVD_sales":29421885,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"The Wolf of Wall Street",
+    "$_total_box_office":373654507,
+    "movie_financial_summary_domestic_box_office":116654507,
+    "movie_financial_summary_international_box_office":257000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Catch Me if You Can",
+    "$_total_box_office":351106800,
+    "movie_financial_summary_domestic_box_office":164606800,
+    "movie_financial_summary_international_box_office":186500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":52000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"The Great Gatsby",
+    "$_total_box_office":351040419,
+    "movie_financial_summary_domestic_box_office":144840419,
+    "movie_financial_summary_international_box_office":206200000,
+    "$_domestic_DVD_sales":23177542,
+    "movie_financial_summary_production_budget":190000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Shutter Island",
+    "$_total_box_office":296831073,
+    "movie_financial_summary_domestic_box_office":128012934,
+    "movie_financial_summary_international_box_office":168818139,
+    "$_domestic_DVD_sales":25846582,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"The Departed",
+    "$_total_box_office":290539042,
+    "movie_financial_summary_domestic_box_office":133311000,
+    "movie_financial_summary_international_box_office":157228042,
+    "$_domestic_DVD_sales":141612310,
+    "movie_financial_summary_production_budget":90000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"The Aviator",
+    "$_total_box_office":214608827,
+    "movie_financial_summary_domestic_box_office":102608827,
+    "movie_financial_summary_international_box_office":112000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":110000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Gangs of New York",
+    "$_total_box_office":190400000,
+    "movie_financial_summary_domestic_box_office":77730500,
+    "movie_financial_summary_international_box_office":112669500,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":97000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Blood Diamond",
+    "$_total_box_office":171377916,
+    "movie_financial_summary_domestic_box_office":57377916,
+    "movie_financial_summary_international_box_office":114000000,
+    "$_domestic_DVD_sales":62982492,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Romeo+Juliet",
+    "$_total_box_office":147542381,
+    "movie_financial_summary_domestic_box_office":46338728,
+    "movie_financial_summary_international_box_office":101203653,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":14500000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Body of Lies",
+    "$_total_box_office":108394666,
+    "movie_financial_summary_domestic_box_office":39394666,
+    "movie_financial_summary_international_box_office":69000000,
+    "$_domestic_DVD_sales":23034326,
+    "movie_financial_summary_production_budget":67500000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Revolutionary Road",
+    "$_total_box_office":79564960,
+    "movie_financial_summary_domestic_box_office":22911480,
+    "movie_financial_summary_international_box_office":56653480,
+    "$_domestic_DVD_sales":8360862,
+    "movie_financial_summary_production_budget":45000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"J. Edgar",
+    "$_total_box_office":79006030,
+    "movie_financial_summary_domestic_box_office":37306030,
+    "movie_financial_summary_international_box_office":41700000,
+    "$_domestic_DVD_sales":9656382,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Hubble 3D",
+    "$_total_box_office":58953580,
+    "movie_financial_summary_domestic_box_office":42785680,
+    "movie_financial_summary_international_box_office":16167900,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Man in the Iron Mask",
+    "$_total_box_office":56968169,
+    "movie_financial_summary_domestic_box_office":56968169,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"The Beach",
+    "$_total_box_office":39778599,
+    "movie_financial_summary_domestic_box_office":39778599,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"The Quick and the Dead",
+    "$_total_box_office":18552460,
+    "movie_financial_summary_domestic_box_office":18552460,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":32000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Marvin's Room",
+    "$_total_box_office":12803305,
+    "movie_financial_summary_domestic_box_office":12803305,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":23000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"What's Eating Gilbert Grape",
+    "$_total_box_office":9170214,
+    "movie_financial_summary_domestic_box_office":9170214,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":11000000,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Celebrity",
+    "$_total_box_office":6200000,
+    "movie_financial_summary_domestic_box_office":5078660,
+    "movie_financial_summary_international_box_office":1121340,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":12000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"This Boy's Life",
+    "$_total_box_office":4104962,
+    "movie_financial_summary_domestic_box_office":4104962,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"The Basketball Diaries",
+    "$_total_box_office":2381087,
+    "movie_financial_summary_domestic_box_office":2381087,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Poison Ivy",
+    "$_total_box_office":1829804,
+    "movie_financial_summary_domestic_box_office":1829804,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"11th Hour",
+    "$_total_box_office":925976,
+    "movie_financial_summary_domestic_box_office":703464,
+    "movie_financial_summary_international_box_office":222512,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Total Eclipse",
+    "$_total_box_office":339889,
+    "movie_financial_summary_domestic_box_office":339889,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"The Low Dweller",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  }
+]

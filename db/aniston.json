@@ -1,0 +1,245 @@
+[
+  {
+    "movie_display_name":"Bruce Almighty",
+    "$_total_box_office":483473962,
+    "movie_financial_summary_domestic_box_office":242704995,
+    "movie_financial_summary_international_box_office":240768967,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":81000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"We're the Millers",
+    "$_total_box_office":270000119,
+    "movie_financial_summary_domestic_box_office":150394119,
+    "movie_financial_summary_international_box_office":119606000,
+    "$_domestic_DVD_sales":15896138,
+    "movie_financial_summary_production_budget":37000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Marley & Me",
+    "$_total_box_office":243665113,
+    "movie_financial_summary_domestic_box_office":143153751,
+    "movie_financial_summary_international_box_office":100511362,
+    "$_domestic_DVD_sales":69805133,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Just Go With It",
+    "$_total_box_office":214974953,
+    "movie_financial_summary_domestic_box_office":103028109,
+    "movie_financial_summary_international_box_office":111946844,
+    "$_domestic_DVD_sales":15516872,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Horrible Bosses",
+    "$_total_box_office":214538559,
+    "movie_financial_summary_domestic_box_office":117538559,
+    "movie_financial_summary_international_box_office":97000000,
+    "$_domestic_DVD_sales":18943170,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Break Up",
+    "$_total_box_office":202944203,
+    "movie_financial_summary_domestic_box_office":118806699,
+    "movie_financial_summary_international_box_office":84137504,
+    "$_domestic_DVD_sales":52925137,
+    "movie_financial_summary_production_budget":52000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"He's Just Not That Into You",
+    "$_total_box_office":178390243,
+    "movie_financial_summary_domestic_box_office":93953653,
+    "movie_financial_summary_international_box_office":84436590,
+    "$_domestic_DVD_sales":26974137,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Along Came Polly",
+    "$_total_box_office":173044410,
+    "movie_financial_summary_domestic_box_office":88073507,
+    "movie_financial_summary_international_box_office":84970903,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":42000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"The Bounty Hunter",
+    "$_total_box_office":134279918,
+    "movie_financial_summary_domestic_box_office":67061228,
+    "movie_financial_summary_international_box_office":67218690,
+    "$_domestic_DVD_sales":20520531,
+    "movie_financial_summary_production_budget":45000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Rumor Has It",
+    "$_total_box_office":88933562,
+    "movie_financial_summary_domestic_box_office":42996140,
+    "movie_financial_summary_international_box_office":45937422,
+    "$_domestic_DVD_sales":21046833,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Derailed",
+    "$_total_box_office":57520063,
+    "movie_financial_summary_domestic_box_office":36020063,
+    "movie_financial_summary_international_box_office":21500000,
+    "$_domestic_DVD_sales":27883124,
+    "movie_financial_summary_production_budget":22000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"The Switch",
+    "$_total_box_office":49858465,
+    "movie_financial_summary_domestic_box_office":27758465,
+    "movie_financial_summary_international_box_office":22100000,
+    "$_domestic_DVD_sales":8079567,
+    "movie_financial_summary_production_budget":19000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Love Happens",
+    "$_total_box_office":35365110,
+    "movie_financial_summary_domestic_box_office":22965110,
+    "movie_financial_summary_international_box_office":12400000,
+    "$_domestic_DVD_sales":8214948,
+    "movie_financial_summary_production_budget":18000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"The Iron Giant",
+    "$_total_box_office":31333917,
+    "movie_financial_summary_domestic_box_office":23159305,
+    "movie_financial_summary_international_box_office":8174612,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Picture Perfect",
+    "$_total_box_office":31301775,
+    "movie_financial_summary_domestic_box_office":31301775,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"The Object of my Affection",
+    "$_total_box_office":29145924,
+    "movie_financial_summary_domestic_box_office":29145924,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Wanderlust",
+    "$_total_box_office":24159934,
+    "movie_financial_summary_domestic_box_office":17288155,
+    "movie_financial_summary_international_box_office":6871779,
+    "$_domestic_DVD_sales":3859469,
+    "movie_financial_summary_production_budget":32500000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Rock Star",
+    "$_total_box_office":19317765,
+    "movie_financial_summary_domestic_box_office":16991902,
+    "movie_financial_summary_international_box_office":2325863,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":38000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Friends with Money",
+    "$_total_box_office":17518322,
+    "movie_financial_summary_domestic_box_office":13368437,
+    "movie_financial_summary_international_box_office":4149885,
+    "$_domestic_DVD_sales":7879832,
+    "movie_financial_summary_production_budget":6500000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"The Good Girl",
+    "$_total_box_office":16856124,
+    "movie_financial_summary_domestic_box_office":14018296,
+    "movie_financial_summary_international_box_office":2837828,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":8000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"She's the One",
+    "$_total_box_office":13795053,
+    "movie_financial_summary_domestic_box_office":9482579,
+    "movie_financial_summary_international_box_office":4312474,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":3500000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Office Space",
+    "$_total_box_office":12827813,
+    "movie_financial_summary_domestic_box_office":10827813,
+    "movie_financial_summary_international_box_office":2000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":10000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Leprechaun",
+    "$_total_box_office":8533294,
+    "movie_financial_summary_domestic_box_office":8533294,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Til There Was You",
+    "$_total_box_office":3525125,
+    "movie_financial_summary_domestic_box_office":3525125,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Management",
+    "$_total_box_office":2434658,
+    "movie_financial_summary_domestic_box_office":934658,
+    "movie_financial_summary_international_box_office":1500000,
+    "$_domestic_DVD_sales":3841055,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Dream for an Insomniac",
+    "$_total_box_office":5000,
+    "movie_financial_summary_domestic_box_office":5000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Life of Crime",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2013
+  }
+]

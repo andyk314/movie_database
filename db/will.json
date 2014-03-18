@@ -1,0 +1,218 @@
+[
+  {
+    "movie_display_name":"Independence Day",
+    "$_total_box_office":817400878,
+    "movie_financial_summary_domestic_box_office":306169255,
+    "movie_financial_summary_international_box_office":511231623,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Men in Black 3",
+    "$_total_box_office":624821154,
+    "movie_financial_summary_domestic_box_office":179020854,
+    "movie_financial_summary_international_box_office":445800300,
+    "$_domestic_DVD_sales":30906940,
+    "movie_financial_summary_production_budget":215000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Hancock",
+    "$_total_box_office":624346274,
+    "movie_financial_summary_domestic_box_office":227946274,
+    "movie_financial_summary_international_box_office":396400000,
+    "$_domestic_DVD_sales":91209926,
+    "movie_financial_summary_production_budget":150000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Men in Black",
+    "$_total_box_office":587790539,
+    "movie_financial_summary_domestic_box_office":250690539,
+    "movie_financial_summary_international_box_office":337100000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":90000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"I am Legend",
+    "$_total_box_office":585410052,
+    "movie_financial_summary_domestic_box_office":256393010,
+    "movie_financial_summary_international_box_office":329017042,
+    "$_domestic_DVD_sales":130341935,
+    "movie_financial_summary_production_budget":150000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Men in Black 2",
+    "$_total_box_office":441767803,
+    "movie_financial_summary_domestic_box_office":190418803,
+    "movie_financial_summary_international_box_office":251349000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":140000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Shark Tale",
+    "$_total_box_office":367825111,
+    "movie_financial_summary_domestic_box_office":161412000,
+    "movie_financial_summary_international_box_office":206413111,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Hitch",
+    "$_total_box_office":366784257,
+    "movie_financial_summary_domestic_box_office":177784257,
+    "movie_financial_summary_international_box_office":189000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":55000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"I, Robot",
+    "$_total_box_office":348601023,
+    "movie_financial_summary_domestic_box_office":144801023,
+    "movie_financial_summary_international_box_office":203800000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":105000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"The Pursuit of Happyness",
+    "$_total_box_office":307325633,
+    "movie_financial_summary_domestic_box_office":162586036,
+    "movie_financial_summary_international_box_office":144739597,
+    "$_domestic_DVD_sales":91566530,
+    "movie_financial_summary_production_budget":55000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Bad Boys II",
+    "$_total_box_office":272940870,
+    "movie_financial_summary_domestic_box_office":138540870,
+    "movie_financial_summary_international_box_office":134400000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":130000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Enemy of the State",
+    "$_total_box_office":250649836,
+    "movie_financial_summary_domestic_box_office":111549836,
+    "movie_financial_summary_international_box_office":139100000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"After Earth",
+    "$_total_box_office":244373198,
+    "movie_financial_summary_domestic_box_office":60522097,
+    "movie_financial_summary_international_box_office":183851101,
+    "$_domestic_DVD_sales":7479741,
+    "movie_financial_summary_production_budget":130000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Wild Wild West",
+    "$_total_box_office":221229335,
+    "movie_financial_summary_domestic_box_office":113805681,
+    "movie_financial_summary_international_box_office":107423654,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":175000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Seven Pounds",
+    "$_total_box_office":166617328,
+    "movie_financial_summary_domestic_box_office":69951824,
+    "movie_financial_summary_international_box_office":96665504,
+    "$_domestic_DVD_sales":28969053,
+    "movie_financial_summary_production_budget":54000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Bad Boys",
+    "$_total_box_office":141247413,
+    "movie_financial_summary_domestic_box_office":65647413,
+    "movie_financial_summary_international_box_office":75600000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":23000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Made In America",
+    "$_total_box_office":104942695,
+    "movie_financial_summary_domestic_box_office":44942695,
+    "movie_financial_summary_international_box_office":60000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Ali",
+    "$_total_box_office":87683966,
+    "movie_financial_summary_domestic_box_office":58183966,
+    "movie_financial_summary_international_box_office":29500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":109000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"The Legend of Bagger Vance",
+    "$_total_box_office":39235486,
+    "movie_financial_summary_domestic_box_office":30695227,
+    "movie_financial_summary_international_box_office":8540259,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Jersey Girl",
+    "$_total_box_office":37066129,
+    "movie_financial_summary_domestic_box_office":25266129,
+    "movie_financial_summary_international_box_office":11800000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Winter's Tale",
+    "$_total_box_office":22374704,
+    "movie_financial_summary_domestic_box_office":12506315,
+    "movie_financial_summary_international_box_office":9868389,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2014
+  },
+  {
+    "movie_display_name":"Six Degrees of Separation",
+    "$_total_box_office":6284090,
+    "movie_financial_summary_domestic_box_office":6284090,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Where the Day Takes You",
+    "$_total_box_office":390152,
+    "movie_financial_summary_domestic_box_office":390152,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"Hancock 2",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  }
+]

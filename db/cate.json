@@ -1,0 +1,335 @@
+[
+  {
+    "movie_display_name":"The Lord of the Rings: The Return of the King",
+    "$_total_box_office":1141408667,
+    "movie_financial_summary_domestic_box_office":377845905,
+    "movie_financial_summary_international_box_office":763562762,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":94000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"The Hobbit: An Unexpected Journey",
+    "$_total_box_office":1014703568,
+    "movie_financial_summary_domestic_box_office":303003568,
+    "movie_financial_summary_international_box_office":711700000,
+    "$_domestic_DVD_sales":35809131,
+    "movie_financial_summary_production_budget":250000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"The Hobbit: The Desolation of Smaug",
+    "$_total_box_office":937805640,
+    "movie_financial_summary_domestic_box_office":257805640,
+    "movie_financial_summary_international_box_office":680000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":250000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"The Lord of the Rings: The Two Towers",
+    "$_total_box_office":927048984,
+    "movie_financial_summary_domestic_box_office":342548984,
+    "movie_financial_summary_international_box_office":584500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":94000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"The Lord of the Rings: The Fellowship of the Ring",
+    "$_total_box_office":887217688,
+    "movie_financial_summary_domestic_box_office":315544750,
+    "movie_financial_summary_international_box_office":571672938,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":109000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Indiana Jones and the Kingdom of the Crystal Skull",
+    "$_total_box_office":786558145,
+    "movie_financial_summary_domestic_box_office":317023851,
+    "movie_financial_summary_international_box_office":469534294,
+    "$_domestic_DVD_sales":117438226,
+    "movie_financial_summary_production_budget":185000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"The Curious Case of Benjamin Button",
+    "$_total_box_office":329809326,
+    "movie_financial_summary_domestic_box_office":127509326,
+    "movie_financial_summary_international_box_office":202300000,
+    "$_domestic_DVD_sales":43850788,
+    "movie_financial_summary_production_budget":160000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Robin Hood",
+    "$_total_box_office":322459006,
+    "movie_financial_summary_domestic_box_office":105487148,
+    "movie_financial_summary_international_box_office":216971858,
+    "$_domestic_DVD_sales":47503474,
+    "movie_financial_summary_production_budget":210000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Aviator",
+    "$_total_box_office":214608827,
+    "movie_financial_summary_domestic_box_office":102608827,
+    "movie_financial_summary_international_box_office":112000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":110000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Gake no ue no Ponyo",
+    "$_total_box_office":205312666,
+    "movie_financial_summary_domestic_box_office":15090399,
+    "movie_financial_summary_international_box_office":190222267,
+    "$_domestic_DVD_sales":17245951,
+    "movie_financial_summary_production_budget":34000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Babel",
+    "$_total_box_office":132121212,
+    "movie_financial_summary_domestic_box_office":34302837,
+    "movie_financial_summary_international_box_office":97818375,
+    "$_domestic_DVD_sales":31475498,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"The Talented Mr. Ripley",
+    "$_total_box_office":128792135,
+    "movie_financial_summary_domestic_box_office":81292135,
+    "movie_financial_summary_international_box_office":47500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"The Monuments Men",
+    "$_total_box_office":119381475,
+    "movie_financial_summary_domestic_box_office":73881475,
+    "movie_financial_summary_international_box_office":45500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Elizabeth",
+    "$_total_box_office":82150642,
+    "movie_financial_summary_domestic_box_office":30082699,
+    "movie_financial_summary_international_box_office":52067943,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Elizabeth: The Golden Age",
+    "$_total_box_office":74769388,
+    "movie_financial_summary_domestic_box_office":16285240,
+    "movie_financial_summary_international_box_office":58484148,
+    "$_domestic_DVD_sales":10019996,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Bandits",
+    "$_total_box_office":71523271,
+    "movie_financial_summary_domestic_box_office":41523271,
+    "movie_financial_summary_international_box_office":30000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Blue Jasmine",
+    "$_total_box_office":68488096,
+    "movie_financial_summary_domestic_box_office":33386098,
+    "movie_financial_summary_international_box_office":35101998,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":18000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Hanna",
+    "$_total_box_office":65343694,
+    "movie_financial_summary_domestic_box_office":40259119,
+    "movie_financial_summary_international_box_office":25084575,
+    "$_domestic_DVD_sales":5320798,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Notes on a Scandal",
+    "$_total_box_office":49752391,
+    "movie_financial_summary_domestic_box_office":17510118,
+    "movie_financial_summary_international_box_office":32242273,
+    "$_domestic_DVD_sales":8984051,
+    "movie_financial_summary_production_budget":27500000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"The Gift",
+    "$_total_box_office":44567606,
+    "movie_financial_summary_domestic_box_office":12008642,
+    "movie_financial_summary_international_box_office":32558964,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":10000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"The Missing",
+    "$_total_box_office":38253433,
+    "movie_financial_summary_domestic_box_office":26900336,
+    "movie_financial_summary_international_box_office":11353097,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":65000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"The Life Aquatic with Steve Zissou",
+    "$_total_box_office":34806726,
+    "movie_financial_summary_domestic_box_office":24006726,
+    "movie_financial_summary_international_box_office":10800000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"An Ideal Husband",
+    "$_total_box_office":31341183,
+    "movie_financial_summary_domestic_box_office":18542974,
+    "movie_financial_summary_international_box_office":12798209,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":10700000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"The Shipping News",
+    "$_total_box_office":24405825,
+    "movie_financial_summary_domestic_box_office":11405825,
+    "movie_financial_summary_international_box_office":13000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"I'm Not There",
+    "$_total_box_office":11498547,
+    "movie_financial_summary_domestic_box_office":4017609,
+    "movie_financial_summary_international_box_office":7480938,
+    "$_domestic_DVD_sales":6139777,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Veronica Guerin",
+    "$_total_box_office":9438074,
+    "movie_financial_summary_domestic_box_office":1569918,
+    "movie_financial_summary_international_box_office":7868156,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":17000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Pushing Tin",
+    "$_total_box_office":8408835,
+    "movie_financial_summary_domestic_box_office":8408835,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":33000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Coffee and Cigarettes",
+    "$_total_box_office":3729806,
+    "movie_financial_summary_domestic_box_office":1971135,
+    "movie_financial_summary_international_box_office":1758671,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Little Fish",
+    "$_total_box_office":3222453,
+    "movie_financial_summary_domestic_box_office":22453,
+    "movie_financial_summary_international_box_office":3200000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Paradise Road",
+    "$_total_box_office":1990257,
+    "movie_financial_summary_domestic_box_office":1990257,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"The Man Who Cried",
+    "$_total_box_office":1790840,
+    "movie_financial_summary_domestic_box_office":747092,
+    "movie_financial_summary_international_box_office":1043748,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Oscar and Lucinda",
+    "$_total_box_office":1612957,
+    "movie_financial_summary_domestic_box_office":1612957,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":12500000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"The Good German",
+    "$_total_box_office":1308696,
+    "movie_financial_summary_domestic_box_office":1308696,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":32000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Girl Rising",
+    "$_total_box_office":849484,
+    "movie_financial_summary_domestic_box_office":849484,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Heaven",
+    "$_total_box_office":774317,
+    "movie_financial_summary_domestic_box_office":774317,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Charlotte Gray",
+    "$_total_box_office":668140,
+    "movie_financial_summary_domestic_box_office":668140,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Knight of Cups",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2013
+  }
+]
