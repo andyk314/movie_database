@@ -11,9 +11,12 @@
  *= require_self
  *= require_tree .
  */
-
+html body {
+  background-color: #d8e0ee;
+}
 #searchbar {
   right: 65%;
 }
 
 @import "bootstrap";
+
