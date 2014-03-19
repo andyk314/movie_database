@@ -2,7 +2,7 @@
   <% @actors.each do |actor| %>
       <figure class="actorpic">
         
-      <a><img src="http://image.tmdb.org/t/p/original<%= actor.picture %>" width="200" height="200" alt="Rainbow near Keswick" /><% actor_path(actor) %></a>
+      <a href="<%=actor_path(actor)%>"><img src="http://image.tmdb.org/t/p/original<%= actor.picture %>" width="200" height="200" alt="Rainbow near Keswick" /><% actor_path(actor) %></a>
       <figcaption><%= actor.name %></figcaption>
 
  <!--        <p>what you have to ask yourself is, do i feel lucky. well do ya' punk?</p> -->
@@ -21,7 +21,8 @@ $(document).ready(function(){
         var filter = $(this).val(), count = 0;
  
         // Loop through the comment list
-        $(".commentlist li").each(function(){
+        // $(".commentlist li").each(function(){
+        $("figure").each(function(){
  
             // If the list item does not contain the text phrase fade it out
             if ($(this).text().search(new RegExp(filter, "i")) < 0) {

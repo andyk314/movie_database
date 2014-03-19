@@ -11,8 +11,91 @@
  *= require_self
  *= require_tree .
  */
+
+body {
+
+  font-family: "Bebas";
+}
+
+html body{
+  background-color: #415d72;
+}
+
+.summary {
+  
+  margin: 0 auto;
+  color: #D45657;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  word-wrap:break-word;
+  padding-top: 20px;
+  padding-bottom: 100px;
+  font-family: 'Reenie Beanie', cursive;
+}
+
+        /* LISTS */
+.list {
+  height: 400px;
+  width: 700px;
+  margin: 0 auto;
+
+}
+
+.list1 { 
+  display: inline-block;
+  margin-right: 200px;
+}
+
+.list1 ol { 
+  font-style:italic; 
+  font-family:Georgia, Times, serif; 
+  font-size:24px; 
+  color:#bfe1f1;  
+}
+
+.list1 ol li p { 
+  padding:8px; font-style:normal; 
+  font-family:Arial; 
+  font-size:13px; color:#eee; 
+  border-left: 1px solid #999;
+}
+
+.list1 ol li p em { 
+  display:block;
+}
+
+.list2 ol { 
+  font-style:italic; 
+  font-family:Georgia, Times, serif; 
+  font-size:24px; 
+  color:#bfe1f1;  
+}
+
+.list2 ol li p { 
+  padding:8px; font-style:normal; 
+  font-family:Arial; 
+  font-size:13px; color:#eee; 
+  border-left: 1px solid #999;
+}
+
+.list2 ol li p em { 
+  display:block;
+}
+
+.wholethang { 
+  padding-left: 150px;
+  padding-right: 150px;
+  background: -webkit-linear-gradient(#475c74, #5d85a3);
+}
+
+#navbar {
+  background-color: #475c74;
+  border: none;
+}
+
 html body {
-  background-color: #d8e0ee;
+/*  background-color: #d8e0ee;*/
 }
 #searchbar {
   right: 65%;

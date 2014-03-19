@@ -9,9 +9,11 @@
 
 
 movies = []
+# Enter Actor ID to grab information
+data = HTTParty.get "https://api.themoviedb.org/3/person/?api_key=631d0d27d8bd582b2876ac8036e7641b"
+actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'])
 
-actor = Actor.create(name: "Sigourney Weaver" )
-
+# Add actor json file to parse information
 response = JSON.parse(File.read('db/sigourney.json'))
 
 for i in 0...response.count
