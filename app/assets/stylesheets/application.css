@@ -17,14 +17,10 @@ body {
   font-family: "Bebas";
 }
 
-html body{
-  background-color: #415d72;
-}
-
-.summary {
+.quote {
   
   margin: 0 auto;
-  color: #D45657;
+  color: #0E6DA7;
   font-size: 40px;
   font-weight: bold;
   text-align: center;
@@ -32,6 +28,11 @@ html body{
   padding-top: 20px;
   padding-bottom: 100px;
   font-family: 'Reenie Beanie', cursive;
+}
+
+.bio {
+  height: 250px;
+  text-align: center;
 }
 
         /* LISTS */
@@ -84,9 +85,9 @@ html body{
 }
 
 .wholethang { 
-  padding-left: 150px;
-  padding-right: 150px;
-  background: -webkit-linear-gradient(#475c74, #5d85a3);
+  padding-left: 175px;
+  padding-right: 175px;
+  background: -webkit-linear-gradient(#d3eef9, #ffffff,#d3eef9);
 }
 
 #navbar {
