@@ -1,35 +1,35 @@
 
 
-<div class="actornameshow"><%= @actor.name %></div>
-<div class="quote"><%= @actor.quote %></div>
-<div class="bio"><%= truncate(@actor.bio, length: 800, omission: '...(more)') %></div>
+<div class="actornameshow"><%= @actor.name.upcase %></div>
+<section class="quote">"<%= @actor.quote %>"</section>
 <div class="list">
-  <div class="list1">
+  <aside>
     <ol>
       <h3>Top Fresh Movies</h3>
       <li><p><%= @actor.fresh[0] %></p></li>
       <li><p><%= @actor.fresh[1] %></p></li>
       <li><p><%= @actor.fresh[2] %></p></li>
     </ol>
-  </div>
-  <div class="list2">
     <ol>
       <h3>Bottom Rotten Movies</h3>
       <li><p><%= @actor.rotten[0] %></p></li>
       <li><p><%= @actor.rotten[1] %></p></li>
       <li><p><%= @actor.rotten[2] %></p></li>
     </ol>
-  </div>
-</div>
+</aside>
+<section class="bio"><%= truncate(@actor.bio, length: 800, omission: '...(more)') %></section>
 
+
+
+
+
+<div class="chart"></div>
 <div class="btn-group" style="margin-left: 400px; height: 150px">
   <button type="button" class="btn btn-default" id="total">Total</button>
   <button type="button" class="btn btn-default" id="domestic">Domestic</button>
   <button type="button" class="btn btn-default" id="international">International</button>
 </div>
 
-
-<div class="chart" style="height: 600px"></div>
 <script>
     toggle_total();
 

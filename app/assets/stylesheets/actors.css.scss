@@ -2,7 +2,6 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/*/
 
-
 #searchbar {
   right: 45%;
   width: 250px;
@@ -29,29 +28,25 @@
 .actornameshow {
   height: 250px;
   padding-top: 100px;
-  color: #0E6DA7;
+  color: white;
   font-family: Helvetica, Verdana;
   text-align: center;  
-  font-size: 100px;
-
-
+  font-size: 72px;
 }
-
 
 /*D3 CSS*/
 .chart { /*centering our canvas*/
   width:800px;
   margin: -50px auto;
-  margin-top: 110px;
   margin-bottom: 20px;
 }
 
 .bar {
-  fill: steelblue;
+  fill: #BF4235;
 }
 
 .bar:hover {
-  fill: brown;
+  fill: #A61203;
 }
 
 .axis {
