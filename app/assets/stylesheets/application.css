@@ -12,11 +12,6 @@
  *= require_tree .
  */
 
-body {
-
-  font-family: "Bebas";
-}
-
 .quote {
   
   margin: 0 auto;
@@ -58,14 +53,15 @@ body {
 .list1 ol li p { 
   padding:8px; font-style:normal; 
   font-family:Arial; 
-  font-size:13px; color:#eee; 
-  border-left: 1px solid #999;
+  font-size:13px; color: #0E6DA7; 
 }
 
 .list1 ol li p em { 
   display:block;
 }
-
+.list2 {
+  padding-top: 5px;
+}
 .list2 ol { 
   font-style:italic; 
   font-family:Georgia, Times, serif; 
@@ -76,8 +72,7 @@ body {
 .list2 ol li p { 
   padding:8px; font-style:normal; 
   font-family:Arial; 
-  font-size:13px; color:#eee; 
-  border-left: 1px solid #999;
+  font-size:13px; color: #0E6DA7; 
 }
 
 .list2 ol li p em { 
@@ -85,13 +80,13 @@ body {
 }
 
 .wholethang { 
-  padding-left: 175px;
-  padding-right: 175px;
+  padding-left: 275px;
+  padding-right: 275px;
   background: -webkit-linear-gradient(#d3eef9, #ffffff,#d3eef9);
 }
 
 #navbar {
-  background-color: #475c74;
+  background-color: #0E6DA7;
   border: none;
 }
 

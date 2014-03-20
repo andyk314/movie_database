@@ -30,7 +30,7 @@
   height: 250px;
   padding-top: 100px;
   color: #0E6DA7;
-  font-family: C_BOX;
+  font-family: Helvetica, Verdana;
   text-align: center;  
   font-size: 100px;
 
@@ -39,9 +39,12 @@
 
 
 /*D3 CSS*/
-.chart2 {width:800px; margin: -50px auto;} /*centering our canvas*/
-
-
+.chart { /*centering our canvas*/
+  width:800px;
+  margin: -50px auto;
+  margin-top: 110px;
+  margin-bottom: 20px;
+}
 
 .bar {
   fill: steelblue;
@@ -138,18 +141,3 @@ color: #454f40;
 letter-spacing: 0.09em;
 }
 @import "bootstrap";
-
-
-.list1 {
-  float: left;
-}
-
-
-.chart div {
-  font: 10px sans-serif;
-  background-color: lightgrey;
-  text-align: right;
-  padding: 3px;
-  margin: 1px;
-  color: white;
-}
