@@ -1,36 +1,40 @@
-<div id="polaroid">
-  <% @actors.each do |actor| %>
-      <figure class="actorpic">   
-         
-      <a href="<%=actor_path(actor)%>"><img src="http://image.tmdb.org/t/p/original<%= actor.picture %>" width="200" height="200" alt="Rainbow near Keswick" /><% actor_path(actor) %></a>
+<div class="container">
+  <div class="row">
+    <% i = 1 %>
+    <% @actors.each do |actor| %>
+      <figure  class="col-md-3 col-sm-6 col-xs-12">
+      <a href="<%=actor_path(actor)%>"><img src="http://image.tmdb.org/t/p/original<%= actor.picture %>" alt="<%= actor.name %>" /><% actor_path(actor) %></a>
       <figcaption><%= actor.name %></figcaption>
       </figure>
-  <% end %>
+      <% if i % 4 == 0 %>
+        </div>
+        <div class="row">
+      <% end %>
+      <% i += 1 %>
+    <% end %>
+  </div>
 </div>
 
-
-
 <script type="text/javascript">
-
 $(document).ready(function(){
-    $("#filter").keyup(function(){
- 
-        // Retrieve the input field text and reset the count to zero
-        var filter = $(this).val(), count = 0;
- 
-        // Loop through the comment list
-        // $(".commentlist li").each(function(){
-        $("figure").each(function(){
- 
-            // If the list item does not contain the text phrase fade it out
-            if ($(this).text().search(new RegExp(filter, "i")) < 0) {
-                $(this).fadeOut();
- 
-            // Show the list item if the phrase matches and increase the count by 1
-            } else {
-                $(this).show();
-            }
-        });
+  $("#filter").keyup(function(){
+
+    // Retrieve the input field text and reset the count to zero
+    var filter = $(this).val(), count = 0;
+
+    // Loop through the comment list
+    // $(".commentlist li").each(function(){
+    $("figure").each(function(){
+
+      // If the list item does not contain the text phrase fade it out
+      if ($(this).text().search(new RegExp(filter, "i")) < 0) {
+        $(this).fadeOut();
+
+        // Show the list item if the phrase matches and increase the count by 1
+      } else {
+            $(this).show();
+      }
     });
+  });
 });
 </script>
