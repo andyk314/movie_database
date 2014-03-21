@@ -6,12 +6,13 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
+
 movies = []
 # Enter Actor ID to get grab all information
-data = HTTParty.get "https://api.themoviedb.org/3/person/2888?api_key=631d0d27d8bd582b2876ac8036e7641b"
+data = HTTParty.get "https://api.themoviedb.org/3/person/10205?api_key=631d0d27d8bd582b2876ac8036e7641b"
 actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'])
 
-response = JSON.parse(File.read('db/will.json'))
+response = JSON.parse(File.read('db/sigourney.json'))
 
 for i in 0...response.count
   movie = Movie.find_or_initialize_by(title: (response[i]["movie_display_name"]))

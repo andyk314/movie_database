@@ -16,9 +16,9 @@
 <aside>
   <ol>
     <h3>Top Fresh Movies</h3>
-    <li><p><%= @actor.fresh[0] %></p></li>
-    <li><p><%= @actor.fresh[1] %></p></li>
-    <li><p><%= @actor.fresh[2] %></p></li>
+    <li><p><%= @fresh[0].title %> - <%= @fresh[0].freshness %>%</p></li>
+    <li><p><%= @fresh[2].title %> - <%= @fresh[2].freshness %>%</p></li>
+    <li><p><%= @fresh[1].title %> - <%= @fresh[1].freshness %>%</p></li>
   </ol>
   <ol>
     <h3>Bottom Rotten Movies</h3>

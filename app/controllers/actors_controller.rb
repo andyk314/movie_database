@@ -28,5 +28,6 @@ class ActorsController < ApplicationController
   def show
     @actor = Actor.find(params[:id])
     @movies = @actor.movies
+    @fresh = @actor.movies.where("freshness > ?", 1)
   end
 end
