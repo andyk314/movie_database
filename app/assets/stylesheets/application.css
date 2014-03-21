@@ -251,6 +251,15 @@ top: 326.57px;}
 
 
 /*CURVED CSS "BOX OFFICE GROSSES"*/
+#warped3 {
+  position: absolute; 
+  display: block; 
+  width: 588px;  
+  margin-left: 400px;
+  margin-top: 77px;
+  color: white;
+  z-index: 1;
+}
 #warped3>span[class^=w]:nth-of-type(n+0){display:block; position:absolute;
 transform-origin:50% 100%; }
 
