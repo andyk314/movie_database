@@ -20,42 +20,44 @@
   margin-right: 5px;
 }
 
-.actorpic {
-  width: 200px; 
-  height: 200px;
-}
-
-.showIMG {
+/*.showIMG {
   border: 6px solid white;
   border-radius: 10px;
   margin-left: 850px;
   position: absolute;
-  z-index: 1;
+  height: 200px;
+  width: 100%;
 }
+*/
 .actornameshow {
-  height: 250px;
+  height: 300px;
+  width: 600px;
   padding-top: 100px;
   color: white;
   font-family: 'Fascinate Inline', cursive;
-  text-align: center;
+  margin: 0 auto;
   font-size: 77px;
 }
 
-.chart_header {
+
+/*D3 CSS
+
+/*.chart_header {
   text-align: center;
   font-family: Helvetica;
   font-weight: bold;
   color: #BF4235;
-}
-/*D3 CSS*/
+}*/
+
 .chart { /*centering our canvas*/
-  width: 950px;
-  background-color: #ffd578;
+  width: 75%;
+  height: 20%;
+  background-color: #ffb309;
   border-radius: 10px;
   border: 6px solid white;
   margin: 0 auto;
-  margin-top: 650px;
-  margin-bottom: 20px;
+  margin-top: 100%;
+  margin-bottom: 3%;
 }
 
 .bar {
@@ -79,19 +81,5 @@
   color: blue;
 }
 
-/*POLAROID STYLE*/
-
-/***Because older browsers may not recognise, and therefore not know how to display, HTML5 elements we need add instructions to display them as block elemets***/
-figure, figcaption{ /*add any other html5 elements you use*/
-display:block;
-}
-
-figcaption {
-  padding-top: 5px;
-}
-
-img {
-  width: 100%;
-}
 
 @import "bootstrap";

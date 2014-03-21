@@ -13,19 +13,117 @@
  */
 
 /*CSS CURVED TEXT "FUN FACTS ABOUT THIS CELEBRITY"*/
-/*#warped {
-  position: relative; 
-  display: block; 
-  margin-left: 500px;
-  margin-top: 140px;
-  color: white;
-}*/
+img {
+  width: 100%;
+}
 
-#warped {position: relative; 
-  display: block; 
-  width:1028px; 
-  height:589px;
-  margin-left: 500px;
+body { 
+  background: #0b9eb9 !important;
+  padding-right: 75px;
+  padding-left: 75px;
+}
+
+aside {
+  height: 25%;
+  width: 25%;
+  padding: 2%;
+  position: relative;
+  float: left;
+  margin-top: -5%;
+  margin-left: 50px;
+  font-family: Helvetica;
+  color: white;
+  background-color: #ffb309;
+  border: 6px solid white;
+  border-radius: 10px;
+}
+
+section {
+  font-family: Muli;
+  font-weight: bold;
+  color: white;
+  float: left;
+  background-color: #ff5847;
+  border: 6px solid white;
+  border-radius: 10px;
+  padding: 2%;
+}
+
+.bio {
+  float: right;
+  margin-left: 70%;
+  margin-top: 3%;
+  padding: 2%;
+  height: 30%;
+  width: 30%;
+}
+
+.quote {
+  width: 30%;
+  height: 30%;
+  font-size: 27px;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+
+}
+
+
+        /* ROTTEN TOMATOES LISTS */
+
+.list1 { 
+  display: inline-block;
+  margin-right: 200px;
+}
+
+.list1 ol { 
+  font-style:italic; 
+  font-family:Georgia, Times, serif; 
+  font-size:24px; 
+  color:#bfe1f1;  
+}
+
+.list1 ol li p { 
+  padding:8px; font-style:normal; 
+  font-family:Arial; 
+  font-size:13px; color: #0E6DA7; 
+}
+
+.list1 ol li p em { 
+  display:block;
+}
+.list2 {
+  padding-top: 5px;
+}
+.list2 ol { 
+  font-style:italic; 
+  font-family:Georgia, Times, serif; 
+  font-size:24px; 
+  color:#bfe1f1;  
+}
+
+.list2 ol li p { 
+  padding:8px; font-style:normal; 
+  font-family:Arial; 
+  font-size:13px; color: #0E6DA7; 
+}
+
+.list2 ol li p em { 
+  display:block;
+}
+
+#navbar {
+  background-color: #0b9eb9;
+  border: none;
+}
+
+
+#warped {
+  position: relative; 
+  margin-top: -11%;
+  width: 20%; 
+  height: 20%;
+  margin-left: 30%;
   color: white;
 }
 
@@ -161,11 +259,9 @@
 
 #warped2 {
   position: absolute; 
-  display: block; 
-  width: 588px; 
-  height: 440px; 
-  margin-left: 100px;
-  margin-top: -180px;
+  width: 30%; 
+  height: 30%; 
+  margin-top: 490px;
   color: white;
   z-index: 1;
 }
@@ -286,10 +382,9 @@ top: 326.57px;}
 /*CURVED CSS "BOX OFFICE GROSSES"*/
 #warped3 {
   position: absolute; 
-  display: block; 
-  width: 588px;  
-  margin-left: 400px;
-  margin-top: 77px;
+  width: 30%;  
+  margin-left: 30%;
+  margin-top: 54%;
   color: white;
   z-index: 1;
 }
@@ -373,102 +468,5 @@ left: 331.55px; top: 467.99px;}
 
 #warped3 .w24 { transform: rotate(-6.68rad); width: 14px; height: 16px;
 left: 350.16px; top: 461.05px;}
-
-body { 
-  background: #0b9eb9 !important;
-  padding-right: 75px;
-  padding-left: 75px;
-}
-
-aside {
-  height: 360px;
-  width: 330px;
-  padding: 15px;
-  position: relative;
-  float: left;
-  margin-top: -150px;
-  margin-left: 50px;
-  font-family: Helvetica;
-  color: white;
-  background-color: #ffb309;
-  border: 6px solid white;
-  border-radius: 10px;
-}
-
-section {
-  width: 500px;
-  font-family: Muli;
-  font-weight: bold;
-  color: white;
-  float: left;
-  background-color: #ff5847;
-  border: 6px solid white;
-  border-radius: 10px;
-  padding: 2%;
-  margin: 50px;
-}
-
-.bio {
-  float: right;
-  height: 220px;
-  margin-left: 870px;
-  margin-top: -10px;
-}
-.quote {
-  font-size: 27px;
-  font-weight: bold;
-  text-align: center;
-  font-family: 'Poiret One', cursive;
-
-}
-
-
-        /* LISTS */
-
-.list1 { 
-  display: inline-block;
-  margin-right: 200px;
-}
-
-.list1 ol { 
-  font-style:italic; 
-  font-family:Georgia, Times, serif; 
-  font-size:24px; 
-  color:#bfe1f1;  
-}
-
-.list1 ol li p { 
-  padding:8px; font-style:normal; 
-  font-family:Arial; 
-  font-size:13px; color: #0E6DA7; 
-}
-
-.list1 ol li p em { 
-  display:block;
-}
-.list2 {
-  padding-top: 5px;
-}
-.list2 ol { 
-  font-style:italic; 
-  font-family:Georgia, Times, serif; 
-  font-size:24px; 
-  color:#bfe1f1;  
-}
-
-.list2 ol li p { 
-  padding:8px; font-style:normal; 
-  font-family:Arial; 
-  font-size:13px; color: #0E6DA7; 
-}
-
-.list2 ol li p em { 
-  display:block;
-}
-
-#navbar {
-  background-color: #0b9eb9;
-  border: none;
-}
 
 @import "bootstrap";
