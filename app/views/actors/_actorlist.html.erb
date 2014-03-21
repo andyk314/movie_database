@@ -1,11 +1,9 @@
 <div id="polaroid">
   <% @actors.each do |actor| %>
-      <figure class="actorpic">
-        
+      <figure class="actorpic">   
+         
       <a href="<%=actor_path(actor)%>"><img src="http://image.tmdb.org/t/p/original<%= actor.picture %>" width="200" height="200" alt="Rainbow near Keswick" /><% actor_path(actor) %></a>
       <figcaption><%= actor.name %></figcaption>
-
- <!--        <p>what you have to ask yourself is, do i feel lucky. well do ya' punk?</p> -->
       </figure>
   <% end %>
 </div>

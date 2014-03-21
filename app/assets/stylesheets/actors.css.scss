@@ -34,10 +34,22 @@
   font-size: 72px;
 }
 
+
+
+.chart_header {
+  text-align: center;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: #BF4235;
+}
 /*D3 CSS*/
 .chart { /*centering our canvas*/
-  width:800px;
-  margin: -50px auto;
+  width: 950px;
+  background-color: #ffd578;
+  border-radius: 10px;
+  border: 10px solid white;
+  margin: 0 auto;
+  margin-top: 580px;
   margin-bottom: 20px;
 }
 

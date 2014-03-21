@@ -1,34 +1,42 @@
 
 
 <div class="actornameshow"><%= @actor.name.upcase %></div>
+<div><img src="http://image.tmdb.org/t/p/original<%= @actor.picture %>" width="200" height="200" alt="Rainbow near Keswick" /></div>
 <section class="quote">"<%= @actor.quote %>"</section>
-<div class="list">
-  <aside>
-    <ol>
-      <h3>Top Fresh Movies</h3>
-      <li><p><%= @actor.fresh[0] %></p></li>
-      <li><p><%= @actor.fresh[1] %></p></li>
-      <li><p><%= @actor.fresh[2] %></p></li>
-    </ol>
-    <ol>
-      <h3>Bottom Rotten Movies</h3>
-      <li><p><%= @actor.rotten[0] %></p></li>
-      <li><p><%= @actor.rotten[1] %></p></li>
-      <li><p><%= @actor.rotten[2] %></p></li>
-    </ol>
-</aside>
+ <div id='warped'>
+  <span class='w0'>F</span><span class='w1'>U</span><span class='w2'>N</span><span class='w3'> </span><span class='w4'>F</span><span class='w5'>A</span><span class='w6'>C</span><span class='w7'>T</span><span class='w8'>S</span><span class='w9'> </span><span class='w10'>A</span><span class='w11'>B</span><span class='w12'>O</span><span class='w13'>U</span><span class='w14'>T</span><span class='w15'> </span><span class='w16'>T</span><span class='w17'>H</span><span class='w18'>I</span><span class='w19'>S</span><span class='w20'> </span><span class='w21'>C</span><span class='w22'>E</span><span class='w23'>L</span><span class='w24'>E</span><span class='w25'>B</span><span class='w26'>R</span><span class='w27'>I</span><span class='w28'>T</span><span class='w29'>Y</span>
+</div>
+
+<div id='warped2'>
+  <span class='w0'>R</span><span class='w1'>O</span><span class='w2'>T</span><span class='w3'>T</span><span class='w4'>E</span><span class='w5'>N</span><span class='w6'> </span><span class='w7'>T</span><span class='w8'>O</span><span class='w9'>M</span><span class='w10'>A</span><span class='w11'>T</span><span class='w12'>O</span><span class='w13'>E</span><span class='w14'>S</span><span class='w15'> </span><span class='w16'>S</span><span class='w17'>T</span><span class='w18'>A</span><span class='w19'>T</span><span class='w20'>I</span><span class='w21'>S</span><span class='w22'>T</span><span class='w23'>I</span><span class='w24'>C</span><span class='w25'>S</span>
+</div>
+
 <section class="bio"><%= truncate(@actor.bio, length: 800, omission: '...(more)') %></section>
 
-
-
-
-
-<div class="chart"></div>
-<div class="btn-group" style="margin-left: 400px; height: 150px">
+<aside>
+  <ol>
+    <h3>Top Fresh Movies</h3>
+    <li><p><%= @actor.fresh[0] %></p></li>
+    <li><p><%= @actor.fresh[1] %></p></li>
+    <li><p><%= @actor.fresh[2] %></p></li>
+  </ol>
+  <ol>
+    <h3>Bottom Rotten Movies</h3>
+    <li><p><%= @actor.rotten[0] %></p></li>
+    <li><p><%= @actor.rotten[1] %></p></li>
+    <li><p><%= @actor.rotten[2] %></p></li>
+  </ol>
+</aside>
+<div id='warped3'>
+  <span class='w0'>C</span><span class='w1'>A</span><span class='w2'>R</span><span class='w3'>E</span><span class='w4'>E</span><span class='w5'>R</span><span class='w6'> </span><span class='w7'>B</span><span class='w8'>O</span><span class='w9'>X</span><span class='w10'> </span><span class='w11'>O</span><span class='w12'>F</span><span class='w13'>F</span><span class='w14'>I</span><span class='w15'>C</span><span class='w16'>E</span><span class='w17'> </span><span class='w18'>G</span><span class='w19'>R</span><span class='w20'>O</span><span class='w21'>S</span><span class='w22'>S</span><span class='w23'>E</span><span class='w24'>S</span>
+</div>
+<div class="chart"><h3 class="chart_header">BOX OFFICE CAREER GROSSES</h3></div>
+<div class="btn-group" style="height 100px; width: 350px; margin: 0; auto; clear: both">
   <button type="button" class="btn btn-default" id="total">Total</button>
   <button type="button" class="btn btn-default" id="domestic">Domestic</button>
   <button type="button" class="btn btn-default" id="international">International</button>
 </div>
+
 
 <script>
     toggle_total();
