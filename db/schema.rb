@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140321180647) do
+ActiveRecord::Schema.define(version: 20140321223928) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -48,11 +48,11 @@ ActiveRecord::Schema.define(version: 20140321180647) do
     t.string   "runtime"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.integer  "total_revenue"
-    t.integer  "usa_revenue"
-    t.integer  "international_revenue"
-    t.integer  "budget"
-    t.integer  "release_year"
+    t.integer  "total_revenue",         limit: 8
+    t.integer  "usa_revenue",           limit: 8
+    t.integer  "international_revenue", limit: 8
+    t.integer  "budget",                limit: 8
+    t.integer  "release_year",          limit: 8
     t.integer  "freshness"
   end
 

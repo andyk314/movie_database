@@ -1,165 +1,300 @@
 [
   {
-    "movie_display_name":"Independence Day",
-    "$_total_box_office":817400878,
-    "movie_financial_summary_domestic_box_office":306169255,
-    "movie_financial_summary_international_box_office":511231623,
+    "movie_display_name":"Saving Private Ryan",
+    "$_total_box_office":485035085,
+    "movie_financial_summary_domestic_box_office":216335085,
+    "movie_financial_summary_international_box_office":268700000,
     "$_domestic_DVD_sales":null,
-    "movie_financial_summary_production_budget":75000000,
-    "movie_production_year":1996
-  },
-  {
-    "movie_display_name":"Men in Black 3",
-    "$_total_box_office":624821154,
-    "movie_financial_summary_domestic_box_office":179020854,
-    "movie_financial_summary_international_box_office":445800300,
-    "$_domestic_DVD_sales":30906940,
-    "movie_financial_summary_production_budget":215000000,
-    "movie_production_year":2011
-  },
-  {
-    "movie_display_name":"Hancock",
-    "$_total_box_office":624346274,
-    "movie_financial_summary_domestic_box_office":227946274,
-    "movie_financial_summary_international_box_office":396400000,
-    "$_domestic_DVD_sales":91209926,
-    "movie_financial_summary_production_budget":150000000,
-    "movie_production_year":2008
-  },
-  {
-    "movie_display_name":"Men in Black",
-    "$_total_box_office":587790539,
-    "movie_financial_summary_domestic_box_office":250690539,
-    "movie_financial_summary_international_box_office":337100000,
-    "$_domestic_DVD_sales":null,
-    "movie_financial_summary_production_budget":90000000,
-    "movie_production_year":1997
-  },
-  {
-    "movie_display_name":"I am Legend",
-    "$_total_box_office":585410052,
-    "movie_financial_summary_domestic_box_office":256393010,
-    "movie_financial_summary_international_box_office":329017042,
-    "$_domestic_DVD_sales":130341935,
-    "movie_financial_summary_production_budget":150000000,
-    "movie_production_year":2007
-  },
-  {
-    "movie_display_name":"Men in Black 2",
-    "$_total_box_office":441767803,
-    "movie_financial_summary_domestic_box_office":190418803,
-    "movie_financial_summary_international_box_office":251349000,
-    "$_domestic_DVD_sales":null,
-    "movie_financial_summary_production_budget":140000000,
-    "movie_production_year":2002
-  },
-  {
-    "movie_display_name":"Shark Tale",
-    "$_total_box_office":367825111,
-    "movie_financial_summary_domestic_box_office":161412000,
-    "movie_financial_summary_international_box_office":206413111,
-    "$_domestic_DVD_sales":null,
-    "movie_financial_summary_production_budget":75000000,
-    "movie_production_year":2004
-  },
-  {
-    "movie_display_name":"Hitch",
-    "$_total_box_office":366784257,
-    "movie_financial_summary_domestic_box_office":177784257,
-    "movie_financial_summary_international_box_office":189000000,
-    "$_domestic_DVD_sales":null,
-    "movie_financial_summary_production_budget":55000000,
-    "movie_production_year":2005
-  },
-  {
-    "movie_display_name":"I, Robot",
-    "$_total_box_office":348601023,
-    "movie_financial_summary_domestic_box_office":144801023,
-    "movie_financial_summary_international_box_office":203800000,
-    "$_domestic_DVD_sales":null,
-    "movie_financial_summary_production_budget":105000000,
-    "movie_production_year":2004
-  },
-  {
-    "movie_display_name":"The Pursuit of Happyness",
-    "$_total_box_office":307325633,
-    "movie_financial_summary_domestic_box_office":162586036,
-    "movie_financial_summary_international_box_office":144739597,
-    "$_domestic_DVD_sales":91566530,
-    "movie_financial_summary_production_budget":55000000,
-    "movie_production_year":2006
-  },
-  {
-    "movie_display_name":"Bad Boys II",
-    "$_total_box_office":272940870,
-    "movie_financial_summary_domestic_box_office":138540870,
-    "movie_financial_summary_international_box_office":134400000,
-    "$_domestic_DVD_sales":null,
-    "movie_financial_summary_production_budget":130000000,
-    "movie_production_year":2003
-  },
-  {
-    "movie_display_name":"Enemy of the State",
-    "$_total_box_office":250649836,
-    "movie_financial_summary_domestic_box_office":111549836,
-    "movie_financial_summary_international_box_office":139100000,
-    "$_domestic_DVD_sales":null,
-    "movie_financial_summary_production_budget":85000000,
+    "movie_financial_summary_production_budget":65000000,
     "movie_production_year":1998
   },
   {
-    "movie_display_name":"After Earth",
-    "$_total_box_office":244373198,
-    "movie_financial_summary_domestic_box_office":60522097,
-    "movie_financial_summary_international_box_office":183851101,
-    "$_domestic_DVD_sales":7479741,
+    "movie_display_name":"Ocean's Eleven",
+    "$_total_box_office":450728529,
+    "movie_financial_summary_domestic_box_office":183417150,
+    "movie_financial_summary_international_box_office":267311379,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"The Bourne Ultimatum",
+    "$_total_box_office":442161562,
+    "movie_financial_summary_domestic_box_office":227471070,
+    "movie_financial_summary_international_box_office":214690492,
+    "$_domestic_DVD_sales":123701523,
     "movie_financial_summary_production_budget":130000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Ocean's Twelve",
+    "$_total_box_office":362989076,
+    "movie_financial_summary_domestic_box_office":125531634,
+    "movie_financial_summary_international_box_office":237457442,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":110000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Ocean's Thirteen",
+    "$_total_box_office":311744465,
+    "movie_financial_summary_domestic_box_office":117144465,
+    "movie_financial_summary_international_box_office":194600000,
+    "$_domestic_DVD_sales":48391048,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"The Departed",
+    "$_total_box_office":290539042,
+    "movie_financial_summary_domestic_box_office":133311000,
+    "movie_financial_summary_international_box_office":157228042,
+    "$_domestic_DVD_sales":141612310,
+    "movie_financial_summary_production_budget":90000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"The Bourne Supremacy",
+    "$_total_box_office":288587450,
+    "movie_financial_summary_domestic_box_office":176087450,
+    "movie_financial_summary_international_box_office":112500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Elysium",
+    "$_total_box_office":286192091,
+    "movie_financial_summary_domestic_box_office":93050117,
+    "movie_financial_summary_international_box_office":193141974,
+    "$_domestic_DVD_sales":0,
+    "movie_financial_summary_production_budget":120000000,
     "movie_production_year":2012
   },
   {
-    "movie_display_name":"Wild Wild West",
-    "$_total_box_office":221229335,
-    "movie_financial_summary_domestic_box_office":113805681,
-    "movie_financial_summary_international_box_office":107423654,
+    "movie_display_name":"True Grit",
+    "$_total_box_office":252276928,
+    "movie_financial_summary_domestic_box_office":171243005,
+    "movie_financial_summary_international_box_office":81033923,
+    "$_domestic_DVD_sales":23706927,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Good Will Hunting",
+    "$_total_box_office":225933435,
+    "movie_financial_summary_domestic_box_office":138433435,
+    "movie_financial_summary_international_box_office":87500000,
     "$_domestic_DVD_sales":null,
-    "movie_financial_summary_production_budget":175000000,
+    "movie_financial_summary_production_budget":10000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"The Bourne Identity",
+    "$_total_box_office":213300000,
+    "movie_financial_summary_domestic_box_office":121468960,
+    "movie_financial_summary_international_box_office":91831040,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Gake no ue no Ponyo",
+    "$_total_box_office":205312666,
+    "movie_financial_summary_domestic_box_office":15090399,
+    "movie_financial_summary_international_box_office":190222267,
+    "$_domestic_DVD_sales":17245951,
+    "movie_financial_summary_production_budget":34000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Happy Feet Two",
+    "$_total_box_office":157956466,
+    "movie_financial_summary_domestic_box_office":64006466,
+    "movie_financial_summary_international_box_office":93950000,
+    "$_domestic_DVD_sales":19750358,
+    "movie_financial_summary_production_budget":135000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Contagion",
+    "$_total_box_office":137551594,
+    "movie_financial_summary_domestic_box_office":75658097,
+    "movie_financial_summary_international_box_office":61893497,
+    "$_domestic_DVD_sales":12499157,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"The Monuments Men",
+    "$_total_box_office":129133726,
+    "movie_financial_summary_domestic_box_office":74733726,
+    "movie_financial_summary_international_box_office":54400000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"The Talented Mr. Ripley",
+    "$_total_box_office":128792135,
+    "movie_financial_summary_domestic_box_office":81292135,
+    "movie_financial_summary_international_box_office":47500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
     "movie_production_year":1999
   },
   {
-    "movie_display_name":"Seven Pounds",
-    "$_total_box_office":166617328,
-    "movie_financial_summary_domestic_box_office":69951824,
-    "movie_financial_summary_international_box_office":96665504,
-    "$_domestic_DVD_sales":28969053,
-    "movie_financial_summary_production_budget":54000000,
-    "movie_production_year":2008
+    "movie_display_name":"The Adjustment Bureau",
+    "$_total_box_office":127793502,
+    "movie_financial_summary_domestic_box_office":62495645,
+    "movie_financial_summary_international_box_office":65297857,
+    "$_domestic_DVD_sales":10492949,
+    "movie_financial_summary_production_budget":50200000,
+    "movie_production_year":2010
   },
   {
-    "movie_display_name":"Bad Boys",
-    "$_total_box_office":141247413,
-    "movie_financial_summary_domestic_box_office":65647413,
-    "movie_financial_summary_international_box_office":75600000,
+    "movie_display_name":"Invictus",
+    "$_total_box_office":124491364,
+    "movie_financial_summary_domestic_box_office":37491364,
+    "movie_financial_summary_international_box_office":87000000,
+    "$_domestic_DVD_sales":14982563,
+    "movie_financial_summary_production_budget":49000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"We Bought a Zoo",
+    "$_total_box_office":118924550,
+    "movie_financial_summary_domestic_box_office":75624550,
+    "movie_financial_summary_international_box_office":43300000,
+    "$_domestic_DVD_sales":21870953,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Spirit: Stallion of the Cimarron",
+    "$_total_box_office":106515310,
+    "movie_financial_summary_domestic_box_office":73215310,
+    "movie_financial_summary_international_box_office":33300000,
     "$_domestic_DVD_sales":null,
-    "movie_financial_summary_production_budget":23000000,
-    "movie_production_year":1995
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":2002
   },
   {
-    "movie_display_name":"Made In America",
-    "$_total_box_office":104942695,
-    "movie_financial_summary_domestic_box_office":44942695,
-    "movie_financial_summary_international_box_office":60000000,
+    "movie_display_name":"The Brothers Grimm",
+    "$_total_box_office":105299638,
+    "movie_financial_summary_domestic_box_office":37899638,
+    "movie_financial_summary_international_box_office":67400000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Hereafter",
+    "$_total_box_office":105246941,
+    "movie_financial_summary_domestic_box_office":32746941,
+    "movie_financial_summary_international_box_office":72500000,
+    "$_domestic_DVD_sales":7187734,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Courage Under Fire",
+    "$_total_box_office":100833145,
+    "movie_financial_summary_domestic_box_office":59003384,
+    "movie_financial_summary_international_box_office":41829761,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":46000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"The Good Shepherd",
+    "$_total_box_office":99908565,
+    "movie_financial_summary_domestic_box_office":59908565,
+    "movie_financial_summary_international_box_office":40000000,
+    "$_domestic_DVD_sales":33971370,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Green Zone",
+    "$_total_box_office":97523020,
+    "movie_financial_summary_domestic_box_office":35497337,
+    "movie_financial_summary_international_box_office":62025683,
+    "$_domestic_DVD_sales":17642368,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Syriana",
+    "$_total_box_office":92690959,
+    "movie_financial_summary_domestic_box_office":50824620,
+    "movie_financial_summary_international_box_office":41866339,
+    "$_domestic_DVD_sales":15419077,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Finding Forrester",
+    "$_total_box_office":80013623,
+    "movie_financial_summary_domestic_box_office":51768623,
+    "movie_financial_summary_international_box_office":28245000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":43000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Field of Dreams",
+    "$_total_box_office":64431625,
+    "movie_financial_summary_domestic_box_office":64431625,
+    "movie_financial_summary_international_box_office":0,
     "$_domestic_DVD_sales":null,
     "movie_financial_summary_production_budget":0,
-    "movie_production_year":1993
+    "movie_production_year":1989
   },
   {
-    "movie_display_name":"Ali",
-    "$_total_box_office":87683966,
-    "movie_financial_summary_domestic_box_office":58183966,
-    "movie_financial_summary_international_box_office":29500000,
+    "movie_display_name":"Stuck On You",
+    "$_total_box_office":63537164,
+    "movie_financial_summary_domestic_box_office":33832741,
+    "movie_financial_summary_international_box_office":29704423,
     "$_domestic_DVD_sales":null,
-    "movie_financial_summary_production_budget":109000000,
-    "movie_production_year":2001
+    "movie_financial_summary_production_budget":55000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"The Rainmaker",
+    "$_total_box_office":45916769,
+    "movie_financial_summary_domestic_box_office":45916769,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Magnificent Desolation",
+    "$_total_box_office":45865303,
+    "movie_financial_summary_domestic_box_office":40144533,
+    "movie_financial_summary_international_box_office":5720770,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Dogma",
+    "$_total_box_office":43948865,
+    "movie_financial_summary_domestic_box_office":30651422,
+    "movie_financial_summary_international_box_office":13297443,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":10000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"The Informant",
+    "$_total_box_office":41771168,
+    "movie_financial_summary_domestic_box_office":33316821,
+    "movie_financial_summary_international_box_office":8454347,
+    "$_domestic_DVD_sales":6810379,
+    "movie_financial_summary_production_budget":22000000,
+    "movie_production_year":2009
   },
   {
     "movie_display_name":"The Legend of Bagger Vance",
@@ -171,6 +306,15 @@
     "movie_production_year":2000
   },
   {
+    "movie_display_name":"The Majestic",
+    "$_total_box_office":37306334,
+    "movie_financial_summary_domestic_box_office":27796042,
+    "movie_financial_summary_international_box_office":9510292,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":72000000,
+    "movie_production_year":2001
+  },
+  {
     "movie_display_name":"Jersey Girl",
     "$_total_box_office":37066129,
     "movie_financial_summary_domestic_box_office":25266129,
@@ -180,39 +324,192 @@
     "movie_production_year":2004
   },
   {
-    "movie_display_name":"Winter's Tale",
-    "$_total_box_office":22374704,
-    "movie_financial_summary_domestic_box_office":12506315,
-    "movie_financial_summary_international_box_office":9868389,
+    "movie_display_name":"Titan A.E.",
+    "$_total_box_office":36751979,
+    "movie_financial_summary_domestic_box_office":22751979,
+    "movie_financial_summary_international_box_office":14000000,
     "$_domestic_DVD_sales":null,
-    "movie_financial_summary_production_budget":60000000,
-    "movie_production_year":2014
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2000
   },
   {
-    "movie_display_name":"Six Degrees of Separation",
-    "$_total_box_office":6284090,
-    "movie_financial_summary_domestic_box_office":6284090,
+    "movie_display_name":"Jay and Silent Bob Strike Back",
+    "$_total_box_office":33762400,
+    "movie_financial_summary_domestic_box_office":30059386,
+    "movie_financial_summary_international_box_office":3703014,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":22000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Confessions of a Dangerous Mind",
+    "$_total_box_office":33013805,
+    "movie_financial_summary_domestic_box_office":16007718,
+    "movie_financial_summary_international_box_office":17006087,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":29000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Rounders",
+    "$_total_box_office":22921898,
+    "movie_financial_summary_domestic_box_office":22921898,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":12000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Eurotrip",
+    "$_total_box_office":20718223,
+    "movie_financial_summary_domestic_box_office":17718223,
+    "movie_financial_summary_international_box_office":3000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Geronimo: An American Legend",
+    "$_total_box_office":18296646,
+    "movie_financial_summary_domestic_box_office":18296646,
     "movie_financial_summary_international_box_office":0,
     "$_domestic_DVD_sales":null,
     "movie_financial_summary_production_budget":0,
     "movie_production_year":1993
   },
   {
-    "movie_display_name":"Where the Day Takes You",
-    "$_total_box_office":390152,
-    "movie_financial_summary_domestic_box_office":390152,
+    "movie_display_name":"All the Pretty Horses",
+    "$_total_box_office":18120267,
+    "movie_financial_summary_domestic_box_office":15527125,
+    "movie_financial_summary_international_box_office":2593142,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":45000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Chasing Amy",
+    "$_total_box_office":15155095,
+    "movie_financial_summary_domestic_box_office":12006514,
+    "movie_financial_summary_international_box_office":3148581,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":250000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"School Ties",
+    "$_total_box_office":14715067,
+    "movie_financial_summary_domestic_box_office":14715067,
     "movie_financial_summary_international_box_office":0,
     "$_domestic_DVD_sales":null,
     "movie_financial_summary_production_budget":0,
     "movie_production_year":1992
   },
   {
-    "movie_display_name":"Hancock 2",
+    "movie_display_name":"Mystic Pizza",
+    "$_total_box_office":12793213,
+    "movie_financial_summary_domestic_box_office":12793213,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":6000000,
+    "movie_production_year":1988
+  },
+  {
+    "movie_display_name":"Promised Land",
+    "$_total_box_office":9300336,
+    "movie_financial_summary_domestic_box_office":7597898,
+    "movie_financial_summary_international_box_office":1702438,
+    "$_domestic_DVD_sales":3066488,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Inside Job",
+    "$_total_box_office":7799257,
+    "movie_financial_summary_domestic_box_office":4311834,
+    "movie_financial_summary_international_box_office":3487423,
+    "$_domestic_DVD_sales":3792908,
+    "movie_financial_summary_production_budget":2000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Good Mother",
+    "$_total_box_office":4764606,
+    "movie_financial_summary_domestic_box_office":4764606,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1988
+  },
+  {
+    "movie_display_name":"Youth Without Youth",
+    "$_total_box_office":2061804,
+    "movie_financial_summary_domestic_box_office":239495,
+    "movie_financial_summary_international_box_office":1822309,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Che, Part 1: The Argentine",
+    "$_total_box_office":1733532,
+    "movie_financial_summary_domestic_box_office":1733532,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Gerry",
+    "$_total_box_office":254683,
+    "movie_financial_summary_domestic_box_office":254683,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":7000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Margaret",
+    "$_total_box_office":47185,
+    "movie_financial_summary_domestic_box_office":47185,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":14000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"American Teacher",
+    "$_total_box_office":35148,
+    "movie_financial_summary_domestic_box_office":35148,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Glory Daze",
+    "$_total_box_office":5000,
+    "movie_financial_summary_domestic_box_office":5000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"All In: The Poker Movie",
     "$_total_box_office":0,
     "movie_financial_summary_domestic_box_office":0,
     "movie_financial_summary_international_box_office":0,
     "$_domestic_DVD_sales":null,
     "movie_financial_summary_production_budget":0,
     "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"The Zero Theorem",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2013
   }
 ]
