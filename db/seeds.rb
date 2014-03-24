@@ -53,12 +53,12 @@ e.freshness =32
 e.save
 puts "e"
 
-f = Movie.find_by(title: "The Third Wheel")
-f.freshness = 33
-f.save
-puts "f"
-
 g = Movie.find_by(title: "The Monuments Men")
 g.freshness = 33
 g.save
 puts "g"
+
+f = Movie.find_by(title: "The Brothers Grimm")
+f.freshness = 38
+f.save
+puts "f"
