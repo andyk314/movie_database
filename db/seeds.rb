@@ -6,12 +6,12 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-Actor.destroy_all
-Movie.destroy_all
+# Actor.destroy_all
+# Movie.destroy_all
 movies = []
 # Enter Actor ID to get grab all information
 data = HTTParty.get "https://api.themoviedb.org/3/person/1892?api_key=631d0d27d8bd582b2876ac8036e7641b"
-actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'])
+actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "Listen, here's the thing. If you can't spot the sucker in the first half hour at the table, then you ARE the sucker." )
 
 response = JSON.parse(File.read('db/matt.json'))
 
@@ -32,9 +32,7 @@ for i in 0...response.count
   actor.save
 end
 
-a = Actor.find_by(name: "Matt Damon")
-a.quote = "Listen, here's the thing. If you can't spot the sucker in the first half hour at the table, then you ARE the sucker."
-a.save
+
 
 b = Movie.find_by(title: "Good Will Hunting")
 b.freshness = 97
