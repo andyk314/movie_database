@@ -15,3 +15,21 @@
 //= require bootstrap
 //= require turbolinks
 //= require_tree .
+
+$(function(){$("#total").click(function(){
+    $(".chart").html("");
+    toggle_total();
+  });
+
+  $("#international").click(function(){
+    $(".chart").html("");
+    $(".chart").change(toggle_intl());
+  });
+
+  $("#domestic").click(function(){
+    $(".chart").html("");
+    $(".chart").change(toggle_dom());
+  });
+});
+
+  var formatNumber = d3.format(",");

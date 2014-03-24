@@ -6,6 +6,10 @@ gem 'rails', '4.0.2'
 # Use postgresql as the database for Active Record
 gem 'pg'
 
+
+# Testing
+gem 'rspec-rails'
+gem 'jasmine'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 gem 'bootstrap-sass', '~> 3.1.1'

@@ -25,9 +25,11 @@ class ActorsController < ApplicationController
   def new
   end
 
-  def show
+    def show
     @actor = Actor.find(params[:id])
-    @movies = @actor.movies
-    @fresh = @actor.movies.where("freshness >= ?", 0)
+    @movies = @actor.movies.where("total_revenue > ?", 10000000).order("total_revenue DESC")
+
+    @fresh = @actor.movies.where("freshness >= ?", 70).order("freshness DESC")
+    @rotten = @actor.movies.where("freshness <= ?", 60).order("freshness ASC")
   end
 end
