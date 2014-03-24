@@ -29,7 +29,7 @@ $(function(){$("#total").click(function(){
   $("#domestic").click(function(){
     $(".chart").html("");
     $(".chart").change(toggle_dom());
-  });
+  });ß
 });
 
   var formatNumber = d3.format(",");
