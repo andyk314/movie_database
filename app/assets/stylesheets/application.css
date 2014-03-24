@@ -12,6 +12,33 @@
  *= require_tree .
  */
 
+/*body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  position: relative;
+  width: 960px;
+}*/
+/*
+text {
+  font: 10px sans-serif;
+}*/
+
+form {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
 img {
   width: 100%;
 }
@@ -28,7 +55,7 @@ aside {
   padding: 2%;
   position: relative;
   float: left;
-  margin-top: -5%;
+  margin-top: 2%;
   margin-left: 50px;
   font-family: Helvetica;
   color: white;

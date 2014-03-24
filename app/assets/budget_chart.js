@@ -1,48 +1,69 @@
-  var r = 800, // setting this up as a "side" for our canvas
-        format = d3.format(",d"), // formats as integer
-        fill = d3.scale.category10(); // colors by ordinal scale
-
-    var bubble = d3.layout.pack() // pack layout lends to bubble chart
-        .sort(null) // runs a comparator if you want to do some sorting (we aren't here)
-        .size([r, r]) // defaults to 1x1 unless this is specified [x, y]
-        .padding(2); // how much space between each bubble
-
-    var vis = d3.select("#bubblechart").append("svg") // puts a svg inside of the div with an id of "chart"
-        .attr("width", r) // svg canvas is r wide
-        .attr("height", r) // svg canvas is r tall (it's a square)
-        .attr("class", "bubble"); // add class "bubble" to svg
-
-
-
-      var node = vis.selectAll("g.node") // setting up nodes with a select within the svg we set up when we declared vis above
-          .data(bubble.nodes(classes(json)) // looks more complex than it is -- we're flattening stuff via bubble (above) and classes (below)
-          .filter(function(d) { return !d.children; }))
-        .enter().append("g") // g is a D3 thing that groups svg shapes
-          .attr("class", "node")
-          .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; }); // this gives us the spiraling effect of the bubbles by translating the position (x,y) of each next node
-
-      node.append("title") // adds a title attribute to each node -- here, it populates that with the string, "My favorite flavor is ___" and incorporates the flavor of each node
-          .text(function(d) { return "My favorite flavor is " + d.className; });
-
-      node.append("circle") // makes these visuals bubbles
-          .attr("r", function(d) { return d.r; }) // sets the radius of each bubble
-          .style("fill", function(d) { return fill(d.packageName); }); // fills the bubble with the color appropriate to the package
-
-      node.append("text") 
-          .attr("text-anchor", "middle") // places font in middle of node
-          .attr("dy", ".3em") // sizes font
-          .text(function(d) { return d.className; }); // text is equal to name
-
-    // Awesome function courtesy of Mike Bostock/Jeff Heer
-    // Returns a flattened hierarchy containing all leaf nodes under the root.
-    function classes(root) {
-      var classes = [];
-
-      function recurse(flavor, node) {
-        if (node.children) node.children.forEach(function(child) { recurse(node.flavor, child); });
-        else classes.push({packageName: flavor, className: node.flavor, value: node.size});
-      }
-
-      recurse(null, root);
-      return {children: classes};
+  
+d3.json(d3_url, function(error, json) {
+    if (error) return console.warn(error);
+      actor = json;
+      var data = [];
+    for(var i=0; i<actor.actor.movies.length; i++){
+      data.push(actor.actor.movies[i]);
     }
+ 
+var width = 960,
+height = 500,
+radius = Math.min(width, height) / 2;
+
+var color = d3.scale.category20();
+
+var pie = d3.layout.pie()
+    .value(function(d) { return d.apples; })
+    .sort(null);
+
+var arc = d3.svg.arc()
+    .innerRadius(radius - 100)
+    .outerRadius(radius - 20);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+  .append("g")
+    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+d3.data(data, type, function(error, data) {
+  var path = svg.datum(data).selectAll("path")
+      .data(pie)
+    .enter().append("path")
+      .attr("fill", function(d, i) { return color(i); })
+      .attr("d", arc)
+      .each(function(d) { this._current = d; }); // store the initial angles
+
+  d3.selectAll("input")
+      .on("change", change);
+
+  var timeout = setTimeout(function() {
+    d3.select("input[value=\"oranges\"]").property("checked", true).each(change);
+  }, 2000);
+
+  function change() {
+    var value = this.value;
+    clearTimeout(timeout);
+    pie.value(function(d) { return d[value]; }); // change the value function
+    path = path.data(pie); // compute the new angles
+    path.transition().duration(750).attrTween("d", arcTween); // redraw the arcs
+  }
+});
+
+function type(d) {
+  d.apples = +d.apples;
+  d.oranges = +d.oranges;
+  return d;
+}
+
+// Store the displayed angles in _current.
+// Then, interpolate from _current to the new angles.
+// During the transition, _current is updated in-place by d3.interpolate.
+function arcTween(a) {
+  var i = d3.interpolate(this._current, a);
+  this._current = i(0);
+  return function(t) {
+    return arc(i(t));
+  };
+}
