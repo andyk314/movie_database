@@ -12,7 +12,6 @@
  *= require_tree .
  */
 
-/*CSS CURVED TEXT "FUN FACTS ABOUT THIS CELEBRITY"*/
 img {
   width: 100%;
 }
@@ -47,6 +46,18 @@ section {
   border: 6px solid white;
   border-radius: 10px;
   padding: 2%;
+}
+
+figure {
+  padding-bottom: 30px;
+}
+
+figcaption {
+  font-family: Muli;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  padding-top: 5px;
 }
 
 .bio {
@@ -129,8 +140,11 @@ section {
   height: 20%;
   margin-left: 30%;
   color: white;
+  max-width: 300px;
+  max-height: 100px;
 }
 
+/*CSS CURVED TEXT "FUN FACTS ABOUT THIS CELEBRITY"*/
  #warped>span[class^=w]:nth-of-type(n+0){display:block; position:absolute;
  -moz-transform-origin:50% 100%; -webkit-transform-origin:50% 100%; -o-transform-origin:50%
  100%; -ms-transform-origin:50% 100%; transform-origin:50% 100%; }
