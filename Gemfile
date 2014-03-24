@@ -6,7 +6,7 @@ gem 'rails', '4.0.2'
 # Use postgresql as the database for Active Record
 gem 'pg'
 
-
+gem 'rails_12factor'
 # Testing
 gem 'rspec-rails'
 gem 'jasmine'
