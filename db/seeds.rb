@@ -36,24 +36,29 @@ end
 b = Movie.find_by(title: "Good Will Hunting")
 b.freshness = 97
 b.save
+puts "b"
 
 c = Movie.find_by(title: "True Grit")
 c.freshness = 96
 c.save
+puts "c"
 
 d = Movie.find_by(title: "The Bourne Ultimatum")
 d.freshness = 94
 d.save
+puts "d"
 
 e = Movie.find_by(title: "All the Pretty Horses")
 e.freshness =32
 e.save
+puts "e"
 
 f = Movie.find_by(title: "The Third Wheel")
 f.freshness = 33
 f.save
+puts "f"
 
 g = Movie.find_by(title: "The Monuments Men")
 g.freshness = 33
 g.save
-
+puts "g"
