@@ -32,22 +32,33 @@ for i in 0...response.count
   actor.save
 end
 
-a = Movie.find_by(title: "Winter's Bone”)
-a.freshness = 94
-a.save
-b = Movie.find_by(title: "American Hustle”)
-b.freshness = 93
-b.save
 
-c = Movie.find_by(title: "Silver Linings Playbook”)
-c.freshness = 92
+b = Movie.find_by(title: "Winter's Bone")
+b.freshness = 94
+b.save
+puts "b"
+
+c = Movie.find_by(title: "American Hustle")
+c.freshness = 93
 c.save
-d = Movie.find_by(title: "The Beaver”)
-d.freshness = 60
+puts "c"
+
+d = Movie.find_by(title: "Silver Linings Playbook")
+d.freshness = 92
 d.save
-e = Movie.find_by(title: "The Burning Plain”)
-e.freshness = 35
+puts "d"
+
+e = Movie.find_by(title: "The Beaver")
+e.freshness = 60
 e.save
-f = Movie.find_by(title: "House at the End of the Street”)
+puts "e"
+
+g = Movie.find_by(title: "The Burning Plain")
+g.freshness = 35
+g.save
+puts "g"
+
+f = Movie.find_by(title: "House at the End of the Street")
 f.freshness = 10
 f.save
+puts "f"
