@@ -10,10 +10,10 @@
 # Movie.destroy_all
 movies = []
 # Enter Actor ID to get grab all information
-data = HTTParty.get "https://api.themoviedb.org/3/person/72129?api_key=631d0d27d8bd582b2876ac8036e7641b"
-actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "In a world where no one understands, it's good to finally find someone who can." )
+data = HTTParty.get "https://api.themoviedb.org/3/person/6941?api_key=631d0d27d8bd582b2876ac8036e7641b"
+actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "You know, I don't think they have enough meats on sticks. No seriously, if you think about it, they have plenty of sweets, right? They have lollipops. They have fudgcicles. They have popcicles. But they don't have any other meat on sticks." )
 
-response = JSON.parse(File.read('db/jennifer.json'))
+response = JSON.parse(File.read('db/cameron.json'))
 
 for i in 0...response.count
   movie = Movie.find_or_initialize_by(title: (response[i]["movie_display_name"]))
@@ -33,32 +33,32 @@ for i in 0...response.count
 end
 
 
-b = Movie.find_by(title: "Winter's Bone")
-b.freshness = 94
+b = Movie.find_by(title: "Shrek")
+b.freshness = 88
 b.save
 puts "b"
 
-c = Movie.find_by(title: "American Hustle")
-c.freshness = 93
+c = Movie.find_by(title: "Shrek 2")
+c.freshness = 89
 c.save
 puts "c"
 
-d = Movie.find_by(title: "Silver Linings Playbook")
-d.freshness = 92
+d = Movie.find_by(title: "Being John Malkovich")
+d.freshness = 93
 d.save
 puts "d"
 
-e = Movie.find_by(title: "The Beaver")
-e.freshness = 60
+e = Movie.find_by(title: "What to Expect When You're Expecting")
+e.freshness = 22
 e.save
 puts "e"
 
-g = Movie.find_by(title: "The Burning Plain")
-g.freshness = 35
+g = Movie.find_by(title: "The Sweetest Thing")
+g.freshness = 26
 g.save
 puts "g"
 
-f = Movie.find_by(title: "House at the End of the Street")
-f.freshness = 10
+f = Movie.find_by(title: "What Happens in Vegas")
+f.freshness = 27
 f.save
 puts "f"
