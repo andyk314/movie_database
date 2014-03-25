@@ -10,10 +10,10 @@
 # Movie.destroy_all
 movies = []
 # Enter Actor ID to get grab all information
-data = HTTParty.get "https://api.themoviedb.org/3/person/4491?api_key=631d0d27d8bd582b2876ac8036e7641b"
-actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "The 'I Hate Rachel Green Club'? Who was in this club?" )
+data = HTTParty.get "https://api.themoviedb.org/3/person/31?api_key=631d0d27d8bd582b2876ac8036e7641b"
+actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "My mama always said life was like a box of chocolates. You never know what you're gonna get." )
 
-response = JSON.parse(File.read('db/aniston.json'))
+response = JSON.parse(File.read('db/tom.json'))
 
 for i in 0...response.count
   movie = Movie.find_or_initialize_by(title: (response[i]["movie_display_name"]))
@@ -33,32 +33,15 @@ for i in 0...response.count
 end
 
 
-a = Movie.find_by(title: "Flirting")
-a.freshness = 96
-a.save
-puts "b"
-
-c = Movie.find_by(title: "God Grew Tired Of Us")
-c.freshness = 91
-c.save
-puts "c"
-
-d = Movie.find_by(title: "To Die For")
-d.freshness = 87
-d.save
-puts "d"
-
-e = Movie.find_by(title: "The Invasion")
-e.freshness = 20
-e.save
-puts "e"
-
-f = Movie.find_by(title: "Just Go With It")
-f.freshness = 19
-g.save
-puts "g"
-
-g = Movie.find_by(title: "Trespass")
-g.freshness = 10
-f.save
-puts "f"
+a = Movie.find_by(title: "Toy Story")
+a.freshness = 100
+a = Movie.find_by(title: "Toy Story 2")
+a.freshness = 100
+a = Movie.find_by(title: "Toy Story 3")
+a.freshness = 99
+a = Movie.find_by(title: "Angels & Demons")
+a.freshness = 37
+a = Movie.find_by(title: "Larry Crowne")
+a.freshness = 35 
+a = Movie.find_by(title: "The Da Vinci Code")
+a.freshness = 25
