@@ -12,14 +12,23 @@ function pieChart() {
     .value(function(d) { return d.budget; })
     .sort(null);
   var arc = d3.svg.arc()
-    // .innerRadius(radius - 100)
+    .innerRadius(radius - 170)
     .outerRadius(radius - 20);
+
+  var tip = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-10, 0])
+    .html(function(d) {
+      return "<strong></strong> <span style='color:red'>" + d.data.title + "</span>";
+    })
 
   var svg = d3.select(".pie_chart").append("svg")
       .attr("width", width + margin.left + margin.right)
       .attr("height", height + margin.top + margin.bottom)
       .append("g")
       .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+svg.call(tip);
 
   d3.json(d3_url, function(error, json) {
     if (error) return console.warn(error);
@@ -34,7 +43,7 @@ function pieChart() {
     data = data.sort(function(b, a) {return parseFloat(a.budget) - parseFloat(b.budget)});
     var topData = data.slice(0,5);
     var botData = data.slice(-5);  
-console.log(data);
+console.log("Data" + data);
 console.log("Top 5 Budgeted Movies: " + topData);
 console.log("Bottom 5 Budgeted Movies: " + botData);
 
@@ -42,32 +51,30 @@ var g = svg.selectAll(".arc")
   .data(pie(topData))
   .enter().append("g")
     .attr("class", "arc")
+    .on('mouseover', tip.show)
+    .on('mouseout', tip.hide);
 
 g.append("path")
   .attr("d", arc)
-  .style("fill", function(d) { return color(d.data.budget)})
+  .style("fill", function(d) { return color(d.data.budget);});
 
 g.append("text")
+  .attr("transform", function(d) { 
+    return "translate(" + arc.centroid(d) + ")"; })
   .attr("dy", ".35em")
- 
-  .text(function(d) { return d.data.title; });
-  // .attr("d", function(d) { return d(d.data.budget); })
-  // .append("text")
-  //       .style("text-anchor", "end")
-  //       .text("Budget");
-// alert(topData.length);
+  .style("text-anchor", "middle")
+  .text(function(d, i) { return data[i].title; });
 
 
-
-  var path = svg.datum(topData).selectAll("path")
-      .data(pie)
-    .enter().append("path")
-      .attr("fill", function(d, i) { return color(i); })
-      .attr("d", arc)
-      .each(function(d) { this._current = d; }); // store the initial angles
+var path = svg.datum(topData).selectAll("path")
+    .data(pie)
+  .enter().append("path")
+    .attr("fill", function(d, i) { return color(i); })
+    .attr("d", arc)
+    .each(function(d) { this._current = d; }); // store the initial angles
 
   d3.selectAll("input")
-      .on("change", change);
+    .on("change", change);
 
   var timeout = setTimeout(function() {
     d3.select("input[value=\"bot_budget\"]").property("checked", true).each(change);
@@ -76,11 +83,12 @@ g.append("text")
 
 
   function change() {
-    alert('hi')
-    var value = botData;
+    var value = this.value;
+    console.log("value: " + value);
     clearTimeout(timeout);
     pie.value(function(d) { return d[value]; }); // change the value function
     path = path.data(pie); // compute the new angles
+    console.log("path: " + path)
     path.transition().duration(750).attrTween("d", arcTween); // redraw the arcs
   }
 });
@@ -98,9 +106,9 @@ g.append("text")
     this._current = i(0);
     return function(t) {
       return arc(i(t));
-        alert('hi');
+        
     };
-  }
+  };
 
 };
 
