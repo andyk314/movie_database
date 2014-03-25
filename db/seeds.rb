@@ -10,10 +10,10 @@
 # Movie.destroy_all
 movies = []
 # Enter Actor ID to get grab all information
-data = HTTParty.get "https://api.themoviedb.org/3/person/2231?api_key=631d0d27d8bd582b2876ac8036e7641b"
-actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men." )
+data = HTTParty.get "https://api.themoviedb.org/3/person/287?api_key=631d0d27d8bd582b2876ac8036e7641b"
+actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "Welcome to Fight Club. The first rule of Fight Club is: you do not talk about Fight Club. The second rule of Fight Club is: you DO NOT talk about Fight Club!" )
 
-response = JSON.parse(File.read('db/samuel.json'))
+response = JSON.parse(File.read('db/brad_pitt.json'))
 
 for i in 0...response.count
   movie = Movie.find_or_initialize_by(title: (response[i]["movie_display_name"]))
@@ -31,28 +31,3 @@ for i in 0...response.count
   actor.movies << movie
   actor.save
 end
-
-
-a = Movie.find_by(title: "The Player")
-a.freshness = 98
-a.save
-
-a = Movie.find_by(title: "Pulp Fiction")
-a.freshness = 94
-a.save
-
-a = Movie.find_by(title: "Moonrise Kingdom")
-a.freshness = 94
-a.save
-
-a = Movie.find_by(title: "Perfect Stranger")
-a.freshness = 11
-a.save
-
-a = Movie.find_by(title: "The Cold Light of Day")
-a.freshness = 5
-a.save
-
-a = Movie.find_by(title: "The Whole Ten Yards")
-a.freshness = 4
-a.save
