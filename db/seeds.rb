@@ -13,7 +13,7 @@ movies = []
 data = HTTParty.get "https://api.themoviedb.org/3/person/31?api_key=631d0d27d8bd582b2876ac8036e7641b"
 actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "My mama always said life was like a box of chocolates. You never know what you're gonna get." )
 
-response = JSON.parse(File.read('db/tom.json'))
+response = JSON.parse(File.read('db/tom_hanks.json'))
 
 for i in 0...response.count
   movie = Movie.find_or_initialize_by(title: (response[i]["movie_display_name"]))
@@ -35,13 +35,24 @@ end
 
 a = Movie.find_by(title: "Toy Story")
 a.freshness = 100
+a.save
+
 a = Movie.find_by(title: "Toy Story 2")
 a.freshness = 100
-a = Movie.find_by(title: "Toy Story 3")
-a.freshness = 99
+a.save
+
+a = Movie.find_by(title: "Catch Me if You Can")
+a.freshness = 96
+a.save
+
 a = Movie.find_by(title: "Angels & Demons")
 a.freshness = 37
+a.save
+
 a = Movie.find_by(title: "Larry Crowne")
 a.freshness = 35 
+a.save
+
 a = Movie.find_by(title: "The Da Vinci Code")
 a.freshness = 25
+a.save
