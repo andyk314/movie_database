@@ -11,7 +11,7 @@
 movies = []
 # Enter Actor ID to get grab all information
 data = HTTParty.get "https://api.themoviedb.org/3/person/2231?api_key=631d0d27d8bd582b2876ac8036e7641b"
-actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. Blessed is he who in the name of charity and goodwill, shepherds the weak through the valley of the darkness, for he is truly his brother’s keeper, and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know I am the Lord when I lay My vengeance upon thee." )
+actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men." )
 
 response = JSON.parse(File.read('db/samuel.json'))
 
