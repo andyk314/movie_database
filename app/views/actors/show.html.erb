@@ -42,14 +42,15 @@
       
     </svg>
         <button onclick="applyD3Selectors()">Magic Circles Time</button><br> -->
-<form>
-  <label><input type="radio" name="dataset" value="apples" checked> Apples</label>
-  <label><input type="radio" name="dataset" value="oranges"> Oranges</label>
-</form>
+<div class="pie_chart"></div>
+  <input type="radio" name="dataset" value="budget" checked><label>Highest Budgeted Films</label>
+  <input type="radio" name="dataset" value="bot_budget"><label>Lowest Budgeted Films revenue</label>
+
 
 <script>
 window.d3_url = '<%= actor_path(@actor, format: 'json') %>';
 toggle_total();
+pieChart();
 </script>
 
 
