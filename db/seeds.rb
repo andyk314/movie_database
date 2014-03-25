@@ -10,10 +10,10 @@
 # Movie.destroy_all
 movies = []
 # Enter Actor ID to get grab all information
-data = HTTParty.get "https://api.themoviedb.org/3/person/524?api_key=631d0d27d8bd582b2876ac8036e7641b"
-actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "I'm not saying I don't cry but in between I laugh and I realize how silly it is to take anything too seriously." )
+data = HTTParty.get "https://api.themoviedb.org/3/person/116?api_key=631d0d27d8bd582b2876ac8036e7641b"
+actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "You and I are not the polite people that live in poems. We are blessed and cursed by our times." )
 
-response = JSON.parse(File.read('db/natalie.json'))
+response = JSON.parse(File.read('db/keira.json'))
 
 for i in 0...response.count
   movie = Movie.find_or_initialize_by(title: (response[i]["movie_display_name"]))
@@ -31,3 +31,4 @@ for i in 0...response.count
   actor.movies << movie
   actor.save
 end
+
