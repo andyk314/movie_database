@@ -10,8 +10,8 @@
 # Movie.destroy_all
 movies = []
 # Enter Actor ID to get grab all information
-data = HTTParty.get "https://api.themoviedb.org/3/person/776?api_key=631d0d27d8bd582b2876ac8036e7641b"
-actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "That's right, fool! Now I'm a FLYING talking donkey! You might have seen a housefly, maybe even a superfly, but I bet you ain't never seen a DONKEY fly! Ha, ha!" )
+data = HTTParty.get "https://api.themoviedb.org/3/person/112?api_key=631d0d27d8bd582b2876ac8036e7641b"
+actor = Actor.create(name: data['name'], star_id: data['id'], birthdate: data['birthday'], picture: data['profile_path'], bio: data['biography'], dvd: data['$_domestic_DVD_sales'], budget: data['movie_financial_summary_production_budget'], quote: "Anxiety, nightmares and a nervous breakdown, there's only so many traumas a person can withstand until they take to the streets and start screaming." )
 
 response = JSON.parse(File.read('db/eddie_murphy.json'))
 
