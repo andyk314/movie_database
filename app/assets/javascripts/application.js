@@ -17,8 +17,13 @@
 //= require_tree .
 
 $(function(){$("#total").click(function(){
+  event.preventDefault()
+    
     $(".chart").html("");
     toggle_total();
+    // $(".bar").slideDown();
+    $(".chart").slideDown();
+    console.log("hi")
   });
 
   $("#international").click(function(){

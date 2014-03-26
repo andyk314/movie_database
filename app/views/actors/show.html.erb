@@ -26,7 +26,7 @@
     <li><p><%= @rotten[2].title %> - <%= @rotten[2].freshness %>%</p></li>
   </ol>
 </aside>
-<div id='warped3'>
+<div id='warped3' class="sqigtext">
   <span class='w0'>C</span><span class='w1'>A</span><span class='w2'>R</span><span class='w3'>E</span><span class='w4'>E</span><span class='w5'>R</span><span class='w6'> </span><span class='w7'>B</span><span class='w8'>O</span><span class='w9'>X</span><span class='w10'> </span><span class='w11'>O</span><span class='w12'>F</span><span class='w13'>F</span><span class='w14'>I</span><span class='w15'>C</span><span class='w16'>E</span><span class='w17'> </span><span class='w18'>G</span><span class='w19'>R</span><span class='w20'>O</span><span class='w21'>S</span><span class='w22'>S</span><span class='w23'>E</span><span class='w24'>S</span>
 </div>
 
@@ -42,9 +42,10 @@
       
     </svg>
         <button onclick="applyD3Selectors()">Magic Circles Time</button><br> -->
+<h3 class="budget_title">Movie Budgets</h3>
 <div class="pie_chart"></div>
-  <input type="radio" name="dataset" value="budget" checked><label>Highest Budgeted Films</label>
-  <input type="radio" name="dataset" value="bot_budget"><label>Lowest Budgeted Films revenue</label>
+  <input type="radio" name="dataset" value="topData" checked><label>Highest Budgeted Films</label>
+  <input type="radio" name="dataset" value="botData"><label>Lowest Budgeted Films revenue</label>
 
 
 <script>
