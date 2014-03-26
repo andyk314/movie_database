@@ -8,8 +8,9 @@
 </section>
 
 <!--   <h3 id="fun_facts">Fun Facts About This Actor</h3> -->
-<section class="bio">
 
+<section class="bio">
+<div id="talkbubble1">ACTOR FUN FACTS!!!</div>
   <%= truncate(@actor.bio, length: 500, omission: '...(more)') %></section>
 <aside>
   <ol>
@@ -25,6 +26,7 @@
     <li><p><%= @rotten[2].title %> - <%= @rotten[2].freshness %>%</p></li>
   </ol>
 </aside>
+<div id="talkbubble2">ROTTEN TOMATES INFO!!!</div>
 <!-- </div> -->
 
 <div class="chart">
