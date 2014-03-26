@@ -2,8 +2,8 @@
 <!-- D3 Chart - International Gross -->
 
 function toggle_intl() {
-  var margin = {top: 30, right: 40, bottom: 120, left: 70},
-      width = 960 - margin.left - margin.right,
+  var margin = {top: 30, right: 0, bottom: 130, left: 100},
+      width = 1200 - margin.left - margin.right,
       height = 500 - margin.top - margin.bottom;
 
   var x = d3.scale.ordinal()

@@ -1,8 +1,8 @@
 
 <!-- D3 Chart - Total Gross -->
 function toggle_total() {
-  var margin = {top: 30, right: 40, bottom: 130, left: 70},
-      width = 960 - margin.left - margin.right,
+  var margin = {top: 30, right: 0, bottom: 130, left: 100},
+      width = 1200 - margin.left - margin.right,
       height = 500 - margin.top - margin.bottom;
 
   var x = d3.scale.ordinal()

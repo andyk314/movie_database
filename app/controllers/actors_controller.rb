@@ -10,13 +10,6 @@ class ActorsController < ApplicationController
     else
       @actor = Actor.all
     end
-    
-    # respond_to do |format|
-    #   format.html
-    #   format.js
-    # end
-    
-    
   end
 
   def create

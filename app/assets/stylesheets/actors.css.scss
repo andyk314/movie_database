@@ -2,6 +2,15 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/*/
 
+/*.stripe1 {
+  height: 500px;
+}
+
+.stripe2 {
+  background-color: white;
+  height: 500px;
+}*/
+
 #searchbar {
   right: 45%;
   width: 250px;
@@ -26,7 +35,8 @@
 
 .actornameshow {
   height: 15%;
-  width: 670px;
+/*  width: 670px;*/
+  text-align: center;
   padding-top: 120px;
   padding-bottom: 80px;
   color: white;
@@ -43,16 +53,20 @@
 
   /*D3*/
 
-
 .chart { /*centering our canvas*/
-  width: 75%;
-  height: 20%;
+  width: 85%;
+  height: 30%;
   background-color: #ffb309;
   border-radius: 10px;
   border: 6px solid white;
   margin: 0 auto;
-  margin-top: 100%;
+  margin-top: 30%;
   margin-bottom: 3%;
+}
+
+.bar_btns {
+  width: 300px;
+  margin: 0 auto;
 }
 
 .bar {

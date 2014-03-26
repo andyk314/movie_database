@@ -22,35 +22,41 @@
 text {
   font: 10px sans-serif;
 }*/
-
+/*
 form {
   position: absolute;
-  right: 10px;
+  right: 190px;
   top: 10px;
 }
+*/
 
-
-
-
-
+/*
+#fun_facts {
+  margin-top: 450px;
+  margin-right: -350px;
+  position: relative;
+  color: white;
+  font-size: 30px;
+}
+*/
 img {
   width: 100%;
 }
 
 body { 
   background: #0b9eb9 !important;
-  padding-right: 75px;
-  padding-left: 75px;
+/*  padding-right: 100px;
+  padding-left: 100px;*/
 }
 
 aside {
-  height: 25%;
-  width: 25%;
+  height: 370px;
+  width: 340px;
   padding: 2%;
-  position: relative;
-  float: left;
-  margin-top: 2%;
-  margin-left: 50px;
+  position: absolute;
+/*  float: left;*/
+  margin-top: -130px;
+  margin-left: 61%;
   font-family: Helvetica;
   color: white;
   background-color: #ffb309;
@@ -62,15 +68,11 @@ section {
   font-family: Muli;
   font-weight: bold;
   color: white;
-  float: left;
+/*  float: left;*/
   background-color: #ff5847;
   border: 6px solid white;
   border-radius: 10px;
-  padding: 2%;
-}
 
-figure {
-  padding-bottom: 30px;
 }
 
 figcaption {
@@ -81,27 +83,40 @@ figcaption {
   padding-top: 5px;
 }
 
-.sqigtext {
-
-}
-
 .bio {
-  float: right;
-  margin-left: 70%;
-  margin-top: 20%;
+/*  float: right;*/
+  margin-left: 10%;
+  margin-top: 10%;
   padding: 2%;
   height: 30%;
-  width: 30%;
+  width: 400px;
 }
 
 .quote {
-  width: 30%;
-  height: 30%;
+  width: 400px;
+  height: 20%;
+  margin-left: 60%;
+  margin-top: -30%;
   font-size: 27px;
   font-weight: bold;
   text-align: center;
   font-family: 'Poiret One', cursive;
+  padding: 2%;
+}
 
+.imagewrapper {
+  margin-top: 5%;
+  margin-left: 15%;
+  margin-bottom: 10%;
+  border: 6px solid white;
+  border-radius: 10px;
+  width: 19%;
+}
+
+.imagewrapper img {
+  max-width: 100%;
+  height: auto;
+  width: auto; /* For IE8 */
 }
 
 .pictureframe {
