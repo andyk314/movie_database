@@ -1,7 +1,7 @@
 // <!-- D3 Chart - Pie Chart -->
 function pieChart() {
-  var margin = {top: 0, right: 0, bottom: 0, left: 0},
-      width = 760 - margin.left - margin.right,
+  var margin = {top: 0, right: 0, bottom: 0, left: -200},
+      width = 1250 - margin.left - margin.right,
       height = 500 - margin.top - margin.bottom,
       radius = Math.min(width, height) / 2;
 

@@ -84,19 +84,17 @@ figcaption {
 }
 
 .bio {
-/*  float: right;*/
   margin-left: 10%;
-  margin-top: 10%;
   padding: 2%;
-  height: 30%;
   width: 400px;
+  background-color: #ffb309;
 }
 
 .quote {
   width: 400px;
-  height: 20%;
   margin-left: 60%;
   margin-top: -30%;
+  margin-bottom: 4%;
   font-size: 27px;
   font-weight: bold;
   text-align: center;

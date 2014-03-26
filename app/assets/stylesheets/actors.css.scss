@@ -3,67 +3,98 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/*/
 
 #talkbubble1 {
-   width: 320px;
-   height: 80px;
-   margin-top: 5%;
-   margin-left: 40%; 
-   padding: 1%;
-   font-size: 25px;
-   color: white;
-   background: #ffb309;
-   position: absolute;
-   border: 6px solid white;
-   -moz-border-radius:    10px;
-   -webkit-border-radius: 10px;
-   border-radius:         10px;
+  width: 320px;
+  height: 80px;
+  margin-top: 5%;
+  margin-left: 40%; 
+  padding: 1%;
+  font-size: 25px;
+  color: white;
+  background: #ffb309;
+  position: absolute;
+  border: 6px solid white;
+  -moz-border-radius:    10px;
+  -webkit-border-radius: 10px;
+  border-radius:         10px;
 }
 
 #talkbubble1:before {
-   content:"";
-   position: absolute;
-   right: 100%;
-   top: 26px;
-   width: 0;
-   height: 0;
-   border-top: 13px solid transparent;
-   border-right: 26px solid white;
-   border-bottom: 13px solid transparent;
+  content:"";
+  position: absolute;
+  right: 100%;
+  top: 26px;
+  width: 0;
+  height: 0;
+  border-top: 13px solid transparent;
+  border-right: 26px solid white;
+  border-bottom: 13px solid transparent;
 }
 
  #talkbubble2 {
-   width: 350px;
-   height: 80px;
-   margin-top: 14%;
-   margin-left: 20%; 
-   padding: 1%;
-   font-size: 25px;
-   color: white;
-   background: #ffb309;
-   position: relative;
-   border: 6px solid white;
-   -moz-border-radius:    10px;
-   -webkit-border-radius: 10px;
-   border-radius:         10px;
+  width: 350px;
+  height: 80px;
+  margin-top: 14%;
+  margin-left: 20%; 
+  padding: 1%;
+  font-size: 25px;
+  color: white;
+  background: #ffb309;
+  position: relative;
+  border: 6px solid white;
+  -moz-border-radius:    10px;
+  -webkit-border-radius: 10px;
+  border-radius:         10px;
 }
+
 #talkbubble2:before {
-   content:"";
-   position: absolute;
-   left: 100%;
-   top: 26px;
-   width: 0;
-   height: 0;
-   border-top: 13px solid transparent;
-   border-left: 26px solid white;
-   border-bottom: 13px solid transparent;
+  content:"";
+  position: absolute;
+  left: 100%;
+  top: 26px;
+  width: 0;
+  height: 0;
+  border-top: 13px solid transparent;
+  border-left: 26px solid white;
+  border-bottom: 13px solid transparent;
 }
 
-
-
-/*.stripe1 {
-  height: 500px;
+#triangle_down1 {
+  width: 0;
+  height: 0;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 30px solid #0b9eb9;
+  margin: 0 auto;
+  position: relative;
 }
 
-.stripe2 {
+#triangle_down2 {
+  width: 0;
+  height: 0;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 30px solid #ff5847;
+  margin: 0 auto;
+}
+
+#triangle_down3 {
+  width: 0;
+  height: 0;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 30px solid #ffb309;
+  margin: 0 auto;
+  position: relative;
+}
+
+.stripe {
+  margin-top: -30px;
+  padding-top: 7%;
+  background-color: #ff5847;
+  padding-bottom: 20px;
+}
+
+/*.stripe2 {
   background-color: white;
   height: 500px;
 }*/
@@ -111,14 +142,10 @@
   /*D3*/
 
 .chart { /*centering our canvas*/
-  width: 85%;
-  height: 30%;
+  width: 100%;
   background-color: #ffb309;
-  border-radius: 10px;
-  border: 6px solid white;
   margin: 0 auto;
-  margin-top: 30%;
-  margin-bottom: 3%;
+  margin-top: 15%;
 }
 
 .bar_btns {
@@ -177,15 +204,15 @@
 }
 
 .pie_chart svg {
-  border: 6px solid white;
-  border-radius: 10px;
-  text-align: center;
+  margin: 0 auto;
   background-color: #ff5847;
 }
 
 .pie_chart {
-
-  width: 760px;
+  background-color: #ff5847;
+  margin-top: -30px;
   margin: 0 auto;
+  margin-top: -30px;
+  padding-top: 30px;
 }
 @import "bootstrap";
