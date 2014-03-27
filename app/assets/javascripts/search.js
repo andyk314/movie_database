@@ -1,21 +1,3 @@
-<div class="container">
-  <div class="row">
-    <% i = 1 %>
-    <% @actors.each do |actor| %>
-      <figure class="col-md-3 col-sm-6 col-xs-12">
-      <a href="<%=actor_path(actor)%>"><img class="pictureframe" src="http://image.tmdb.org/t/p/original<%= actor.picture %>" alt="<%= actor.name %>" /><% actor_path(actor) %></a>
-      <figcaption><%= actor.name %></figcaption>
-      </figure>
-      <% if i % 4 == 0 %>
-        </div>
-        <div class="row">
-      <% end %>
-      <% i += 1 %>
-    <% end %>
-  </div>
-</div>
-
-<script type="text/javascript">
 $(document).ready(function(){
   $("#filter").keyup(function(){
 
@@ -37,9 +19,3 @@ $(document).ready(function(){
     });
   });
 });
-
-
-
-
-
-</script>

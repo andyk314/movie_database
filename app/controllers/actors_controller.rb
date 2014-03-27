@@ -1,14 +1,12 @@
 class ActorsController < ApplicationController
   def index
-
-    @actors = Actor.all
     @movies = Movie.all
-    # @actors = Actor.search(params[:search])
-    if params[:search]    
-      # @movies = Movie.all
+      if params[:search]
       @actor = Actor.where("name LIKE ?", "%#{params[:search].capitalize}%")
     else
       @actor = Actor.all
+      @actors = Actor.all
+      @actors_pagination = Actor.all.paginate(page: params[:page], per_page: 8)
     end
   end
 

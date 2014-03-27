@@ -62,7 +62,12 @@ figcaption {
 
 }
 
+.show_top_container{
+  min-height: 300px;
+}
+
 .quote {
+
   width: 400px;
   margin-left: 60%;
   margin-top: -35%;

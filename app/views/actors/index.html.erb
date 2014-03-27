@@ -1,11 +1,9 @@
-<div id="actorbox">
+<div id="actors">
   
-  <%= render 'actorlist' %>
+  <%= render 'actor' %>
 
 </div>
 
-<!-- <div id="actortest"></div> -->
-
-<script type="text/javascript">
-
-</script>
+<div class="pagination"> 
+  <%= will_paginate @actors_pagination %>
+</div>

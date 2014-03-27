@@ -1,0 +1,14 @@
+// Actor search
+<% if params[:search] %>
+  $(".pagination").html('<%= j render partial: "actors" %>');
+<% end %>
+
+// Endless scroll pagination
+//alert('index.js.erb');
+$('#actors').append('<%= j render partial: "actor" %>');
+<% if @actors_pagination.next_page %>
+  $('.pagination').replaceWith('<%= j will_paginate(@actors_pagination ) %>');
+<% else %>
+  $(window).off('scroll');
+  $('.pagination').remove();
+<% end %>
