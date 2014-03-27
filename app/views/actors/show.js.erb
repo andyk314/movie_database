@@ -1,0 +1,23 @@
+$(document).ready( function(){$("#total").click(function(){
+// $(window).load( function(){$("#total").click(function(){
+  // event.preventDefault()
+    
+    $(".chart").html("");
+    toggle_total();
+    // $(".bar").slideDown();
+    $(".chart").slideDown();
+    console.log("hi")
+  });
+
+  $("#international").click(function(){
+    $(".chart").html("");
+    $(".chart").change(toggle_intl());
+  });
+
+  $("#domestic").click(function(){
+    $(".chart").html("");
+    $(".chart").change(toggle_dom());
+  });
+});
+
+  var formatNumber = d3.format(",");
