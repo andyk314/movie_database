@@ -1,0 +1,38 @@
+<div class="logo"></div>
+<div class="creators">
+  <h1>We Are Creators</h1><div class="line-fun"></div>
+    <div class="clear"></div>
+</div><!--creators-->
+</body>
+
+
+<script type="text/javascript">
+  var jq = jQuery.noConflict();
+
+function animationIntro() {
+  jq('.creators').animate({opacity: 0}, 1);
+  jq('.logo').animate({opacity: 0}, 1, function() {
+    jq('.logo').css('display', 'block');
+    jq('.logo').delay(500).animate({opacity: 1, marginTop: '-100px'}, 2000, 'easeOutCubic', function() {
+      jq('.creators').css('display', 'block');
+      jq('.logo').delay(20).animate({opacity: 0, marginTop: '-200px'}, 500, function() {
+        jq('.creators').delay(500).animate({opacity: 1}, 1500); 
+        jq('.line-fun').delay(500).animate({top: '34px'}, 1550, function() {
+          jq('.creators h1').delay(1000).animate({left: -jq(window).width()}, 1750, 'easeInCubic');
+          jq('.creators').delay(1000).animate({width: '100%', marginLeft: 0, left: 0}, 1500, 'easeInCubic');
+          jq('.line-fun').delay(1000).animate({width: jq(window).width(), right: 0}, 1500, 'easeInCubic', function() {
+            jq('.creators').delay(400).animate({height: '100%', top: 0, marginTop: 0}, 800, 'easeInCubic');
+            jq('.line-fun').delay(400).animate({height: jq(window).height(), top: -2}, 800, 'easeInCubic');
+          });
+        });
+      });
+    });
+  });
+}
+  
+
+jq(window).load(function() {
+  animationIntro();
+});
+
+</script>
