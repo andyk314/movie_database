@@ -9,7 +9,8 @@
   margin-left: 40%; 
   padding: 1%;
   font-size: 1.65em;
-  color: white;
+  font-family: Muli;
+  font-weight: bold;
   background: #ffb309;
   position: absolute;
   border: 6px solid white;
@@ -36,7 +37,9 @@
   margin-top: 11%;
   margin-left: 20%; 
   padding: 1%;
-  font-size: 1.7em;
+  font-size: 1.60em;
+  font-family: Muli;
+  font-weight: bold;
   color: white;
   background: #ffb309;
   position: relative;
@@ -95,9 +98,18 @@
 #searchbar {
   right: 45%;
   width: 250px;
+  padding-top: 40px;
   margin: 0 auto;
+
+/*  width: 200px;*/
 }
 
+.text-input {
+  width: 250px;
+  height: 30px;
+  text-align: center;
+  border-radius: 5px;
+}
 .thumbnail {
   text-align: center;
   float:left;
@@ -111,7 +123,7 @@
 }
 
 #actors {
-  padding-top: 100px;
+  padding-top: 70px;
 }
 
 .actornameshow {

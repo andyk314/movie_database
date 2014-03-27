@@ -13,11 +13,11 @@
 //= require jquery
 //= require jquery_ujs
 //= require bootstrap
-//= require turbolinks
+//= require jquery.turbolinks
 //= require_tree .
 
 $(function(){$("#total").click(function(){
-  event.preventDefault()
+  // event.preventDefault()
     
     $(".chart").html("");
     toggle_total();

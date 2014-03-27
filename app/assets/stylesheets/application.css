@@ -21,13 +21,14 @@ body {
 }
 
 aside {
-  height: 370px;
-  width: 340px;
-  padding: 2%;
+  height: 340px;
+  width: 335px;
+  padding: 1%;
   position: absolute;
   margin-top: 5%;
   margin-left: 61%;
-  font-family: Helvetica;
+  font-family: Muli;
+  font-weight: bold;
   color: white;
   background-color: #ffb309;
   border: 6px solid white;
@@ -38,7 +39,6 @@ section {
   font-family: Muli;
   font-weight: bold;
   color: white;
-/*  float: left;*/
   background-color: #ff5847;
   border: 6px solid white;
   border-radius: 10px;
@@ -59,7 +59,6 @@ figcaption {
   margin-left: 10%;
   padding: 2%;
   width: 400px;
-
 }
 
 .show_top_container{
@@ -67,7 +66,6 @@ figcaption {
 }
 
 .quote {
-
   width: 400px;
   margin-left: 60%;
   margin-top: -35%;
@@ -100,6 +98,10 @@ figcaption {
 }
 
         /* ROTTEN TOMATOES LISTS */
+
+.list_header {
+  color: #ff5847;
+}
 
 .list1 { 
   display: inline-block;
