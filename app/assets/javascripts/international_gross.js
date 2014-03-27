@@ -3,7 +3,7 @@
 
 function toggle_intl() {
   var margin = {top: 30, right: 0, bottom: 130, left: 100},
-      width = 1200 - margin.left - margin.right,
+      width = 1400 - margin.left - margin.right,
       height = 500 - margin.top - margin.bottom;
 
   var x = d3.scale.ordinal()

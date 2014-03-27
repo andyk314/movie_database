@@ -8,52 +8,62 @@
   "<%= @actor.quote %>"
 </section>
 </div>
-<div id="triangle_down1"></div>
-<!--   <h3 id="fun_facts">Fun Facts About This Actor</h3> -->
+<!-- <div id="triangle_down1"></div> -->
+
 <div class="stripe">
   <section class="bio">
     <div id="talkbubble1">ACTOR FUN FACTS!!!</div>
     <%= truncate(@actor.bio, length: 500, omission: '...(more)') %>
   </section>
 </div>
-<aside>
-  <ol>
-    <h3>Top Fresh Movies</h3>
-    <li><p><%= @fresh[0].title %> - <%= @fresh[0].freshness %>%</p></li>
-    <li><p><%= @fresh[1].title %> - <%= @fresh[1].freshness %>%</p></li>
-    <li><p><%= @fresh[2].title %> - <%= @fresh[2].freshness %>%</p></li>
-  </ol>
-  <ol>
-    <h3>Bottom Rotten Movies</h3>
-    <li><p><%= @rotten[0].title %> - <%= @rotten[0].freshness %>%</p></li>
-    <li><p><%= @rotten[1].title %> - <%= @rotten[1].freshness %>%</p></li>
-    <li><p><%= @rotten[2].title %> - <%= @rotten[2].freshness %>%</p></li>
-  </ol>
-</aside>
-<div id="triangle_down2"></div>
-<div id="talkbubble2">ROTTEN TOMATES INFO!!!</div>
 
-<!-- </div> -->
-
-<div class="chart">
+<!-- Rotten Tomatoes top and bottom critics score lists -->
+<div class="stripe">  
+  <aside>
+    <ol>
+      <h3>Top Fresh Movies</h3>
+      <li><p><%= @fresh[0].title %> - <%= @fresh[0].freshness %>%</p></li>
+      <li><p><%= @fresh[1].title %> - <%= @fresh[1].freshness %>%</p></li>
+      <li><p><%= @fresh[2].title %> - <%= @fresh[2].freshness %>%</p></li>
+    </ol>
+    <ol>
+      <h3>Bottom Rotten Movies</h3>
+      <li><p><%= @rotten[0].title %> - <%= @rotten[0].freshness %>%</p></li>
+      <li><p><%= @rotten[1].title %> - <%= @rotten[1].freshness %>%</p></li>
+      <li><p><%= @rotten[2].title %> - <%= @rotten[2].freshness %>%</p></li>
+    </ol>
+  </aside>
 </div>
-<div id="triangle_down3"></div>
-<!-- <div class="bar_btns">
-  <button type="button" class="btn btn-default" id="total">Total</button>
-  <button type="button" class="btn btn-default" id="domestic">Domestic</button>
-  <button type="button" class="btn btn-default" id="international">International</button>
-</div> -->
+  <div id="triangle_down1"></div><!--  triangle at bottom of div -->
+  <!-- arrow point to Rotten Tomatoe Lists -->
+  <div id="talkbubble2">ROTTEN TOMATES INFO!!!</div>
 
+<!-- header for boxx office D3 bar chart -->
+<div class="chart_header"><h3>BOX OFFICES GROSSES</h3>
+<!-- d3 box office bar chart -->
+  <div class="chart"></div>
+    <div class="btn_contain">
+      <div class="bar_btns">
+        <button type="button" class="btn btn-default" id="total">Total</button>
+        <button type="button" class="btn btn-default" id="domestic">Domestic</button>
+        <button type="button" class="btn btn-default" id="international">International</button>
+      </div>
+      <div id="triangle_down2"></div> <!--  triange at bottom of div -->
+    </div>
+</div>
+<!-- D3 pie chart for budgets -->
 
-<!-- <svg width="1000" height="560">
-      
-    </svg>
-        <button onclick="applyD3Selectors()">Magic Circles Time</button><br> -->
-<!-- <h3 class="budget_title">Movie Budgets</h3> -->
-<div class="pie_chart"></div>
-  <input type="radio" name="dataset" value="topData" checked><label>Highest Budgeted Films</label>
-  <input type="radio" name="dataset" value="botData"><label>Lowest Budgeted Films revenue</label>
-
+<div class="pie_chart">
+  <h2 class="budget_header">Movie Budgets</h2>
+</div>
+<div class="budget_btns">
+  <div class="radio">
+    <input type="radio" name="dataset" value="topData" checked><label>Highest Budget</label>
+  </div>
+  <div class="radio">
+    <input type="radio" name="dataset" value="botData"><label>Lowest Budget</label>
+  </div>
+</div>
 
 <script>
 window.d3_url = '<%= actor_path(@actor, format: 'json') %>';

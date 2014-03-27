@@ -8,7 +8,7 @@
   margin-top: 5%;
   margin-left: 40%; 
   padding: 1%;
-  font-size: 25px;
+  font-size: 1.65em;
   color: white;
   background: #ffb309;
   position: absolute;
@@ -36,7 +36,7 @@
   margin-top: 14%;
   margin-left: 20%; 
   padding: 1%;
-  font-size: 25px;
+  font-size: 1.7em;
   color: white;
   background: #ffb309;
   position: relative;
@@ -58,7 +58,7 @@
   border-bottom: 13px solid transparent;
 }
 
-#triangle_down1 {
+/*#triangle_down1 {
   width: 0;
   height: 0;
   border-left: 30px solid transparent;
@@ -66,9 +66,9 @@
   border-top: 30px solid #0b9eb9;
   margin: 0 auto;
   position: relative;
-}
+}*/
 
-#triangle_down2 {
+#triangle_down1 {
   width: 0;
   height: 0;
   border-left: 30px solid transparent;
@@ -77,7 +77,7 @@
   margin: 0 auto;
 }
 
-#triangle_down3 {
+#triangle_down2 {
   width: 0;
   height: 0;
   border-left: 30px solid transparent;
@@ -88,16 +88,10 @@
 }
 
 .stripe {
-  margin-top: -30px;
-  padding-top: 7%;
+  padding-top: 3%;
   background-color: #ff5847;
-  padding-bottom: 20px;
+  padding-bottom: 3%;
 }
-
-/*.stripe2 {
-  background-color: white;
-  height: 500px;
-}*/
 
 #searchbar {
   right: 45%;
@@ -123,7 +117,6 @@
 
 .actornameshow {
   height: 15%;
-/*  width: 670px;*/
   text-align: center;
   padding-top: 120px;
   padding-bottom: 80px;
@@ -139,18 +132,64 @@
   text-align: center;
 }
 
+
   /*D3*/
 
 .chart { /*centering our canvas*/
   width: 100%;
   background-color: #ffb309;
   margin: 0 auto;
-  margin-top: 15%;
+}
+
+.btn_contain {
+  width: 100%;
+  background-color: #ffb309;
 }
 
 .bar_btns {
-  width: 300px;
+  width: 280px;
   margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+.btn-default {
+  color: white !important;
+  background-color: #BF4235 !important;
+  border-color: transparent !important;
+}
+
+.btn-default:hover {
+  color: white !important;
+  background-color: #BF4235 !important;
+  border-color: transparent !important;
+  opacity: 0.5;
+}
+
+/*BUTTONS FOR BUDGET PIE CHART*/
+.budget_btns {
+  width: 100%; 
+  background-color: #ff5847;
+  position: absolute;
+}
+
+.radio {
+  width: 130px;
+  margin: 0 auto;
+}
+
+.chart_header {
+  margin-top: 10%;
+  padding-top: 30px;
+  text-align: center;
+  color: white;
+  background-color: #ffb309;
+}
+
+.budget_header {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  color: white;
 }
 
 .bar {
