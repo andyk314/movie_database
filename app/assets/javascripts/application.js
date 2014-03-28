@@ -31,12 +31,12 @@ $(function(){$("#total").click(function(){
 
   $("#international").click(function(){
     $(".chart").html("");
-  toggle_intl();
+    $(".chart").change(toggle_intl());
   });
 
   $("#domestic").click(function(){
     $(".chart").html("");
-    toggle_dom();
+    $(".chart").change(toggle_dom());
   });
 });
   var formatNumber = d3.format(",");
