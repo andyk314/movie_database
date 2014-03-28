@@ -36,5 +36,4 @@ $(function(){$("#total").click(function(){
     $(".chart").change(toggle_dom());
   });
 });
-
   var formatNumber = d3.format(",");
