@@ -14,7 +14,6 @@
 
 nav {
   padding: 24px !important;
-/*  text-align: center;*/
 }
 
 .logo {
@@ -45,7 +44,7 @@ body {
 
 aside {
   height: 340px;
-  width: 335px;
+  width: 340px;
   padding: 1%;
   position: absolute;
   margin-top: 5%;
