@@ -16,14 +16,17 @@
 //= require jquery.turbolinks
 //= require_tree .
 
+
+
 $(function(){$("#total").click(function(){
-  // event.preventDefault()
-    
+
+    // $(".chart").("click", function(){
+    //   mySquare.transition().attr("rect", 0)
+    //   console.log("stuff")
+    // }
+
     $(".chart").html("");
     toggle_total();
-    // $(".bar").slideDown();
-    $(".chart").slideDown();
-    console.log("hi")
   });
 
   $("#international").click(function(){

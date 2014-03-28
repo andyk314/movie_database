@@ -16,6 +16,16 @@ nav {
   padding: 24px !important;
 }
 
+.pictureframe {
+  transition: 0.3s ease;
+  border: 10px solid white;
+  border-radius: 10px;
+}
+
+.pictureframe:hover {
+  border: 1px solid lightgrey;
+}
+
 .logo {
   transition: 0.3s ease !important;
   color: white !important;
@@ -114,10 +124,8 @@ figcaption {
   width: auto; /* For IE8 */
 }
 
-.pictureframe {
-  border: 6px solid white;
-  border-radius: 10px;
-}
+
+
 
         /* ROTTEN TOMATOES LISTS */
 

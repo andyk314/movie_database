@@ -37,14 +37,11 @@ svg.call(tip);
 
     for(var i=0; i<movieData.actor.movies.length; i++){
       data.push(movieData.actor.movies[i]);
-      // data.push(movieData.actor.movies[i].budget);
     }
+
     data = data.sort(function(b, a) {return parseFloat(a.budget) - parseFloat(b.budget)});
     var topData = data.slice(0,5);
     var botData = data.slice(-5);  
-// console.log("Data" + data);
-// console.log("Top 5 Budgeted Movies: " + topData);
-// console.log("Bottom 5 Budgeted Movies: " + botData);
 
 var g = svg.selectAll(".arc")
   .data(pie(topData))
@@ -55,7 +52,8 @@ var g = svg.selectAll(".arc")
 
 g.append("path")
   .attr("d", arc)
-  .style("fill", function(d) { return color(d.data.budget);});
+  .style("fill", function(d) { return color(d.data.budget);
+  });
 
 g.append("text")
   .attr("transform", function(d) { 
@@ -90,8 +88,8 @@ console.log("1:" + path)
     console.log("path: " + path)
     path.transition().duration(750).attrTween("d", arcTween); // redraw the arcs
   }
-
 });
+
   function type(d) {
     d.topData = +d.topData;
     d.botData = +d.botData;

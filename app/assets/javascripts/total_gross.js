@@ -33,8 +33,9 @@ function toggle_total() {
       .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-   svg.call(tip);
 
+
+   svg.call(tip);
 
   d3.json(d3_url, function(error, json) {
     if (error) return console.warn(error);
@@ -78,6 +79,13 @@ function toggle_total() {
         .attr("height", function(d) { return height - y(d.total_revenue); })
         .on('mouseover', tip.show)
         .on('mouseout', tip.hide);
+  // function barDown(){
+//   var mySquare =  svg.selectAll("rect")
+//     .transition()
+//     .attr("height", 0)
+//         .duration(10000)
+//       .delay(900);
+// };
 
   function type(d) {
       d.total_revenue = +d.total_revenue;

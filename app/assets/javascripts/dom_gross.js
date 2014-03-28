@@ -81,6 +81,14 @@ function toggle_dom() {
         .on('mouseover', tip.show)
         .on('mouseout', tip.hide);
 
+   var mySquare =  svg.selectAll("rect")
+   .attr("height", 0)
+    .transition()
+    // .attr("x", function(d) { return height - y(d.usa_revenue); })
+    .attr("height", function(d) { return height - y(d.usa_revenue); })
+      .duration(2000);
+      // .delay(10);
+
   function type(d) {
       d.usa_revenue = +d.usa_revenue;
     return d;

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140322010957) do
+ActiveRecord::Schema.define(version: 20140328205233) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -34,12 +34,19 @@ ActiveRecord::Schema.define(version: 20140322010957) do
     t.datetime "updated_at"
     t.integer  "star_id"
     t.integer  "rt_id"
+    t.text     "bio"
     t.string   "quote"
     t.integer  "dvd"
     t.integer  "budget"
     t.string   "rotten",     array: true
     t.string   "fresh",      array: true
-    t.text     "bio"
+  end
+
+  create_table "cpis", force: true do |t|
+    t.string   "year"
+    t.string   "avg"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "movies", force: true do |t|
@@ -48,12 +55,15 @@ ActiveRecord::Schema.define(version: 20140322010957) do
     t.string   "runtime"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.integer  "total_revenue",         limit: 8
-    t.integer  "usa_revenue",           limit: 8
-    t.integer  "international_revenue", limit: 8
-    t.integer  "budget",                limit: 8
-    t.integer  "release_year",          limit: 8
+    t.integer  "total_revenue",                   limit: 8
+    t.integer  "usa_revenue",                     limit: 8
+    t.integer  "international_revenue",           limit: 8
+    t.integer  "budget",                          limit: 8
+    t.integer  "release_year",                    limit: 8
     t.integer  "freshness"
+    t.string   "total_revenue_inflation"
+    t.string   "usa_revenue_inflation"
+    t.string   "international_revenue_inflation"
   end
 
 end
