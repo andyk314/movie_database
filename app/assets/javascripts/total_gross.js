@@ -80,12 +80,13 @@ function toggle_total() {
         .on('mouseover', tip.show)
         .on('mouseout', tip.hide);
   // function barDown(){
-//   var mySquare =  svg.selectAll("rect")
-//     .transition()
-//     .attr("height", 0)
-//         .duration(10000)
-//       .delay(900);
-// };
+   var mySquare =  svg.selectAll("rect")
+   .attr("height", 0)
+    .transition()
+    // .attr("x", function(d) { return height - y(d.usa_revenue); })
+    .attr("height", function(d) { return height - y(d.usa_revenue); })
+      .duration(2000);
+      // .delay(10);
 
   function type(d) {
       d.total_revenue = +d.total_revenue;
