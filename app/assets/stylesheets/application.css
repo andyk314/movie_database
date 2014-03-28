@@ -20,12 +20,12 @@ nav {
 .logo {
   transition: 0.3s ease !important;
   color: white !important;
-  font-size: 20px !important;
+  font-size: 24px !important;
   text-decoration: none !important;
   border-top: 4px solid #0b9eb9 !important;
   border-bottom: 4px solid #0b9eb9 !important;
   padding: 20px 0 !important;
-/*  margin: 0 20px !important;*/
+  margin: 0 20px !important;
 }
 
 .logo:hover {
