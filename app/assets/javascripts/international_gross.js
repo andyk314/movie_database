@@ -25,7 +25,7 @@ function toggle_intl() {
     .attr('class', 'd3-tip')
     .offset([-10, 0])
     .html(function(d) {
-      return "<strong>Revenue:</strong> <span style='color:red'>" +  formatNumber(d.total_revenue) + "</span>";
+      return "<strong>Revenue:</strong> <span style='color:red'>" +  formatNumber(d.international_revenue) + "</span>";
     })
 
   var svg = d3.select(".chart").append("svg")
@@ -83,7 +83,7 @@ function toggle_intl() {
     .attr("height", 0)
     .transition()
     // .attr("x", function(d) { return height - y(d.usa_revenue); })
-    .attr("height", function(d) { return height - y(d.usa_revenue); })
+    .attr("height", function(d) { return height - y(d.international_revenue); })
       .duration(2000);
       // .delay(10);
   function type(d) {

@@ -84,7 +84,7 @@ function toggle_total() {
    .attr("height", 0)
     .transition()
     // .attr("x", function(d) { return height - y(d.usa_revenue); })
-    .attr("height", function(d) { return height - y(d.usa_revenue); })
+    .attr("height", function(d) { return height - y(d.total_revenue); })
       .duration(2000);
       // .delay(10);
 

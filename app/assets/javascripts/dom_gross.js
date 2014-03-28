@@ -25,7 +25,7 @@ function toggle_dom() {
     .attr('class', 'd3-tip')
     .offset([-10, 0])
     .html(function(d) {
-      return "<strong>Revenue:</strong> <span style='color:red'>" +  formatNumber(d.total_revenue) + "</span>";
+      return "<strong>Revenue:</strong> <span style='color:red'>" +  formatNumber(d.usa_revenue) + "</span>";
     })
 
   var svg = d3.select(".chart").append("svg")
