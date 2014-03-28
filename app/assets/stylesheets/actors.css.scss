@@ -61,16 +61,6 @@
   border-bottom: 13px solid transparent;
 }
 
-/*#triangle_down1 {
-  width: 0;
-  height: 0;
-  border-left: 30px solid transparent;
-  border-right: 30px solid transparent;
-  border-top: 30px solid #0b9eb9;
-  margin: 0 auto;
-  position: relative;
-}*/
-
 #triangle_down1 {
   width: 0;
   height: 0;
@@ -98,10 +88,8 @@
 #searchbar {
   right: 45%;
   width: 250px;
-  padding-top: 40px;
+/*  padding-top: 40px;*/
   margin: 0 auto;
-
-/*  width: 200px;*/
 }
 
 .text-input {
@@ -127,9 +115,8 @@
 }
 
 .actornameshow {
-  height: 15%;
   text-align: center;
-  padding-top: 120px;
+  padding-top: 47px;
   padding-bottom: 80px;
   color: white;
   font-family: 'Fascinate Inline', cursive;
@@ -174,7 +161,11 @@
   background-color: #BF4235 !important;
   border-color: transparent !important;
   opacity: 0.5;
+  transition-property: opacity;
+  transition:opacity .5s ease-in;
+  -webkit-transition:opacity .5s ease-in;
 }
+
 
 /*BUTTONS FOR BUDGET PIE CHART*/
 .budget_btns {
