@@ -2,8 +2,8 @@
 <!-- D3 Chart - Domestic  -->
 
 function toggle_dom() {
-  var margin = {top: 30, right: 50, bottom: 130, left: 100},
-      width = 1400 - margin.left - margin.right,
+  var margin = {top: 30, right: 130, bottom: 130, left: 120},
+      width = 1300 - margin.left - margin.right,
       height = 500 - margin.top - margin.bottom;
 
   var x = d3.scale.ordinal()

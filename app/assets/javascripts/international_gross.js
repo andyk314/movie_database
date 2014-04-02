@@ -2,7 +2,7 @@
 <!-- D3 Chart - International Gross -->
 
 function toggle_intl() {
-  var margin = {top: 30, right: 50, bottom: 130, left: 100},
+  var margin = {top: 30, right: 200, bottom: 130, left: 100},
       width = 1400 - margin.left - margin.right,
       height = 500 - margin.top - margin.bottom;
 
