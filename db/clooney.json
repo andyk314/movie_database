@@ -1,0 +1,326 @@
+[
+  {
+    "movie_display_name":"Gravity",
+    "$_total_box_office":716188865,
+    "movie_financial_summary_domestic_box_office":273888865,
+    "movie_financial_summary_international_box_office":442300000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":110000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Ocean's Eleven",
+    "$_total_box_office":450728529,
+    "movie_financial_summary_domestic_box_office":183417150,
+    "movie_financial_summary_international_box_office":267311379,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Ocean's Twelve",
+    "$_total_box_office":362989076,
+    "movie_financial_summary_domestic_box_office":125531634,
+    "movie_financial_summary_international_box_office":237457442,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":110000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"The Perfect Storm",
+    "$_total_box_office":328711434,
+    "movie_financial_summary_domestic_box_office":182618434,
+    "movie_financial_summary_international_box_office":146093000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":120000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Ocean's Thirteen",
+    "$_total_box_office":311744465,
+    "movie_financial_summary_domestic_box_office":117144465,
+    "movie_financial_summary_international_box_office":194600000,
+    "$_domestic_DVD_sales":48397022,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Batman & Robin",
+    "$_total_box_office":238317814,
+    "movie_financial_summary_domestic_box_office":107325195,
+    "movie_financial_summary_international_box_office":130992619,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":125000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Spy Kids",
+    "$_total_box_office":197692062,
+    "movie_financial_summary_domestic_box_office":112692062,
+    "movie_financial_summary_international_box_office":85000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"The Descendants",
+    "$_total_box_office":174197368,
+    "movie_financial_summary_domestic_box_office":82624961,
+    "movie_financial_summary_international_box_office":91572407,
+    "$_domestic_DVD_sales":15334181,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Spy Kids 3-D: Game Over",
+    "$_total_box_office":167851995,
+    "movie_financial_summary_domestic_box_office":111760631,
+    "movie_financial_summary_international_box_office":56091364,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Up in the Air",
+    "$_total_box_office":166842739,
+    "movie_financial_summary_domestic_box_office":83823381,
+    "movie_financial_summary_international_box_office":83019358,
+    "$_domestic_DVD_sales":18919660,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Burn After Reading",
+    "$_total_box_office":163415735,
+    "movie_financial_summary_domestic_box_office":60355347,
+    "movie_financial_summary_international_box_office":103060388,
+    "$_domestic_DVD_sales":19444972,
+    "movie_financial_summary_production_budget":37000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"The Monuments Men",
+    "$_total_box_office":155256827,
+    "movie_financial_summary_domestic_box_office":77256827,
+    "movie_financial_summary_international_box_office":78000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Intolerable Cruelty",
+    "$_total_box_office":121327628,
+    "movie_financial_summary_domestic_box_office":35327628,
+    "movie_financial_summary_international_box_office":86000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Three Kings",
+    "$_total_box_office":107752036,
+    "movie_financial_summary_domestic_box_office":60652036,
+    "movie_financial_summary_international_box_office":47100000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":48000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Michael Clayton",
+    "$_total_box_office":92987651,
+    "movie_financial_summary_domestic_box_office":49033882,
+    "movie_financial_summary_international_box_office":43953769,
+    "$_domestic_DVD_sales":18886595,
+    "movie_financial_summary_production_budget":21500000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Syriana",
+    "$_total_box_office":92690959,
+    "movie_financial_summary_domestic_box_office":50824620,
+    "movie_financial_summary_international_box_office":41866339,
+    "$_domestic_DVD_sales":15419077,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"The Ides of March",
+    "$_total_box_office":77735925,
+    "movie_financial_summary_domestic_box_office":40962534,
+    "movie_financial_summary_international_box_office":36773391,
+    "$_domestic_DVD_sales":6573059,
+    "movie_financial_summary_production_budget":23000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Out of Sight",
+    "$_total_box_office":77562568,
+    "movie_financial_summary_domestic_box_office":37562568,
+    "movie_financial_summary_international_box_office":40000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":48000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"O Brother, Where Art Thou?",
+    "$_total_box_office":75763814,
+    "movie_financial_summary_domestic_box_office":45506619,
+    "movie_financial_summary_international_box_office":30257195,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":26000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"The Men Who Stare at Goats",
+    "$_total_box_office":67348218,
+    "movie_financial_summary_domestic_box_office":32428195,
+    "movie_financial_summary_international_box_office":34920023,
+    "$_domestic_DVD_sales":10010016,
+    "movie_financial_summary_production_budget":24000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"The Peacemaker",
+    "$_total_box_office":62967368,
+    "movie_financial_summary_domestic_box_office":41263140,
+    "movie_financial_summary_international_box_office":21704228,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Good Night, and Good Luck",
+    "$_total_box_office":56586901,
+    "movie_financial_summary_domestic_box_office":31501218,
+    "movie_financial_summary_international_box_office":25085683,
+    "$_domestic_DVD_sales":21054516,
+    "movie_financial_summary_production_budget":7000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"South Park: Bigger, Longer & Uncut",
+    "$_total_box_office":52037603,
+    "movie_financial_summary_domestic_box_office":52037603,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":21000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"The American",
+    "$_total_box_office":46676274,
+    "movie_financial_summary_domestic_box_office":35606376,
+    "movie_financial_summary_international_box_office":11069898,
+    "$_domestic_DVD_sales":7542568,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Fantastic Mr. Fox",
+    "$_total_box_office":46498922,
+    "movie_financial_summary_domestic_box_office":21002919,
+    "movie_financial_summary_international_box_office":25496003,
+    "$_domestic_DVD_sales":10370384,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"One Fine Day",
+    "$_total_box_office":46169663,
+    "movie_financial_summary_domestic_box_office":46169663,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Leatherheads",
+    "$_total_box_office":41273938,
+    "movie_financial_summary_domestic_box_office":31373938,
+    "movie_financial_summary_international_box_office":9900000,
+    "$_domestic_DVD_sales":9004218,
+    "movie_financial_summary_production_budget":58000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"The Thin Red Line",
+    "$_total_box_office":36400491,
+    "movie_financial_summary_domestic_box_office":36400491,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":52000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Confessions of a Dangerous Mind",
+    "$_total_box_office":33013805,
+    "movie_financial_summary_domestic_box_office":16007718,
+    "movie_financial_summary_international_box_office":17006087,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":29000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"From Dusk Till Dawn",
+    "$_total_box_office":25728961,
+    "movie_financial_summary_domestic_box_office":25728961,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Solaris",
+    "$_total_box_office":14970038,
+    "movie_financial_summary_domestic_box_office":14970038,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":47000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"The Good German",
+    "$_total_box_office":1308696,
+    "movie_financial_summary_domestic_box_office":1308696,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":32000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Return to Horror High",
+    "$_total_box_office":1190000,
+    "movie_financial_summary_domestic_box_office":1190000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1987
+  },
+  {
+    "movie_display_name":"Welcome to Collinwood",
+    "$_total_box_office":378650,
+    "movie_financial_summary_domestic_box_office":378650,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":12000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Tomorrowland",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  },
+  {
+    "movie_display_name":"White Jazz",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2012
+  }
+]

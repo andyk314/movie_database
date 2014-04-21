@@ -1,0 +1,290 @@
+[
+  {
+    "movie_display_name":"War of the Worlds",
+    "$_total_box_office":606836535,
+    "movie_financial_summary_domestic_box_office":234280354,
+    "movie_financial_summary_international_box_office":372556181,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":132000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"The Lego Movie",
+    "$_total_box_office":425493672,
+    "movie_financial_summary_domestic_box_office":252293672,
+    "movie_financial_summary_international_box_office":173200000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"G.I. Joe: Retaliation",
+    "$_total_box_office":371923060,
+    "movie_financial_summary_domestic_box_office":122523060,
+    "movie_financial_summary_international_box_office":249400000,
+    "$_domestic_DVD_sales":16389709,
+    "movie_financial_summary_production_budget":140000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"G.I. Joe: The Rise of Cobra",
+    "$_total_box_office":302469017,
+    "movie_financial_summary_domestic_box_office":150201498,
+    "movie_financial_summary_international_box_office":152267519,
+    "$_domestic_DVD_sales":71779752,
+    "movie_financial_summary_production_budget":175000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Public Enemies",
+    "$_total_box_office":210379983,
+    "movie_financial_summary_domestic_box_office":97104620,
+    "movie_financial_summary_international_box_office":113275363,
+    "$_domestic_DVD_sales":37178659,
+    "movie_financial_summary_production_budget":102500000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"White House Down",
+    "$_total_box_office":205440387,
+    "movie_financial_summary_domestic_box_office":73103784,
+    "movie_financial_summary_international_box_office":132336603,
+    "$_domestic_DVD_sales":12512474,
+    "movie_financial_summary_production_budget":150000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"21 Jump Street",
+    "$_total_box_office":201938263,
+    "movie_financial_summary_domestic_box_office":138447667,
+    "movie_financial_summary_international_box_office":63490596,
+    "$_domestic_DVD_sales":33183254,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"The Vow",
+    "$_total_box_office":197618160,
+    "movie_financial_summary_domestic_box_office":125014030,
+    "movie_financial_summary_international_box_office":72604130,
+    "$_domestic_DVD_sales":24210172,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Magic Mike",
+    "$_total_box_office":166736892,
+    "movie_financial_summary_domestic_box_office":113721571,
+    "movie_financial_summary_international_box_office":53015321,
+    "$_domestic_DVD_sales":32833396,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Step Up 2 the Streets",
+    "$_total_box_office":148586910,
+    "movie_financial_summary_domestic_box_office":58017783,
+    "movie_financial_summary_international_box_office":90569127,
+    "$_domestic_DVD_sales":22828068,
+    "movie_financial_summary_production_budget":17500000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Dear John",
+    "$_total_box_office":111362410,
+    "movie_financial_summary_domestic_box_office":80014842,
+    "movie_financial_summary_international_box_office":31347568,
+    "$_domestic_DVD_sales":28787890,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Step Up",
+    "$_total_box_office":110989157,
+    "movie_financial_summary_domestic_box_office":65328121,
+    "movie_financial_summary_international_box_office":45661036,
+    "$_domestic_DVD_sales":51838222,
+    "movie_financial_summary_production_budget":12000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Coach Carter",
+    "$_total_box_office":76669806,
+    "movie_financial_summary_domestic_box_office":67264877,
+    "movie_financial_summary_international_box_office":9404929,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":45000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"The Dilemma",
+    "$_total_box_office":70546865,
+    "movie_financial_summary_domestic_box_office":48475290,
+    "movie_financial_summary_international_box_office":22071575,
+    "$_domestic_DVD_sales":6939361,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Side Effects",
+    "$_total_box_office":60288363,
+    "movie_financial_summary_domestic_box_office":32172757,
+    "movie_financial_summary_international_box_office":28115606,
+    "$_domestic_DVD_sales":2444177,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"She's the Man",
+    "$_total_box_office":55279608,
+    "movie_financial_summary_domestic_box_office":33889159,
+    "movie_financial_summary_international_box_office":21390449,
+    "$_domestic_DVD_sales":33956927,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"The Eagle",
+    "$_total_box_office":36054706,
+    "movie_financial_summary_domestic_box_office":19490041,
+    "movie_financial_summary_international_box_office":16564665,
+    "$_domestic_DVD_sales":4615344,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Fighting",
+    "$_total_box_office":32491010,
+    "movie_financial_summary_domestic_box_office":23091010,
+    "movie_financial_summary_international_box_office":9400000,
+    "$_domestic_DVD_sales":15016472,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Don Jon",
+    "$_total_box_office":26377704,
+    "movie_financial_summary_domestic_box_office":24477704,
+    "movie_financial_summary_international_box_office":1900000,
+    "$_domestic_DVD_sales":2605660,
+    "movie_financial_summary_production_budget":5500000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Haywire",
+    "$_total_box_office":22176190,
+    "movie_financial_summary_domestic_box_office":18942396,
+    "movie_financial_summary_international_box_office":3233794,
+    "$_domestic_DVD_sales":5416594,
+    "movie_financial_summary_production_budget":23000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Stop-Loss",
+    "$_total_box_office":11179472,
+    "movie_financial_summary_domestic_box_office":10915744,
+    "movie_financial_summary_international_box_office":263728,
+    "$_domestic_DVD_sales":4900023,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Nitro Circus The Movie 3D",
+    "$_total_box_office":4183697,
+    "movie_financial_summary_domestic_box_office":3377000,
+    "movie_financial_summary_international_box_office":806697,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Supercross",
+    "$_total_box_office":3252550,
+    "movie_financial_summary_domestic_box_office":3102550,
+    "movie_financial_summary_international_box_office":150000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"A Guide to Recognizing Your Saints",
+    "$_total_box_office":2016139,
+    "movie_financial_summary_domestic_box_office":516139,
+    "movie_financial_summary_international_box_office":1500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"The Son of No One",
+    "$_total_box_office":1148578,
+    "movie_financial_summary_domestic_box_office":30680,
+    "movie_financial_summary_international_box_office":1117898,
+    "$_domestic_DVD_sales":1411097,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Battle in Seattle",
+    "$_total_box_office":873537,
+    "movie_financial_summary_domestic_box_office":223537,
+    "movie_financial_summary_international_box_office":650000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"10 Years",
+    "$_total_box_office":203654,
+    "movie_financial_summary_domestic_box_office":203654,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Havoc",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Foxcatcher",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Jupiter Ascending",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  },
+  {
+    "movie_display_name":"22 Jump Street",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  },
+  {
+    "movie_display_name":"The Stanford Prison Experiment",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "movie_display_name":"Fantastic Four",
+    "$_total_box_office":330717080,
+    "movie_financial_summary_domestic_box_office":154696080,
+    "movie_financial_summary_international_box_office":176021000,
+    "$_domestic_DVD_sales":13943892,
+    "movie_financial_summary_production_budget":87500000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Little Fockers",
+    "$_total_box_office":310650574,
+    "movie_financial_summary_domestic_box_office":148438600,
+    "movie_financial_summary_international_box_office":162211974,
+    "$_domestic_DVD_sales":20457663,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Fantastic Four: Rise of the Silver Surfer",
+    "$_total_box_office":288215319,
+    "movie_financial_summary_domestic_box_office":131921738,
+    "movie_financial_summary_international_box_office":156293581,
+    "$_domestic_DVD_sales":62516853,
+    "movie_financial_summary_production_budget":120000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Valentine's Day",
+    "$_total_box_office":217569328,
+    "movie_financial_summary_domestic_box_office":110485654,
+    "movie_financial_summary_international_box_office":107083674,
+    "$_domestic_DVD_sales":20245661,
+    "movie_financial_summary_production_budget":52000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Sin City",
+    "$_total_box_office":158753820,
+    "movie_financial_summary_domestic_box_office":74103820,
+    "movie_financial_summary_international_box_office":84650000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Spy Kids: All the Time in the World",
+    "$_total_box_office":80681183,
+    "movie_financial_summary_domestic_box_office":38536376,
+    "movie_financial_summary_international_box_office":42144807,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":27000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Escape From Planet Earth",
+    "$_total_box_office":66454811,
+    "movie_financial_summary_domestic_box_office":57012977,
+    "movie_financial_summary_international_box_office":9441834,
+    "$_domestic_DVD_sales":5670015,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Honey",
+    "$_total_box_office":62192232,
+    "movie_financial_summary_domestic_box_office":30272254,
+    "movie_financial_summary_international_box_office":31919978,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":18000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Good Luck Chuck",
+    "$_total_box_office":59183821,
+    "movie_financial_summary_domestic_box_office":35017297,
+    "movie_financial_summary_international_box_office":24166524,
+    "$_domestic_DVD_sales":26516062,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"The Eye",
+    "$_total_box_office":56918697,
+    "movie_financial_summary_domestic_box_office":31418697,
+    "movie_financial_summary_international_box_office":25500000,
+    "$_domestic_DVD_sales":12492753,
+    "movie_financial_summary_production_budget":12000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Never Been Kissed",
+    "$_total_box_office":55474757,
+    "movie_financial_summary_domestic_box_office":55474757,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Machete",
+    "$_total_box_office":44331957,
+    "movie_financial_summary_domestic_box_office":26593646,
+    "movie_financial_summary_international_box_office":17738311,
+    "$_domestic_DVD_sales":14766083,
+    "movie_financial_summary_production_budget":12500000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Into the Blue",
+    "$_total_box_office":41982227,
+    "movie_financial_summary_domestic_box_office":18782227,
+    "movie_financial_summary_international_box_office":23200000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"The Love Guru",
+    "$_total_box_office":40123346,
+    "movie_financial_summary_domestic_box_office":32200122,
+    "movie_financial_summary_international_box_office":7923224,
+    "$_domestic_DVD_sales":9555726,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Awake",
+    "$_total_box_office":30757745,
+    "movie_financial_summary_domestic_box_office":14373825,
+    "movie_financial_summary_international_box_office":16383920,
+    "$_domestic_DVD_sales":13297685,
+    "movie_financial_summary_production_budget":8600000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Camp Nowhere",
+    "$_total_box_office":10442641,
+    "movie_financial_summary_domestic_box_office":10442641,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Machete Kills",
+    "$_total_box_office":9408161,
+    "movie_financial_summary_domestic_box_office":8008161,
+    "movie_financial_summary_international_box_office":1400000,
+    "$_domestic_DVD_sales":0,
+    "movie_financial_summary_production_budget":2000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Idle Hands",
+    "$_total_box_office":4023741,
+    "movie_financial_summary_domestic_box_office":4023741,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"The Ten",
+    "$_total_box_office":769726,
+    "movie_financial_summary_domestic_box_office":769726,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"A.C.O.D.",
+    "$_total_box_office":157690,
+    "movie_financial_summary_domestic_box_office":157690,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":2125,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Meet Bill",
+    "$_total_box_office":59108,
+    "movie_financial_summary_domestic_box_office":59108,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"An Invisible Sign ",
+    "$_total_box_office":1279,
+    "movie_financial_summary_domestic_box_office":1279,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Sin City: A Dame to Kill For",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  }
+]

@@ -19,7 +19,11 @@ class ActorsController < ApplicationController
     def show
     @actor = Actor.find(params[:id])
     @movies = @actor.movies.where("total_revenue > ?", 10000000).where("budget > ?", 100) .order("total_revenue DESC")
-    @fresh = @actor.movies.where("freshness >= ?", 70).order("freshness DESC")
-    @rotten = @actor.movies.where("freshness <= ?", 60).order("freshness ASC")
+    # @fresh = @actor.movies.where("freshness >= ?", 70).order("freshness DESC")
+    # @rotten = @actor.movies.where("freshness <= ?", 60).order("freshness ASC")
+    @newest = @actor.movies.where("release_year >= ?", 2010).order("freshness DESC")
+    @oldest = @actor.movies.where("release_year <= ?", 2010).order("freshness ASC")
   end
 end
+
+

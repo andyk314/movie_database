@@ -1,0 +1,227 @@
+[
+  {
+    "movie_display_name":"Fast and Furious 6",
+    "$_total_box_office":789917881,
+    "movie_financial_summary_domestic_box_office":238679850,
+    "movie_financial_summary_international_box_office":551238031,
+    "$_domestic_DVD_sales":46293311,
+    "movie_financial_summary_production_budget":160000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Fast Five",
+    "$_total_box_office":629841284,
+    "movie_financial_summary_domestic_box_office":209837675,
+    "movie_financial_summary_international_box_office":420003609,
+    "$_domestic_DVD_sales":35269801,
+    "movie_financial_summary_production_budget":125000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"The Mummy Returns",
+    "$_total_box_office":435040395,
+    "movie_financial_summary_domestic_box_office":202007640,
+    "movie_financial_summary_international_box_office":233032755,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":98000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"G.I. Joe: Retaliation",
+    "$_total_box_office":371923060,
+    "movie_financial_summary_domestic_box_office":122523060,
+    "movie_financial_summary_international_box_office":249400000,
+    "$_domestic_DVD_sales":16389709,
+    "movie_financial_summary_production_budget":140000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Journey 2: The Mysterious Island",
+    "$_total_box_office":325860290,
+    "movie_financial_summary_domestic_box_office":103860290,
+    "movie_financial_summary_international_box_office":222000000,
+    "$_domestic_DVD_sales":20846557,
+    "movie_financial_summary_production_budget":79000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"G.I. Joe: The Rise of Cobra",
+    "$_total_box_office":302469017,
+    "movie_financial_summary_domestic_box_office":150201498,
+    "movie_financial_summary_international_box_office":152267519,
+    "$_domestic_DVD_sales":71779752,
+    "movie_financial_summary_production_budget":175000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Get Smart",
+    "$_total_box_office":228742913,
+    "movie_financial_summary_domestic_box_office":130319208,
+    "movie_financial_summary_international_box_office":98423705,
+    "$_domestic_DVD_sales":35668649,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"The Other Guys",
+    "$_total_box_office":170936470,
+    "movie_financial_summary_domestic_box_office":119219978,
+    "movie_financial_summary_international_box_office":51716492,
+    "$_domestic_DVD_sales":36722819,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Scorpion King",
+    "$_total_box_office":165890634,
+    "movie_financial_summary_domestic_box_office":90580000,
+    "movie_financial_summary_international_box_office":75310634,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"The Game Plan",
+    "$_total_box_office":146590987,
+    "movie_financial_summary_domestic_box_office":90648202,
+    "movie_financial_summary_international_box_office":55942785,
+    "$_domestic_DVD_sales":50725987,
+    "movie_financial_summary_production_budget":22000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"The Tooth Fairy",
+    "$_total_box_office":112610386,
+    "movie_financial_summary_domestic_box_office":60022256,
+    "movie_financial_summary_international_box_office":52588130,
+    "$_domestic_DVD_sales":22540751,
+    "movie_financial_summary_production_budget":48000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Planet 51",
+    "$_total_box_office":108996113,
+    "movie_financial_summary_domestic_box_office":42194060,
+    "movie_financial_summary_international_box_office":66802053,
+    "$_domestic_DVD_sales":17378932,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Race to Witch Mountain",
+    "$_total_box_office":105103783,
+    "movie_financial_summary_domestic_box_office":67172594,
+    "movie_financial_summary_international_box_office":37931189,
+    "$_domestic_DVD_sales":36759302,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Be Cool",
+    "$_total_box_office":94944017,
+    "movie_financial_summary_domestic_box_office":55849401,
+    "movie_financial_summary_international_box_office":39094616,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Pain & Gain",
+    "$_total_box_office":81275291,
+    "movie_financial_summary_domestic_box_office":49875291,
+    "movie_financial_summary_international_box_office":31400000,
+    "$_domestic_DVD_sales":10166426,
+    "movie_financial_summary_production_budget":26000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"The Rundown",
+    "$_total_box_office":80831893,
+    "movie_financial_summary_domestic_box_office":47641743,
+    "movie_financial_summary_international_box_office":33190150,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Doom",
+    "$_total_box_office":54612337,
+    "movie_financial_summary_domestic_box_office":28212337,
+    "movie_financial_summary_international_box_office":26400000,
+    "$_domestic_DVD_sales":28693600,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Snitch",
+    "$_total_box_office":48120954,
+    "movie_financial_summary_domestic_box_office":42930462,
+    "movie_financial_summary_international_box_office":5190492,
+    "$_domestic_DVD_sales":10373416,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Walking Tall",
+    "$_total_box_office":47313824,
+    "movie_financial_summary_domestic_box_office":46213824,
+    "movie_financial_summary_international_box_office":1100000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":56000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Gridiron Gang",
+    "$_total_box_office":41457834,
+    "movie_financial_summary_domestic_box_office":38432823,
+    "movie_financial_summary_international_box_office":3025011,
+    "$_domestic_DVD_sales":34442944,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Faster",
+    "$_total_box_office":35658648,
+    "movie_financial_summary_domestic_box_office":23240020,
+    "movie_financial_summary_international_box_office":12418628,
+    "$_domestic_DVD_sales":13561317,
+    "movie_financial_summary_production_budget":12000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Southland Tales",
+    "$_total_box_office":364607,
+    "movie_financial_summary_domestic_box_office":275380,
+    "movie_financial_summary_international_box_office":89227,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":17000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Spy Hunter",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Billy Batson and the Legend of Shazam",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Hercules",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2013
+  }
+]

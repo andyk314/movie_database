@@ -1,0 +1,164 @@
+[
+  {
+    "movie_display_name":"Die Another Day",
+    "$_total_box_office":431942139,
+    "movie_financial_summary_domestic_box_office":160942139,
+    "movie_financial_summary_international_box_office":271000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":142000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Dick Tracy",
+    "$_total_box_office":162738726,
+    "movie_financial_summary_domestic_box_office":103738726,
+    "movie_financial_summary_international_box_office":59000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":47000000,
+    "movie_production_year":1990
+  },
+  {
+    "movie_display_name":"Evita",
+    "$_total_box_office":151947179,
+    "movie_financial_summary_domestic_box_office":50047179,
+    "movie_financial_summary_international_box_office":101900000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":55000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"A League of Their Own",
+    "$_total_box_office":132440066,
+    "movie_financial_summary_domestic_box_office":107533925,
+    "movie_financial_summary_international_box_office":24906141,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"Arthur et les Minimoys",
+    "$_total_box_office":110102340,
+    "movie_financial_summary_domestic_box_office":15132763,
+    "movie_financial_summary_international_box_office":94969577,
+    "$_domestic_DVD_sales":13207376,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Madonna: Truth or Dare",
+    "$_total_box_office":29012935,
+    "movie_financial_summary_domestic_box_office":15012935,
+    "movie_financial_summary_international_box_office":14000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1991
+  },
+  {
+    "movie_display_name":"Desperately Seeking Susan",
+    "$_total_box_office":27400000,
+    "movie_financial_summary_domestic_box_office":27400000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1985
+  },
+  {
+    "movie_display_name":"The Next Best Thing",
+    "$_total_box_office":24355762,
+    "movie_financial_summary_domestic_box_office":14983572,
+    "movie_financial_summary_international_box_office":9372190,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Body of Evidence",
+    "$_total_box_office":13734039,
+    "movie_financial_summary_domestic_box_office":13734039,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Vision Quest",
+    "$_total_box_office":13000000,
+    "movie_financial_summary_domestic_box_office":13000000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1985
+  },
+  {
+    "movie_display_name":"Who's That Girl?",
+    "$_total_box_office":7305000,
+    "movie_financial_summary_domestic_box_office":7305000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1987
+  },
+  {
+    "movie_display_name":"Girl 6",
+    "$_total_box_office":4880941,
+    "movie_financial_summary_domestic_box_office":4880941,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":12000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Four Rooms",
+    "$_total_box_office":4301000,
+    "movie_financial_summary_domestic_box_office":4301000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":4000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Shadows and Fog",
+    "$_total_box_office":2735731,
+    "movie_financial_summary_domestic_box_office":2735731,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"Shanghai Surprise",
+    "$_total_box_office":2315000,
+    "movie_financial_summary_domestic_box_office":2315000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":17000000,
+    "movie_production_year":1986
+  },
+  {
+    "movie_display_name":"Blue in the Face",
+    "$_total_box_office":1275000,
+    "movie_financial_summary_domestic_box_office":1275000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Swept Away",
+    "$_total_box_office":598645,
+    "movie_financial_summary_domestic_box_office":598645,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":10000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Bloodhounds of Broadway",
+    "$_total_box_office":44000,
+    "movie_financial_summary_domestic_box_office":44000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1989
+  }
+]
