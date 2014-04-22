@@ -1,0 +1,389 @@
+[
+  {
+    "movie_display_name":"ET: The Extra-Terrestrial",
+    "$_total_box_office":792965326,
+    "movie_financial_summary_domestic_box_office":435110554,
+    "movie_financial_summary_international_box_office":357854772,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":10500000,
+    "movie_production_year":1982
+  },
+  {
+    "movie_display_name":"Batman Forever",
+    "$_total_box_office":336529144,
+    "movie_financial_summary_domestic_box_office":184031112,
+    "movie_financial_summary_international_box_office":152498032,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Charlie's Angels",
+    "$_total_box_office":259736090,
+    "movie_financial_summary_domestic_box_office":125305545,
+    "movie_financial_summary_international_box_office":134430545,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":90000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Charlie's Angels: Full Throttle",
+    "$_total_box_office":227200000,
+    "movie_financial_summary_domestic_box_office":100814328,
+    "movie_financial_summary_international_box_office":126385672,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":120000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"50 First Dates",
+    "$_total_box_office":196324496,
+    "movie_financial_summary_domestic_box_office":120776832,
+    "movie_financial_summary_international_box_office":75547664,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"He's Just Not That Into You",
+    "$_total_box_office":178390243,
+    "movie_financial_summary_domestic_box_office":93953653,
+    "movie_financial_summary_international_box_office":84436590,
+    "$_domestic_DVD_sales":26993657,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Scream",
+    "$_total_box_office":173046663,
+    "movie_financial_summary_domestic_box_office":103046663,
+    "movie_financial_summary_international_box_office":70000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Beverly Hills Chihuahua",
+    "$_total_box_office":154218168,
+    "movie_financial_summary_domestic_box_office":94514402,
+    "movie_financial_summary_international_box_office":59703766,
+    "$_domestic_DVD_sales":63619703,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Music and Lyrics",
+    "$_total_box_office":145021477,
+    "movie_financial_summary_domestic_box_office":50572589,
+    "movie_financial_summary_international_box_office":94448888,
+    "$_domestic_DVD_sales":21182037,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"The Wedding Singer",
+    "$_total_box_office":123345725,
+    "movie_financial_summary_domestic_box_office":80245725,
+    "movie_financial_summary_international_box_office":43100000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Curious George",
+    "$_total_box_office":70114174,
+    "movie_financial_summary_domestic_box_office":58640119,
+    "movie_financial_summary_international_box_office":11474055,
+    "$_domestic_DVD_sales":48239767,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Ever After: A Cinderella Story",
+    "$_total_box_office":65705772,
+    "movie_financial_summary_domestic_box_office":65705772,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":26000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Never Been Kissed",
+    "$_total_box_office":55474757,
+    "movie_financial_summary_domestic_box_office":55474757,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Fever Pitch",
+    "$_total_box_office":50071069,
+    "movie_financial_summary_domestic_box_office":42071069,
+    "movie_financial_summary_international_box_office":8000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Wayne's World 2",
+    "$_total_box_office":47965000,
+    "movie_financial_summary_domestic_box_office":47965000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"Going the Distance",
+    "$_total_box_office":39990165,
+    "movie_financial_summary_domestic_box_office":17804299,
+    "movie_financial_summary_international_box_office":22185866,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":32000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Titan A.E.",
+    "$_total_box_office":36751979,
+    "movie_financial_summary_domestic_box_office":22751979,
+    "movie_financial_summary_international_box_office":14000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Everyone Says I Love You",
+    "$_total_box_office":34600000,
+    "movie_financial_summary_domestic_box_office":9725847,
+    "movie_financial_summary_international_box_office":24874153,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Confessions of a Dangerous Mind",
+    "$_total_box_office":33013805,
+    "movie_financial_summary_domestic_box_office":16007718,
+    "movie_financial_summary_international_box_office":17006087,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":29000000,
+    "movie_production_year":2002
+  },
+  {
+    "movie_display_name":"Riding in Cars with Boys",
+    "$_total_box_office":29781453,
+    "movie_financial_summary_domestic_box_office":29781453,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":47000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Big Miracle",
+    "$_total_box_office":25615451,
+    "movie_financial_summary_domestic_box_office":20157300,
+    "movie_financial_summary_international_box_office":5458151,
+    "$_domestic_DVD_sales":9363761,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Boys on the Side",
+    "$_total_box_office":23418200,
+    "movie_financial_summary_domestic_box_office":23418200,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Altered States",
+    "$_total_box_office":19853892,
+    "movie_financial_summary_domestic_box_office":19853892,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1980
+  },
+  {
+    "movie_display_name":"Whip It",
+    "$_total_box_office":18856151,
+    "movie_financial_summary_domestic_box_office":13043363,
+    "movie_financial_summary_international_box_office":5812788,
+    "$_domestic_DVD_sales":7384903,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Mad Love",
+    "$_total_box_office":15446532,
+    "movie_financial_summary_domestic_box_office":15446532,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Bad Girls",
+    "$_total_box_office":15187851,
+    "movie_financial_summary_domestic_box_office":15187851,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Firestarter",
+    "$_total_box_office":15136870,
+    "movie_financial_summary_domestic_box_office":15136870,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1984
+  },
+  {
+    "movie_display_name":"Freddy Got Fingered",
+    "$_total_box_office":14249005,
+    "movie_financial_summary_domestic_box_office":14249005,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Irreconcilable Differences",
+    "$_total_box_office":12400000,
+    "movie_financial_summary_domestic_box_office":12400000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1984
+  },
+  {
+    "movie_display_name":"Home Fries",
+    "$_total_box_office":10513979,
+    "movie_financial_summary_domestic_box_office":10513979,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":15000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Duplex",
+    "$_total_box_office":10070651,
+    "movie_financial_summary_domestic_box_office":9652000,
+    "movie_financial_summary_international_box_office":418651,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Everybody's Fine",
+    "$_total_box_office":9208876,
+    "movie_financial_summary_domestic_box_office":9208876,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":7431308,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Cat's Eye",
+    "$_total_box_office":9000000,
+    "movie_financial_summary_domestic_box_office":9000000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1985
+  },
+  {
+    "movie_display_name":"Donnie Darko",
+    "$_total_box_office":7696529,
+    "movie_financial_summary_domestic_box_office":1270522,
+    "movie_financial_summary_international_box_office":6426007,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":4500000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Lucky You",
+    "$_total_box_office":6521829,
+    "movie_financial_summary_domestic_box_office":5755286,
+    "movie_financial_summary_international_box_office":766543,
+    "$_domestic_DVD_sales":866070,
+    "movie_financial_summary_production_budget":55000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"See You in the Morning",
+    "$_total_box_office":4795009,
+    "movie_financial_summary_domestic_box_office":4795009,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1989
+  },
+  {
+    "movie_display_name":"Poison Ivy",
+    "$_total_box_office":1829804,
+    "movie_financial_summary_domestic_box_office":1829804,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"No Place to Hide",
+    "$_total_box_office":135000,
+    "movie_financial_summary_domestic_box_office":135000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"Guncrazy",
+    "$_total_box_office":114000,
+    "movie_financial_summary_domestic_box_office":114000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"Far From Home",
+    "$_total_box_office":12000,
+    "movie_financial_summary_domestic_box_office":12000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1989
+  },
+  {
+    "movie_display_name":"Best Men",
+    "$_total_box_office":5000,
+    "movie_financial_summary_domestic_box_office":5000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Grey Gardens",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Blended",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  }
+]

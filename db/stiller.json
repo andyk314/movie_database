@@ -1,0 +1,425 @@
+[
+  {
+    "movie_display_name":"Madagascar 3: Europe's Most Wanted",
+    "$_total_box_office":746921271,
+    "movie_financial_summary_domestic_box_office":216391482,
+    "movie_financial_summary_international_box_office":530529789,
+    "$_domestic_DVD_sales":55581652,
+    "movie_financial_summary_production_budget":145000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Madagascar: Escape 2 Africa",
+    "$_total_box_office":599516844,
+    "movie_financial_summary_domestic_box_office":180010950,
+    "movie_financial_summary_international_box_office":419505894,
+    "$_domestic_DVD_sales":111335726,
+    "movie_financial_summary_production_budget":150000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Night at the Museum",
+    "$_total_box_office":574480841,
+    "movie_financial_summary_domestic_box_office":250863268,
+    "movie_financial_summary_international_box_office":323617573,
+    "$_domestic_DVD_sales":153846042,
+    "movie_financial_summary_production_budget":110000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Madagascar",
+    "$_total_box_office":556559566,
+    "movie_financial_summary_domestic_box_office":193595521,
+    "movie_financial_summary_international_box_office":362964045,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Meet the Fockers",
+    "$_total_box_office":516567575,
+    "movie_financial_summary_domestic_box_office":279167575,
+    "movie_financial_summary_international_box_office":237400000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Night at the Museum: Battle of the Smithsonian",
+    "$_total_box_office":413054631,
+    "movie_financial_summary_domestic_box_office":177243721,
+    "movie_financial_summary_international_box_office":235810910,
+    "$_domestic_DVD_sales":51753477,
+    "movie_financial_summary_production_budget":150000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"There's Something About Mary",
+    "$_total_box_office":360099999,
+    "movie_financial_summary_domestic_box_office":176484651,
+    "movie_financial_summary_international_box_office":183615348,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":22000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Little Fockers",
+    "$_total_box_office":310650574,
+    "movie_financial_summary_domestic_box_office":148438600,
+    "movie_financial_summary_international_box_office":162211974,
+    "$_domestic_DVD_sales":20457663,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Meet the Parents",
+    "$_total_box_office":304599899,
+    "movie_financial_summary_domestic_box_office":166225040,
+    "movie_financial_summary_international_box_office":138374859,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":55000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Tropic Thunder",
+    "$_total_box_office":188163455,
+    "movie_financial_summary_domestic_box_office":110461307,
+    "movie_financial_summary_international_box_office":77702148,
+    "$_domestic_DVD_sales":51266125,
+    "movie_financial_summary_production_budget":90000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"The Secret Life of Walter Mitty",
+    "$_total_box_office":187836838,
+    "movie_financial_summary_domestic_box_office":58236838,
+    "movie_financial_summary_international_box_office":129600000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":91000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Along Came Polly",
+    "$_total_box_office":173044410,
+    "movie_financial_summary_domestic_box_office":88073507,
+    "movie_financial_summary_international_box_office":84970903,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":42000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Starsky & Hutch",
+    "$_total_box_office":170200225,
+    "movie_financial_summary_domestic_box_office":88200225,
+    "movie_financial_summary_international_box_office":82000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Dodgeball: A True Underdog Story",
+    "$_total_box_office":167791704,
+    "movie_financial_summary_domestic_box_office":114326736,
+    "movie_financial_summary_international_box_office":53464968,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Tower Heist",
+    "$_total_box_office":153470352,
+    "movie_financial_summary_domestic_box_office":78046570,
+    "movie_financial_summary_international_box_office":75423782,
+    "$_domestic_DVD_sales":14224682,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"The Heartbreak Kid",
+    "$_total_box_office":127768790,
+    "movie_financial_summary_domestic_box_office":36787257,
+    "movie_financial_summary_international_box_office":90981533,
+    "$_domestic_DVD_sales":12914748,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"The Cable Guy",
+    "$_total_box_office":102825796,
+    "movie_financial_summary_domestic_box_office":60240295,
+    "movie_financial_summary_international_box_office":42585501,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":47000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Anchorman: The Legend of Ron Burgundy",
+    "$_total_box_office":89366354,
+    "movie_financial_summary_domestic_box_office":84136909,
+    "movie_financial_summary_international_box_office":5229445,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"The Royal Tenenbaums",
+    "$_total_box_office":71430876,
+    "movie_financial_summary_domestic_box_office":52353636,
+    "movie_financial_summary_international_box_office":19077240,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":28000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"The Watch",
+    "$_total_box_office":67353000,
+    "movie_financial_summary_domestic_box_office":34353000,
+    "movie_financial_summary_international_box_office":33000000,
+    "$_domestic_DVD_sales":9304123,
+    "movie_financial_summary_production_budget":55000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Zoolander",
+    "$_total_box_office":60780981,
+    "movie_financial_summary_domestic_box_office":45172250,
+    "movie_financial_summary_international_box_office":15608731,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":28000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Keeping the Faith",
+    "$_total_box_office":45336404,
+    "movie_financial_summary_domestic_box_office":37036404,
+    "movie_financial_summary_international_box_office":8300000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":29000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Mystery Men",
+    "$_total_box_office":33462011,
+    "movie_financial_summary_domestic_box_office":29762011,
+    "movie_financial_summary_international_box_office":3700000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":68000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Empire of the Sun",
+    "$_total_box_office":22238696,
+    "movie_financial_summary_domestic_box_office":22238696,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1987
+  },
+  {
+    "movie_display_name":"Reality Bites",
+    "$_total_box_office":20079850,
+    "movie_financial_summary_domestic_box_office":20079850,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Stella",
+    "$_total_box_office":20062347,
+    "movie_financial_summary_domestic_box_office":20062347,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1990
+  },
+  {
+    "movie_display_name":"School for Scoundrels",
+    "$_total_box_office":17807569,
+    "movie_financial_summary_domestic_box_office":17807569,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":13752387,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Heavy Weights",
+    "$_total_box_office":17671310,
+    "movie_financial_summary_domestic_box_office":17671310,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Flirting with Disaster",
+    "$_total_box_office":16149180,
+    "movie_financial_summary_domestic_box_office":14853474,
+    "movie_financial_summary_international_box_office":1295706,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":7000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Next of Kin",
+    "$_total_box_office":15942628,
+    "movie_financial_summary_domestic_box_office":15942628,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1989
+  },
+  {
+    "movie_display_name":"Envy",
+    "$_total_box_office":14566246,
+    "movie_financial_summary_domestic_box_office":13548322,
+    "movie_financial_summary_international_box_office":1017924,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Tenacious D in: The Pick of Destiny",
+    "$_total_box_office":13434575,
+    "movie_financial_summary_domestic_box_office":8334575,
+    "movie_financial_summary_international_box_office":5100000,
+    "$_domestic_DVD_sales":6197776,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Duplex",
+    "$_total_box_office":10070651,
+    "movie_financial_summary_domestic_box_office":9652000,
+    "movie_financial_summary_international_box_office":418651,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"Fresh Horses",
+    "$_total_box_office":6640346,
+    "movie_financial_summary_domestic_box_office":6640346,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1988
+  },
+  {
+    "movie_display_name":"Black and White",
+    "$_total_box_office":5241315,
+    "movie_financial_summary_domestic_box_office":5241315,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":10000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Greenberg",
+    "$_total_box_office":5044262,
+    "movie_financial_summary_domestic_box_office":4234170,
+    "movie_financial_summary_international_box_office":810092,
+    "$_domestic_DVD_sales":501348,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Your Friends and Neighbors",
+    "$_total_box_office":4714658,
+    "movie_financial_summary_domestic_box_office":4714658,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Hot Pursuit",
+    "$_total_box_office":4215859,
+    "movie_financial_summary_domestic_box_office":4215859,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1987
+  },
+  {
+    "movie_display_name":"If Lucy Fell",
+    "$_total_box_office":2410162,
+    "movie_financial_summary_domestic_box_office":2410162,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Zero Effect",
+    "$_total_box_office":2080693,
+    "movie_financial_summary_domestic_box_office":2080693,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":5000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Permanent Midnight",
+    "$_total_box_office":1171001,
+    "movie_financial_summary_domestic_box_office":1171001,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"I'm Still Here",
+    "$_total_box_office":408983,
+    "movie_financial_summary_domestic_box_office":408983,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Marc Pease Experience",
+    "$_total_box_office":394033,
+    "movie_financial_summary_domestic_box_office":4033,
+    "movie_financial_summary_international_box_office":390000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"The Boys: The Sherman Brothers' Story",
+    "$_total_box_office":55513,
+    "movie_financial_summary_domestic_box_office":55513,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Highway to Hell",
+    "$_total_box_office":26000,
+    "movie_financial_summary_domestic_box_office":26000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1992
+  },
+  {
+    "movie_display_name":"The Suburbands",
+    "$_total_box_office":5797,
+    "movie_financial_summary_domestic_box_office":5797,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Night at the Museum 3",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  }
+]

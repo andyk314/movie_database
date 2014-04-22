@@ -1,0 +1,317 @@
+[
+  {
+    "movie_display_name":"The Lost World: Jurassic Park",
+    "$_total_box_office":786686679,
+    "movie_financial_summary_domestic_box_office":229086679,
+    "movie_financial_summary_international_box_office":557600000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Mr. And Mrs. Smith",
+    "$_total_box_office":478336279,
+    "movie_financial_summary_domestic_box_office":186336279,
+    "movie_financial_summary_international_box_office":292000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":110000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"The Wedding Crashers",
+    "$_total_box_office":283218368,
+    "movie_financial_summary_domestic_box_office":209218368,
+    "movie_financial_summary_international_box_office":74000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":40000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"The Break Up",
+    "$_total_box_office":202944203,
+    "movie_financial_summary_domestic_box_office":118806699,
+    "movie_financial_summary_international_box_office":84137504,
+    "$_domestic_DVD_sales":52932721,
+    "movie_financial_summary_production_budget":52000000,
+    "movie_production_year":2006
+  },
+  {
+    "movie_display_name":"Couples Retreat",
+    "$_total_box_office":172450423,
+    "movie_financial_summary_domestic_box_office":109205660,
+    "movie_financial_summary_international_box_office":63244763,
+    "$_domestic_DVD_sales":38928941,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Starsky & Hutch",
+    "$_total_box_office":170200225,
+    "movie_financial_summary_domestic_box_office":88200225,
+    "movie_financial_summary_international_box_office":82000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Dodgeball: A True Underdog Story",
+    "$_total_box_office":167791704,
+    "movie_financial_summary_domestic_box_office":114326736,
+    "movie_financial_summary_international_box_office":53464968,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Four Christmases",
+    "$_total_box_office":163546040,
+    "movie_financial_summary_domestic_box_office":120146040,
+    "movie_financial_summary_international_box_office":43400000,
+    "$_domestic_DVD_sales":28376218,
+    "movie_financial_summary_production_budget":80000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Fred Claus",
+    "$_total_box_office":97837638,
+    "movie_financial_summary_domestic_box_office":72006777,
+    "movie_financial_summary_international_box_office":25830861,
+    "$_domestic_DVD_sales":33959072,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Be Cool",
+    "$_total_box_office":94944017,
+    "movie_financial_summary_domestic_box_office":55849401,
+    "movie_financial_summary_international_box_office":39094616,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":75000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"The Internship",
+    "$_total_box_office":93672764,
+    "movie_financial_summary_domestic_box_office":44672764,
+    "movie_financial_summary_international_box_office":49000000,
+    "$_domestic_DVD_sales":5664860,
+    "movie_financial_summary_production_budget":58000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Anchorman: The Legend of Ron Burgundy",
+    "$_total_box_office":89366354,
+    "movie_financial_summary_domestic_box_office":84136909,
+    "movie_financial_summary_international_box_office":5229445,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":25000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Old School",
+    "$_total_box_office":86325829,
+    "movie_financial_summary_domestic_box_office":75155000,
+    "movie_financial_summary_international_box_office":11170829,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":24000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"The Cell",
+    "$_total_box_office":85911226,
+    "movie_financial_summary_domestic_box_office":61280963,
+    "movie_financial_summary_international_box_office":24630263,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":35000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"The Dilemma",
+    "$_total_box_office":70546865,
+    "movie_financial_summary_domestic_box_office":48475290,
+    "movie_financial_summary_international_box_office":22071575,
+    "$_domestic_DVD_sales":6939361,
+    "movie_financial_summary_production_budget":70000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"The Watch",
+    "$_total_box_office":67353000,
+    "movie_financial_summary_domestic_box_office":34353000,
+    "movie_financial_summary_international_box_office":33000000,
+    "$_domestic_DVD_sales":9304123,
+    "movie_financial_summary_production_budget":55000000,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Into the Wild",
+    "$_total_box_office":56395211,
+    "movie_financial_summary_domestic_box_office":18354356,
+    "movie_financial_summary_international_box_office":38040855,
+    "$_domestic_DVD_sales":15652974,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Domestic Disturbance",
+    "$_total_box_office":54207112,
+    "movie_financial_summary_domestic_box_office":45207112,
+    "movie_financial_summary_international_box_office":9000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":53000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Psycho",
+    "$_total_box_office":37226218,
+    "movie_financial_summary_domestic_box_office":21541218,
+    "movie_financial_summary_international_box_office":15685000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Delivery Man",
+    "$_total_box_office":36418006,
+    "movie_financial_summary_domestic_box_office":30659817,
+    "movie_financial_summary_international_box_office":5758189,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":22000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Rudy",
+    "$_total_box_office":22750363,
+    "movie_financial_summary_domestic_box_office":22750363,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1993
+  },
+  {
+    "movie_display_name":"For the Boys",
+    "$_total_box_office":17684580,
+    "movie_financial_summary_domestic_box_office":17684580,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1991
+  },
+  {
+    "movie_display_name":"Paparazzi",
+    "$_total_box_office":16612072,
+    "movie_financial_summary_domestic_box_office":15712072,
+    "movie_financial_summary_international_box_office":900000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Return to Paradise",
+    "$_total_box_office":8352677,
+    "movie_financial_summary_domestic_box_office":8352677,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Swingers",
+    "$_total_box_office":6542637,
+    "movie_financial_summary_domestic_box_office":4505922,
+    "movie_financial_summary_international_box_office":2036715,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":200000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"Made",
+    "$_total_box_office":5476060,
+    "movie_financial_summary_domestic_box_office":5308707,
+    "movie_financial_summary_international_box_office":167353,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":5000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"Clay Pigeons",
+    "$_total_box_office":2256606,
+    "movie_financial_summary_domestic_box_office":1793359,
+    "movie_financial_summary_international_box_office":463247,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":8000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Thumbsucker",
+    "$_total_box_office":1919197,
+    "movie_financial_summary_domestic_box_office":1328679,
+    "movie_financial_summary_international_box_office":590518,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":4000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Vince Vaughn's Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland",
+    "$_total_box_office":603894,
+    "movie_financial_summary_domestic_box_office":603894,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"The Locusts",
+    "$_total_box_office":37888,
+    "movie_financial_summary_domestic_box_office":37888,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"South of Heaven, West of Hell",
+    "$_total_box_office":26357,
+    "movie_financial_summary_domestic_box_office":26357,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Lay the Favorite",
+    "$_total_box_office":20998,
+    "movie_financial_summary_domestic_box_office":20998,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"I Love Your Work",
+    "$_total_box_office":3264,
+    "movie_financial_summary_domestic_box_office":3264,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":1600000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"The H-Man Cometh",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Untitled Vince Vaughn Movie",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  }
+]

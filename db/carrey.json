@@ -1,0 +1,326 @@
+[
+  {
+    "movie_display_name":"Bruce Almighty",
+    "$_total_box_office":483473962,
+    "movie_financial_summary_domestic_box_office":242704995,
+    "movie_financial_summary_international_box_office":240768967,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":81000000,
+    "movie_production_year":2003
+  },
+  {
+    "movie_display_name":"The Mask",
+    "$_total_box_office":351620129,
+    "movie_financial_summary_domestic_box_office":119920129,
+    "movie_financial_summary_international_box_office":231700000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":18000000,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"How the Grinch Stole Christmas",
+    "$_total_box_office":345141403,
+    "movie_financial_summary_domestic_box_office":260044825,
+    "movie_financial_summary_international_box_office":85096578,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":123000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Batman Forever",
+    "$_total_box_office":336529144,
+    "movie_financial_summary_domestic_box_office":184031112,
+    "movie_financial_summary_international_box_office":152498032,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Disney's A Christmas Carol",
+    "$_total_box_office":323743744,
+    "movie_financial_summary_domestic_box_office":137855863,
+    "movie_financial_summary_international_box_office":185887881,
+    "$_domestic_DVD_sales":37357014,
+    "movie_financial_summary_production_budget":190000000,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Liar Liar",
+    "$_total_box_office":302710615,
+    "movie_financial_summary_domestic_box_office":181410615,
+    "movie_financial_summary_international_box_office":121300000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":45000000,
+    "movie_production_year":1997
+  },
+  {
+    "movie_display_name":"Horton Hears a Who",
+    "$_total_box_office":297133947,
+    "movie_financial_summary_domestic_box_office":154529439,
+    "movie_financial_summary_international_box_office":142604508,
+    "$_domestic_DVD_sales":77146113,
+    "movie_financial_summary_production_budget":85000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"The Truman Show",
+    "$_total_box_office":248400000,
+    "movie_financial_summary_domestic_box_office":125618201,
+    "movie_financial_summary_international_box_office":122781799,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":60000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"Dumb & Dumber",
+    "$_total_box_office":246400000,
+    "movie_financial_summary_domestic_box_office":127175374,
+    "movie_financial_summary_international_box_office":119224626,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":16000000,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"Yes Man",
+    "$_total_box_office":225990976,
+    "movie_financial_summary_domestic_box_office":97690976,
+    "movie_financial_summary_international_box_office":128300000,
+    "$_domestic_DVD_sales":27473318,
+    "movie_financial_summary_production_budget":50000000,
+    "movie_production_year":2008
+  },
+  {
+    "movie_display_name":"Ace Ventura: When Nature Calls",
+    "$_total_box_office":212400000,
+    "movie_financial_summary_domestic_box_office":108360063,
+    "movie_financial_summary_international_box_office":104039937,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":30000000,
+    "movie_production_year":1995
+  },
+  {
+    "movie_display_name":"Fun With Dick And Jane",
+    "$_total_box_office":201798116,
+    "movie_financial_summary_domestic_box_office":110550000,
+    "movie_financial_summary_international_box_office":91248116,
+    "$_domestic_DVD_sales":29860874,
+    "movie_financial_summary_production_budget":140000000,
+    "movie_production_year":2005
+  },
+  {
+    "movie_display_name":"Lemony Snicket's A Series of Unfortunate Events",
+    "$_total_box_office":201627117,
+    "movie_financial_summary_domestic_box_office":118627117,
+    "movie_financial_summary_international_box_office":83000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":100000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Mr. Poppers's Penguins",
+    "$_total_box_office":189624452,
+    "movie_financial_summary_domestic_box_office":68224452,
+    "movie_financial_summary_international_box_office":121400000,
+    "$_domestic_DVD_sales":21685717,
+    "movie_financial_summary_production_budget":55000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Me, Myself & Irene",
+    "$_total_box_office":149270999,
+    "movie_financial_summary_domestic_box_office":90570999,
+    "movie_financial_summary_international_box_office":58700000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":51000000,
+    "movie_production_year":2000
+  },
+  {
+    "movie_display_name":"Ace Ventura: Pet Detective",
+    "$_total_box_office":107217396,
+    "movie_financial_summary_domestic_box_office":72217396,
+    "movie_financial_summary_international_box_office":35000000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":12000000,
+    "movie_production_year":1994
+  },
+  {
+    "movie_display_name":"The Cable Guy",
+    "$_total_box_office":102825796,
+    "movie_financial_summary_domestic_box_office":60240295,
+    "movie_financial_summary_international_box_office":42585501,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":47000000,
+    "movie_production_year":1996
+  },
+  {
+    "movie_display_name":"The Number 23",
+    "$_total_box_office":77593167,
+    "movie_financial_summary_domestic_box_office":35193167,
+    "movie_financial_summary_international_box_office":42400000,
+    "$_domestic_DVD_sales":27859314,
+    "movie_financial_summary_production_budget":32000000,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Eternal Sunshine of the Spotless Mind",
+    "$_total_box_office":72993444,
+    "movie_financial_summary_domestic_box_office":34366518,
+    "movie_financial_summary_international_box_office":38626926,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":2004
+  },
+  {
+    "movie_display_name":"Kick-Ass 2",
+    "$_total_box_office":63297114,
+    "movie_financial_summary_domestic_box_office":28795985,
+    "movie_financial_summary_international_box_office":34501129,
+    "$_domestic_DVD_sales":5806200,
+    "movie_financial_summary_production_budget":28000000,
+    "movie_production_year":2013
+  },
+  {
+    "movie_display_name":"Under the Sea 3D",
+    "$_total_box_office":48171385,
+    "movie_financial_summary_domestic_box_office":36671385,
+    "movie_financial_summary_international_box_office":11500000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2009
+  },
+  {
+    "movie_display_name":"Man on the Moon",
+    "$_total_box_office":47407635,
+    "movie_financial_summary_domestic_box_office":34580635,
+    "movie_financial_summary_international_box_office":12827000,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":52000000,
+    "movie_production_year":1999
+  },
+  {
+    "movie_display_name":"Peggy Sue Got Married",
+    "$_total_box_office":41382841,
+    "movie_financial_summary_domestic_box_office":41382841,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":18000000,
+    "movie_production_year":1986
+  },
+  {
+    "movie_display_name":"The Dead Pool",
+    "$_total_box_office":37903000,
+    "movie_financial_summary_domestic_box_office":37903000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1988
+  },
+  {
+    "movie_display_name":"The Majestic",
+    "$_total_box_office":37306334,
+    "movie_financial_summary_domestic_box_office":27796042,
+    "movie_financial_summary_international_box_office":9510292,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":72000000,
+    "movie_production_year":2001
+  },
+  {
+    "movie_display_name":"The Incredible Burt Wonderstone",
+    "$_total_box_office":24255957,
+    "movie_financial_summary_domestic_box_office":22537881,
+    "movie_financial_summary_international_box_office":1718076,
+    "$_domestic_DVD_sales":3176107,
+    "movie_financial_summary_production_budget":32000000,
+    "movie_production_year":2012
+  },
+  {
+    "movie_display_name":"Simon Birch",
+    "$_total_box_office":18310591,
+    "movie_financial_summary_domestic_box_office":18253415,
+    "movie_financial_summary_international_box_office":57176,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":20000000,
+    "movie_production_year":1998
+  },
+  {
+    "movie_display_name":"I Love You, Phillip Morris",
+    "$_total_box_office":15144685,
+    "movie_financial_summary_domestic_box_office":2037459,
+    "movie_financial_summary_international_box_office":13107226,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":13000000,
+    "movie_production_year":2010
+  },
+  {
+    "movie_display_name":"Pink Cadillac",
+    "$_total_box_office":12143484,
+    "movie_financial_summary_domestic_box_office":12143484,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1989
+  },
+  {
+    "movie_display_name":"Once Bitten",
+    "$_total_box_office":9917242,
+    "movie_financial_summary_domestic_box_office":9917242,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1985
+  },
+  {
+    "movie_display_name":"Earth Girls are Easy",
+    "$_total_box_office":3916303,
+    "movie_financial_summary_domestic_box_office":3916303,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1989
+  },
+  {
+    "movie_display_name":"Finders Keepers",
+    "$_total_box_office":1500000,
+    "movie_financial_summary_domestic_box_office":1500000,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":1984
+  },
+  {
+    "movie_display_name":"Conan O'Brien Can't Stop",
+    "$_total_box_office":267965,
+    "movie_financial_summary_domestic_box_office":267965,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Certifiably Jonathan",
+    "$_total_box_office":7826,
+    "movie_financial_summary_domestic_box_office":7826,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2007
+  },
+  {
+    "movie_display_name":"Ripley's Believe It or Not!",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2011
+  },
+  {
+    "movie_display_name":"Dumb and Dumber To",
+    "$_total_box_office":0,
+    "movie_financial_summary_domestic_box_office":0,
+    "movie_financial_summary_international_box_office":0,
+    "$_domestic_DVD_sales":null,
+    "movie_financial_summary_production_budget":0,
+    "movie_production_year":2014
+  }
+]
