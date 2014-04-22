@@ -13,7 +13,15 @@
  */
 
 nav {
-  padding: 24px !important;
+/*  padding: 0px 24px !important;
+  padding-bottom: 10px !important;*/
+  background-color: black;
+  height: 20%;
+}
+
+input#filter.text-input{
+  background-color: black;
+  color: white;
 }
 
 .pictureframe {
@@ -29,12 +37,12 @@ nav {
 .logo {
   transition: 0.3s ease !important;
   color: white !important;
-  font-size: 24px !important;
+  font-size: 20px !important;
   text-decoration: none !important;
   border-top: 4px solid #0b9eb9 !important;
   border-bottom: 4px solid #0b9eb9 !important;
   padding: 20px 0 !important;
-  margin: 0 20px !important;
+  margin: 10px 20px !important;
 }
 
 .logo:hover {
@@ -48,9 +56,6 @@ img {
   width: 100%;
 }
 
-body { 
-  background: #0b9eb9 !important;
-}
 
 aside {
   height: 340px;
@@ -64,7 +69,7 @@ aside {
   color: white;
   background-color: #ffb309;
   border: 6px solid white;
-  border-radius: 10px;
+  /*border-radius: 10px;*/
 }
 
 section {
@@ -73,7 +78,7 @@ section {
   color: white;
   background-color: #ff5847;
   border: 6px solid white;
-  border-radius: 10px;
+  /*border-radius: 10px;*/
 
 }
 
@@ -114,7 +119,7 @@ figcaption {
   margin-left: 15%;
   margin-bottom: 15%;
   border: 6px solid white;
-  border-radius: 10px;
+  /*border-radius: 10px;*/
   width: 17%;
 }
 

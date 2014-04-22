@@ -1,4 +1,15 @@
 <nav>
   <%= link_to 'ActDat', root_path, class: "logo"%>
-<div class="nav navbar-nav navbar-right" id="ad_logo"><%= link_to image_tag('adlogo.png') %></div>
+
+	<div id="searchbar">
+	    <%= form_tag actors_path, method: 'post', id: "live-search", class: "styled" do %>
+	    <%= text_field_tag :search, params[:search], placeholder: "Search by Actor Name!", class: "text-input",
+	     id: "filter" %>
+	    <span id="filter-count"></span>
+	    <% end %>
+	</div>
+
+	<div class="nav navbar-nav navbar-right" id="ad_logo"><%= link_to image_tag('adlogo.png') %></div>
+
 </nav>
+
