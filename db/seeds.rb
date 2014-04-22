@@ -47,7 +47,7 @@ actors = [
   { "id"=>13240, "json"=>"wahlberg.json", "quote"=>"Quote" },
   { "id"=>18918, "json"=>"dwayne.json", "quote"=>"Quote" },
   { "id"=>, "json"=>"ben.json", "quote"=>"I need your help. I can't tell you what it is, you can never ask me about it later, and we're gonna hurt some people."  },
-  { "id"=>, "json"=>"vince.json", "quote"=> },
+  { "id"=>, "json"=>"vince.json", "quote"=>"Quote" },
   { "id"=>, "json"=>"travolta.json", "quote"=> "Misdirection. What the eyes see and the ears hear, the mind believes." },
   { "id"=>, "json"=>"stiller.json", "quote"=> "I'm pretty sure there's a lot more to life than being really, really, ridiculously good looking. And I plan on finding out what that is." 
 },
