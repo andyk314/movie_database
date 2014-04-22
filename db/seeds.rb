@@ -46,18 +46,18 @@ actors = [
   { "id"=>38673, "json"=>"channing.json", "quote"=>"Quote" },
   { "id"=>13240, "json"=>"wahlberg.json", "quote"=>"Quote" },
   { "id"=>18918, "json"=>"dwayne.json", "quote"=>"Quote" },
-  { "id"=>, "json"=>"ben.json", "quote"=>"I need your help. I can't tell you what it is, you can never ask me about it later, and we're gonna hurt some people."  },
-  { "id"=>, "json"=>"vince.json", "quote"=>"Quote" },
-  { "id"=>, "json"=>"travolta.json", "quote"=> "Misdirection. What the eyes see and the ears hear, the mind believes." },
-  { "id"=>, "json"=>"stiller.json", "quote"=> "I'm pretty sure there's a lot more to life than being really, really, ridiculously good looking. And I plan on finding out what that is." 
+  { "id"=>880, "json"=>"ben.json", "quote"=>"I need your help. I can't tell you what it is, you can never ask me about it later, and we're gonna hurt some people."  },
+  { "id"=>4937, "json"=>"vince.json", "quote"=>"Quote" },
+  { "id"=>8891, "json"=>"travolta.json", "quote"=> "Misdirection. What the eyes see and the ears hear, the mind believes." },
+  { "id"=>7399, "json"=>"stiller.json", "quote"=> "I'm pretty sure there's a lot more to life than being really, really, ridiculously good looking. And I plan on finding out what that is." 
 },
-  { "id"=>, "json"=>"streep.json", "quote"=> "That is what we do. That is what people do. They stay alive for each other." },
-  { "id"=>, "json"=>"sandler.json", "quote"=> "It's hard to soar with the eagles when you're surrounded by turkeys." 
+  { "id"=>5064, "json"=>"streep.json", "quote"=> "That is what we do. That is what people do. They stay alive for each other." },
+  { "id"=>19292, "json"=>"sandler.json", "quote"=> "It's hard to soar with the eagles when you're surrounded by turkeys." 
 },
-  { "id"=>, "json"=>"jolie.json", "quote"=>"Happy endings are just stories that haven't finished yet." },
-  { "id"=>, "json"=>"barrymore.json", "quote"=>"At what point do you say to yourself, I'm counting on you to be the one, and I have no fall back plan?"  },
-  { "id"=>, "json"=>"cage.json", "quote"=>"He may have my soul, but he doesn't have my spirit."  },
-  { "id"=>, "json"=>"carrey.json", "quote"=>"All righty then."  }
+  { "id"=>11701, "json"=>"jolie.json", "quote"=>"Happy endings are just stories that haven't finished yet." },
+  { "id"=>69597, "json"=>"barrymore.json", "quote"=>"At what point do you say to yourself, I'm counting on you to be the one, and I have no fall back plan?"  },
+  { "id"=>2963, "json"=>"cage.json", "quote"=>"He may have my soul, but he doesn't have my spirit."  },
+  { "id"=>206, "json"=>"carrey.json", "quote"=>"All righty then."  }
 ]
 
 
