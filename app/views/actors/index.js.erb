@@ -1,14 +1,17 @@
 // Actor search
 <% if params[:search] %>
-  $(".pagination").html('<%= j render partial: "actors" %>');
+  $("#actors-search-section").html('<%= j render partial: "actors_search_section" %>');
 <% end %>
 
 // Endless scroll pagination
-//alert('index.js.erb');
-$('#actors').append('<%= j render partial: "actor" %>');
-<% if @actors_pagination.next_page %>
-  $('.pagination').replaceWith('<%= j will_paginate(@actors_pagination ) %>');
-<% else %>
-  $(window).off('scroll');
-  $('.pagination').remove();
+<% if params[:page] %>
+	$('#actors-search-section').append('<%= j render partial: "actors_search_section" %>');
+	<% if @actors.next_page %>
+	  $('.pagination').replaceWith('<%= j will_paginate(@actors) %>');
+	<% else %>
+	  // $(window).off('scroll');
+	  $('.pagination').remove();
+	<% end %>
+	<% sleep 1 %>
 <% end %>
+

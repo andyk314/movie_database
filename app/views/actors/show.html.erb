@@ -1,4 +1,6 @@
-
+<!------ D3 and Tips Scripts ---------->
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script> <!-- bringing in d3 -->
+    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <%= render 'nav_show' %>
 
 <h3 class="actornameshow"><%= @actor.name.upcase %></h3>
@@ -24,15 +26,15 @@
   <aside>
     <ol>
       <h3 class="list_header">Top Fresh Movies</h3>
-      <li><p><%= @newest[0].title %> - <%#= @newest[0].freshness %>%</p></li>
-      <li><p><%= @newest[1].title %> - <%#= @newest[1].freshness %>%</p></li>
-      <li><p><%= @newest[2].title %> - <%#= @newest[2].freshness %>%</p></li>
+      <li><p><%= @fresh[0].title %> - <%#= @fresh[0].freshness %>%</p></li>
+      <li><p><%= @fresh[1].title %> - <%#= @fresh[1].freshness %>%</p></li>
+      <li><p><%= @fresh[2].title %> - <%#= @fresh[2].freshness %>%</p></li>
     </ol>
     <ol>
       <h3 class="list_header">Bottom Rotten Movies</h3>
-      <li><p><%= @oldest[0].title %> - <%#= @oldest[0].freshness %>%</p></li>
-      <li><p><%= @oldest[1].title %> - <%#= @oldest[1].freshness %>%</p></li>
-      <li><p><%= @oldest[2].title %> - <%#= @oldest[2].freshness %>%</p></li>
+      <li><p><%= @rotten[0].title %> - <%#= @rotten[0].freshness %>%</p></li>
+      <li><p><%= @rotten[1].title %> - <%#= @rotten[1].freshness %>%</p></li>
+      <li><p><%= @rotten[2].title %> - <%#= @rotten[2].freshness %>%</p></li>
     </ol>
   </aside>
 </div>
@@ -58,14 +60,14 @@
 <div class="pie_chart">
   <h2 class="budget_header">Movie Budgets</h2>
 </div>
-<div class="budget_btns">
+<!-- <div class="budget_btns">
   <div class="radio">
     <input type="radio" name="dataset" value="topData" checked><label>Highest Budget</label>
   </div>
   <div class="radio">
     <input type="radio" name="dataset" value="botData"><label>Lowest Budget</label>
   </div>
-</div>
+</div> -->
 
 <script>
 window.d3_url = '<%= actor_path(@actor, format: 'json') %>';

@@ -1,0 +1,33 @@
+<div class="row" id="actors-search-section">
+	<!-- Start actor display -->
+  	<% @actors.each do |actor| %>
+    <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12 card">
+    	<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+    		<div class="flipper">
+    			<div class="front">
+	    			<!-- front content -->
+	    			<div class="actor-profile">
+				        <a href="<%=actor_path(actor)%>"><img class="pictureframe" src="http://image.tmdb.org/t/p/original<%= actor.picture %>" alt="<%= actor.name %>" /><% actor_path(actor) %></a>
+				    </div>
+
+			 			<div class="actor-profile-content">
+			 				<h4><%= actor.name %></h4>
+	
+			 			</div>
+			 		</div>
+			 		<div class = "back">
+			 			<div class="actor-profile-header">
+			 				<h4><%= link_to actor.name, actor_path(actor) %></h4>
+			 			</div>
+			 				<p>Age: <%= Time.now.year - Date.strptime(actor.birthdate).year %></p>
+			 				<!-- back content -->
+
+			 				<p><%= truncate(actor.bio, length: 200, omission: '...(more)') %></p>	
+
+			 	</div>
+			</div>
+		</div>
+	</div>
+	<!-- End of actors display -->	
+	 <% end %>
+</div>

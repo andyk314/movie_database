@@ -24,7 +24,7 @@ input#filter.text-input{
   color: white;
 }
 
-.pictureframe {
+/*.pictureframe {
   transition: 0.3s ease;
   border: 10px solid white;
   border-radius: 10px;
@@ -32,7 +32,7 @@ input#filter.text-input{
 
 .pictureframe:hover {
   border: 1px solid lightgrey;
-}
+}*/
 
 .logo {
   transition: 0.3s ease !important;
@@ -51,10 +51,10 @@ input#filter.text-input{
   padding: 6px 0 !important;
 }
 
-
+/*
 img {
   width: 100%;
-}
+}*/
 
 
 aside {
@@ -180,7 +180,7 @@ figcaption {
 }
 
 #navbar {
-  background-color: transparent;
+  background-color: blac;
   border: none;
 }
 

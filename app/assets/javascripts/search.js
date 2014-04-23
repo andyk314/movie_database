@@ -1,12 +1,15 @@
+console.log('test');
 $(document).ready(function(){
-  $("#filter").keyup(function(){
+  $("#search").keyup(function(){
+  	console.log('test2');
 
     // Retrieve the input field text and reset the count to zero
     var filter = $(this).val(), count = 0;
 
     // Loop through the comment list
     // $(".commentlist li").each(function(){
-    $("figure").each(function(){
+    $(".card").each(function(){
+    	console.log('test3')
 
       // If the list item does not contain the text phrase fade it out
       if ($(this).text().search(new RegExp(filter, "i")) < 0) {
@@ -18,4 +21,4 @@ $(document).ready(function(){
       }
     });
   });
-});
+}); 

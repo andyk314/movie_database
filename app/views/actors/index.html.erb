@@ -1,14 +1,104 @@
+<style type="text/css">
+	nav {
+		padding-bottom: 10px;
+	}
+	#logo {
+		color: white;
+	}
+	#ad-logo img {
+		height: 50px;
+		width: 50px;
+	}
 
-<div><%= render 'nav' %></div>
+	#searchbar {
+		margin-top: 5%;
+	}
+
+	input#search{
+		color: white;
+		background-color: transparent;
+	}
+
+	#ad-logo {
+		margin-top: 5%;
+	}
+		
+	input#search {text-align: center}
+
+	#actor_dis {
+		padding-top: 20px;
+	}
+
+
+</style>
+
+<nav>
+	<div class="container-fluid">
+		<div class="row">
+			<!-- logo -->
+			<div class="col-md-3 col-sm-3 col-xs-12 text-center">
+				<h1 id="logo"> ActDat</h1>
+			</div>
+
+			<div class="col-md-6 col-sm-6 col-xs-12 text-center">
+			    <!-- search box here -->
+			    <div id="searchbar">
+				    <%= form_tag actors_path, method: 'get', id: 'search_box' do %>
+				      <%= text_field_tag :search, params[:search], placeholder: "Search Actors" %>
+				    <% end %>
+			    </div>
+			</div>
+
+			<!-- second logo -->
+
+			<div class="col-md-3 col-sm-3 col-xs-12 text-center">
+				<div id="ad-logo"><%= link_to image_tag('adlogo.png') %></div>
+			</div>
+
+		</div>
+	</div>
+
+
+</nav>
+
+<div id="actor_dis">
+<div class="container">
+	<div class="col-md-12 col-lg-12 col-sm-12" id="profiles-panel">
+    <!-- Actors search section -->
+    <%= render partial: 'actors_search_section' %>
+
+  </div>
+</div>
+
+
+<%= will_paginate @actors %>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!------
+
+<div><%#= render 'nav' %></div>
 
 <div id="actors">
   
-  <%= render 'actor' %>
+  <%#= render 'actor' %>
 
 </div>
 
 <div class="pagination"> 
-  <%= will_paginate @actors_pagination %>
+  <#%= will_paginate @actors_pagination %>
 </div>
 <script type="text/javascript">
 $('img').insetBorder({
@@ -18,3 +108,6 @@ $('img').insetBorder({
   borderType : 'solid'
 });
 </script>
+
+
+-->
